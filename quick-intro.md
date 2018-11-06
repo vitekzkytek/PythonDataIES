@@ -8,3 +8,5 @@
 4) Type `git clone [link]` (without brackets).
 Hurray, you downloaded your very first GitHub repo
 5) Go to your git directory, i.e. type `cd [projectName]`
+6) Type `jupyter notebook` in your command shell.
+Your Jupyter should be running on [localhost:8888](http:\\localhost:8888)

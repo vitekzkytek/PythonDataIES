@@ -1,4 +1,4 @@
-# Data Processing in Python Course
+# Data Processing in Python Course (IES)
 The course site for the Data Processing in Python from IES.
 
 The course requirements are available [here](/requirements.md)

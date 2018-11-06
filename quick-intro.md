@@ -1,4 +1,4 @@
-# Quick set-up of Jupyter and Github
+# Quick set-up of Jupyter and GitHub
 
 0) Install latest [Anaconda](https://www.anaconda.com/download/) and [GitHub](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on your computer
 

@@ -24,13 +24,18 @@ The students will be able to download the data from APIs or directly from the we
 
 # Sources
 [Python documentation]
+
 [Pandas documentation]
+
 [requests documentation]
-[BeautifulSoup documentation] 
+
+[BeautifulSoup documentation]
+
 [Matplotlib documentation]
 
 ### Helping sources:
 [DataCamp]()
+
 [CodeAcademy]() 
 
 # Credits
@@ -44,7 +49,8 @@ Jupyter and GitHub is available [here](/quick-intro.md)
 
 | Week | Topic           | Deadline | TA | Resources |
 |------|-----------------|----------|----|--|
-| 1    | Introduction (syntax, OOP)| HW announcement| Vítek Macháček |[GitHub and Jupyter](/quick-intro.md) |
+| 0    | Installing | beginning| students| [GitHub and Jupyter](/quick-intro.md)|
+| 1    | Introduction (syntax, OOP)| HW announcement| Vítek Macháček | |
 | 2    | Data Format (CSV,JSON,XML)   |  | Martin Hronec  |  |
 | 3    | API (requests, BeautifulSoup) | | Vítek Macháček|  |
 | 4    | Numpy  + GitHub | HW submisson | Martin Hronec|  |

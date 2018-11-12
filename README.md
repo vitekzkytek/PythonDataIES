@@ -2,20 +2,32 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/).
 
 # Course description
-The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also gathering of data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding technologies such as *GitHub*, *Jupyter* and *Open Data*.
+The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also gathering of data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding and open-source technologies such as *GitHub*, *Jupyter* and *Open Data*.
 
 The students will gain their experience using the data from the IES website and Evaluation protocols.
 
 ## Learning outcomes
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
 
+## Prerequisities
+The course is only for master students or Econometrics I. can be set as an explicit prerequisity.
+
+An implicit prerequisity for us, that the student have already experienced 
+
+
 ## Sources
-Documentation of [Python](https://docs.python.org/3/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Numpy](https://docs.scipy.org/doc/), [requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Matplotlib](https://matplotlib.org/).
+### Documentations
+[Python](https://docs.python.org/3/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Numpy](https://docs.scipy.org/doc/), [requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Matplotlib](https://matplotlib.org/).
 
-### Helping sources:
-[DataCamp]()
+### Tutorials
+[LearnPython](https://www.learnpython.org/)
 
-[CodeAcademy]() 
+[Learn Python on CodeAcademy](https://www.codecademy.com/learn/learn-python)
+
+[Pandas](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+
+[Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
+
 
 ## Credits
 Passing the course will be rewarded with 6 ECTS credits
@@ -38,16 +50,14 @@ The final project should fulfill the following criteria:
 6. The project should contain the commented ready-to-run data download method.
 
 
+# Our materials
+Jupyter and GitHub intro [here](/quick-intro.md)
 
-# Credits
-6 ECTS
-
-
-
-
-Jupyter and GitHub is available [here](/quick-intro.md)
+The Jupyter notebook with [IES web parser](/IES_web.ipynb) 
 
 
+
+# Course syllabus
 | Week | Topic           | Deadline | TA | Resources |
 |------|-----------------|----------|----|--|
 | 0    | Installing | beginning| students| [GitHub and Jupyter](/quick-intro.md)|

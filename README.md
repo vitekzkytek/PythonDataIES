@@ -20,16 +20,17 @@ The course requirements are available [here](/requirements.md)
 A quick guide to for setting up Jupyter and GitHub is available [here](/quick-intro.md)
 
 
-| Week | Topic           | Deadline |
-|------|-----------------|----------|
-| 1    | Introduction (syntax, OOP)    | |
-| 2    | Data Format (CSV,JSON,XML)     | |
-| 3    | API (requests, BeautifulSoup)  | |
-| 4    | Numpy  + GitHub         |  |
-| 5    | Pandas          | + Project proposal |
-| 6    | Matplotlib    |  |
-| 7    | Advanced Pandas  | + Project approval |
-| 8    | Bokeh |   |
-| 9    | Project Work 1 |  |
-| 10   | Project Work 2 |  |
-| 11   | Introduction to SQL|  |
+| Week | Topic           | Deadline | TA |
+|------|-----------------|----------|----|
+| 1    | Introduction (syntax, OOP)| Vítek Macháček |
+| 2    | Data Format (CSV,JSON,XML)     | Martin Hronec  |
+| 3    | API (requests, BeautifulSoup)  | Vítek Macháček|
+| 4    | Numpy  + GitHub  | Martin Hronec|
+| 5    | Pandas          | + Project proposal | Vítek Macháček |
+| 6    | Matplotlib + visualization good practices |        |  Martin Hronec|
+| 7    | Advanced Pandas  | + Project approval | Martin Hronec  |
+| 8    | Bokeh | | Vítek Macháček |
+| 9    | Project Work 1 |     | Martin Hronec |
+| 10   | Project Work 2 |     | Vítek Macháček|
+| 11   | Introduction to SQL|  |  Vítek Macháček|
+| 12   | Improving efficiency |  | Martin Hronec |

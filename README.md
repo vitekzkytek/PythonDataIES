@@ -30,7 +30,7 @@ A quick guide to for setting up Jupyter and GitHub is available [here](/quick-in
 | 6    | Matplotlib + visualization good practices |        |  Martin Hronec|
 | 7    | Advanced Pandas  | + Project approval | Martin Hronec  |
 | 8    | Bokeh | | Vítek Macháček |
-| 9    | Project Work 1 |     | Martin Hronec |
-| 10   | Project Work 2 |     | Vítek Macháček|
-| 11   | Introduction to SQL|  |  Vítek Macháček|
-| 12   | Improving efficiency |  | Martin Hronec |
+| 9    | Introduction to SQL |     | Martin Hronec |
+| 10   | Improving efficiency |     | Vítek Macháček|
+| 11   | Project Work 1|  |  Vítek Macháček|
+| 12   | Project Work 2 |  | Martin Hronec |

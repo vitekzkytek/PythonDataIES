@@ -10,21 +10,12 @@ The students will gain their experience using the data from the IES website and 
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
 
 ## Sources
-[Python documentation](https://docs.python.org/3/)
-
-[Pandas documentation]()
-
-[requests documentation]
-
-[BeautifulSoup documentation]
-
-[Matplotlib documentation]
+Documentation of [Python](https://docs.python.org/3/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Numpy](https://docs.scipy.org/doc/), [requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Matplotlib](https://matplotlib.org/).
 
 ### Helping sources:
 [DataCamp]()
 
 [CodeAcademy]() 
-
 
 ## Credits
 Passing the course will be rewarded with 6 ECTS credits

@@ -4,6 +4,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 # Course description
 The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also gathering of data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding technologies such as GitHub, Jupyter and Open Data.
 
+The students will be guided throught the course with the data from the IES website and Evaluation protocols.
 # Course requirements
 The requirement for passing the course is submission of the homework and the final project.
 
@@ -11,6 +12,8 @@ The requirement for passing the course is submission of the homework and the fin
 Through the homework the students will gather the basic programming skills allowing them to choose appropriate final project topic.
 
 ## Final project
+Students choose their own topic and the data source, that  would be approved by the TAs. It should not be the data from the seminars.
+
 The final project should fulfill the following criteria:
 1. Should be submitted as a GitHub repository. Only the github link is submitted to the course TAs.
 2. The main results should be summarized in the Jupyter notebook in the root of the repository. 

@@ -39,7 +39,7 @@ The students will be able to download the data from APIs or directly from the we
 [CodeAcademy]() 
 
 # Credits
-6
+6 ECTS
 
 
 

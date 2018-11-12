@@ -25,7 +25,7 @@ A quick guide to for setting up Jupyter and GitHub is available [here](/quick-in
 | 1    | Introduction (syntax, OOP)| | Vítek Macháček |
 | 2    | Data Format (CSV,JSON,XML)   |  | Martin Hronec  |
 | 3    | API (requests, BeautifulSoup) | | Vítek Macháček|
-| 4    | Numpy  + GitHub | | Martin Hronec|
+| 4    | Numpy  + GitHub | HW | Martin Hronec|
 | 5    | Pandas          | + Project proposal | Vítek Macháček |
 | 6    | Matplotlib + visualization good practices |        |  Martin Hronec|
 | 7    | Advanced Pandas  | + Project approval | Martin Hronec  |

@@ -2,9 +2,33 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/).
 
 # Course description
-The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also gathering of data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding technologies such as GitHub, Jupyter and Open Data.
+The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also gathering of data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding technologies such as *GitHub*, *Jupyter* and *Open Data*.
 
-The students will be guided throught the course with the data from the IES website and Evaluation protocols.
+The students will gain their experience using the data from the IES website and Evaluation protocols.
+
+## Learning outcomes
+After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
+
+## Sources
+[Python documentation](https://docs.python.org/3/)
+
+[Pandas documentation]()
+
+[requests documentation]
+
+[BeautifulSoup documentation]
+
+[Matplotlib documentation]
+
+### Helping sources:
+[DataCamp]()
+
+[CodeAcademy]() 
+
+
+## Credits
+Passing the course will be rewarded with 6 ECTS credits
+
 # Course requirements
 The requirement for passing the course is submission of the homework and the final project.
 
@@ -22,24 +46,7 @@ The final project should fulfill the following criteria:
 5. The project should contain appropriate analysis and visualization.
 6. The project should contain the commented ready-to-run data download method.
 
-# Learning outcomes
-The students will be able to download the data from APIs or directly from the web, pre-process them, analyze and visualize them.
 
-# Sources
-[Python documentation]
-
-[Pandas documentation]
-
-[requests documentation]
-
-[BeautifulSoup documentation]
-
-[Matplotlib documentation]
-
-### Helping sources:
-[DataCamp]()
-
-[CodeAcademy]() 
 
 # Credits
 6 ECTS

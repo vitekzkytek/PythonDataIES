@@ -10,10 +10,9 @@ The students will gain their experience using the data from the IES website and 
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
 
 ## Prerequisities
-The course is only for master students or Econometrics I. can be set as an explicit prerequisity.
+The course can either only for master students or Econometrics I. can be set as an explicit prerequisity to allow for 3rd year bachelor students
 
-An implicit prerequisity for us, that the student have already experienced 
-
+The course is designed for students that have already experienced at least some basic coding experience. It does not need to be very advanced, but they know what is ` for ` loop and how to use `if` and `else`.
 
 ## Sources
 ### Documentations

@@ -61,14 +61,14 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 |------|-----------------|----------|----|--|
 | 0    | Installing | beginning| students| [GitHub and Jupyter](/quick-intro.md)|
 | 1    | Introduction (syntax, OOP)| HW announcement| Vítek Macháček | |
-| 2    | Data Format (CSV,JSON,XML)   |  | Martin Hronec  |  |
+| 2    | Data Formats (CSV,JSON,XML)   |  | Martin Hronec  |  |
 | 3    | API (requests, BeautifulSoup) | | Vítek Macháček|  |
 | 4    | Numpy  + GitHub | HW submisson | Martin Hronec|  |
 | 5    | Pandas          | Project proposal | Vítek Macháček |   |
 | 6    | Matplotlib + visualization good practices |        |  Martin Hronec|  |
 | 7    | Advanced Pandas  | Project approval | Martin Hronec  |  |
 | 8    | Bokeh | | Vítek Macháček |  |
-| 9    | Introduction to SQL |     | Martin Hronec |  |
-| 10   | Improving efficiency |     | Vítek Macháček|  |
+| 9    | Introduction to SQL |     | Vítek Macháček |  |
+| 10   | Improving efficiency |     | Martin Hronec |  |
 | 11   | Project Work 1|  |  Vítek Macháček|  |
 | 12   | Project Work 2 |  | Martin Hronec |  |

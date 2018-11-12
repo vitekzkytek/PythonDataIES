@@ -29,7 +29,7 @@ The course is designed for students that have already experienced at least some 
 
 
 ## Credits
-Passing the course will be rewarded with 6 ECTS credits
+Passing the course will be rewarded with 6(?) ECTS credits.
 
 # Course requirements
 The requirement for passing the course is submission of the homework and the final project.

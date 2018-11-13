@@ -2,9 +2,9 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/).
 
 # Course description
-The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also gathering of data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding and open-source technologies such as *GitHub*, *Jupyter* and *Open Data*.
+The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also collecting web data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding and open-source technologies such as *GitHub*, *Jupyter* and *Open Data*.
 
-The students will gain their experience using the data from the IES website and Evaluation protocols.
+The students will gain their experience using the data from the IES website and subject evaluation protocols (?).
 
 ## Learning outcomes
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
@@ -13,6 +13,8 @@ After passing the course, the students will be able to download the data from AP
 The course can be allowed for master students only or JEB109 - Econometrics I. can be set as an explicit prerequisity to allow for 3rd year bachelor students
 
 The course is designed for students that have already experienced at least some basic coding experience. It does not need to be very advanced, but they should know be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
+
+No knowledge of Python is required for entering the course.
 
 ## Sources
 ### Documentations
@@ -35,10 +37,10 @@ Passing the course will be rewarded with 6(?) ECTS credits.
 The requirement for passing the course is submission of the homework and the final project.
 
 ## Homework
-Through the homework the students will gather the basic programming skills allowing them to choose appropriate final project topic.
+Through the homework the students will gain basic programming skills allowing them to choose appropriate final project topic.
 
 ## Final project
-Students choose their own topic and the data source, that  would be approved by the TAs. It should not be the data from the seminars.
+Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.
 
 The final project should fulfill the following criteria:
 1. Should be submitted as a GitHub repository. Only the github link is submitted to the course TAs.

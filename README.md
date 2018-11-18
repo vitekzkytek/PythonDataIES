@@ -1,8 +1,8 @@
-# Data Processing in Python Course (IES)
+# Data Processing in Python (IES)
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/).
 
 # Course description
-The aim of the course is to provide the students with hands-on experience with the data-manipulation techniques in Python, with special emphasis on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also collecting web data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding and open-source technologies such as *GitHub*, *Jupyter* and *Open Data*.
+The aim of the course is to provide a hands-on experience with the data-manipulation techniques in Python. The special emphasis is put on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also collecting web data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding and open-source technologies such as *GitHub*, *Jupyter* and *Open Data*.
 
 The students will gain their experience using the data from the IES website and subject evaluation protocols (?).
 
@@ -10,7 +10,7 @@ The students will gain their experience using the data from the IES website and 
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
 
 ## Prerequisities
-The course can be allowed for master students only or JEB109 - Econometrics I. can be set as an explicit prerequisity to allow for 3rd year bachelor students
+The course can be allowed for master students only or Econometrics I. (JEB109) can be set as an explicit prerequisity to allow for 3rd year bachelor students
 
 The course is designed for students that have at least some basic coding experience. It does not need to be very advanced, but they should be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
 
@@ -59,18 +59,18 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 
 
 # Course syllabus
-| Week | Topic           | Deadline | TA | Resources |
-|------|-----------------|----------|----|--|
-| 0    | Installing | beginning| students| [GitHub and Jupyter](/quick-intro.md)|
-| 1    | Introduction (syntax, OOP)| HW announcement| Vítek Macháček | |
-| 2    | Data Formats (CSV,JSON,XML)   |  | Martin Hronec  |  |
-| 3    | API (requests, BeautifulSoup) | | Vítek Macháček|  |
-| 4    | Numpy  + GitHub | HW submisson | Martin Hronec|  |
-| 5    | Pandas          | Project proposal | Vítek Macháček |   |
-| 6    | Matplotlib + visualization good practices |        |  Martin Hronec|  |
-| 7    | Advanced Pandas  | Project approval | Martin Hronec  |  |
-| 8    | Bokeh | | Vítek Macháček |  |
-| 9    | Introduction to SQL |     | Vítek Macháček |  |
-| 10   | Improving efficiency |     | Martin Hronec |  |
-| 11   | Project Work 1|  |  Vítek Macháček|  |
-| 12   | Project Work 2 |  | Martin Hronec |  |
+| Week | Topic                                     | Deadline         | TA             | Resources |
+|------|-------------------------------------------|------------------|----------------|--|
+| 0    | Installing                                | beginning        | students       | [GitHub and Jupyter](/quick-intro.md)|
+| 1    | Introduction (syntax, OOP)                | HW announcement  | Vítek Macháček |  |
+| 2    | Data Formats (CSV,JSON,XML)               |                  | Martin Hronec  |  |
+| 3    | API (requests, BeautifulSoup)             |                  | Vítek Macháček |  |
+| 4    | Numpy  + GitHub                           | HW submisson     | Martin Hronec  |  |
+| 5    | Pandas                                    | Project proposal | Vítek Macháček |  |
+| 6    | Matplotlib + visualization good practices |                  | Martin Hronec  |  |
+| 7    | Advanced Pandas                           | Project approval | Martin Hronec  |  |
+| 8    | Bokeh                                     |                  | Vítek Macháček |  |
+| 9    | Introduction to SQL                       |                  | Vítek Macháček |  |
+| 10   | Improving efficiency                      |                  | Martin Hronec  |  |
+| 11   | Project Work 1                            |                  | Vítek Macháček |  |
+| 12   | Project Work 2                            |                  | Martin Hronec  |  |

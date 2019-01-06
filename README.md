@@ -35,7 +35,7 @@ No knowledge of Python is required for entering the course.
 
 
 ## Credits
-Passing the course will be rewarded with 6(?) ECTS credits.
+Passing the course is rewarded with 5 ECTS credits.
 
 # Course requirements
 The requirement for passing the course is submission of the homework and the final project.

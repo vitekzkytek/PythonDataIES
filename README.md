@@ -10,7 +10,7 @@ The students will gain their experience using the data from the IES website and 
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
 
 ## Prerequisities
-Econometrics II. (JEB119) is an explicit prerequisite for bachelor students.
+Econometrics II. (JEB110) is an explicit prerequisite for bachelor students.
 
 The course is designed for students that have at least some basic coding experience. It does not need to be very advanced, but they should be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
 

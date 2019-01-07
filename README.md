@@ -46,7 +46,7 @@ The requirement for passing the course is submission of the homework and the fin
  1. Python Lists
  2. Function and Packages
 
-**Assignment 2** - Submission on 28/2 (Web Scraping in Python Course)
+**Assignment 2** - Submission on 28/3 (Web Scraping in Python Course)
 
  1. Introduction to HTML
  2. XPaths and Selectors

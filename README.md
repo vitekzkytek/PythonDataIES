@@ -80,7 +80,7 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 | 21/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |    |   |
 | 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |HW 1|   |
 | 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |HW 2|   |
-| 14/3 | OOP                                                       | Martin |                        |HW 3|   |
+| 14/3 | Object-Oriented Programming                               | Martin |                        |HW 3|   |
 | 21/3 | HTML, XML, JSON                                           | Vítek  |                        |HW 4|   |
 | 28/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |HW 5|   |
 | 4/4  | Advanced Pandas                                           | Martin |                        |HW 6|   |
@@ -88,4 +88,4 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 | 18/4 | Efficient Computing                                       | Martin |                        |    |   |
 | 25/4 | Project Work 1                                            |        |                        |    |   |
 | 2/5  | Project Work 2                                            |        |                        |    |   |
-| 9/5  |                                                           |        |                        |    |   |
+| 9/5  | Bokeh + GitHub Pages                                      | Vítek  |                        |    |   |

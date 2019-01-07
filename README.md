@@ -41,7 +41,10 @@ Passing the course is rewarded with 5 ECTS credits.
 The requirement for passing the course is submission of the homework and the final project.
 
 ## DataCamp Assignments (20%)
-**Week 1**
+**Assignment 1 - Submission on 28/2 (Introduction to Python Course) **
+
+ a. Python Lists
+ b. Function and Packages
 
 ## Final project (80%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.

@@ -24,7 +24,7 @@ No knowledge of Python is required for entering the course.
 ### General Python
 [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-[Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data Data Visualization-science)
+[Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 
 
 ### Pandas

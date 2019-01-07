@@ -50,7 +50,7 @@ The requirement for passing the course is submission of the homework and the fin
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 3** - Submission on 28/3 (Importing Data in Python (Part 2))
+**Assignment 3** - Submission on 28/3 (Importing Data in Python (Part 2) Course)
  1. Importing data from the Internet
  2. Interacting with APIs to import data from the web
  

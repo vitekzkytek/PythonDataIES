@@ -43,8 +43,8 @@ The requirement for passing the course is submission of the homework and the fin
 ## DataCamp Assignments (20%)
 **Assignment 1** - Submission on 28/2 (Introduction to Python Course)
 
- a. Python Lists
- b. Function and Packages
+ 1. Python Lists
+ 2. Function and Packages
 
 ## Final project (80%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.

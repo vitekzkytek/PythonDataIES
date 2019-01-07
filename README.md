@@ -42,16 +42,18 @@ The requirement for passing the course is submission of the homework and the fin
 
 ## DataCamp Assignments (20%)
 **Assignment 1** - Submission on 28/2 (Introduction to Python Course)
-
  1. Python Lists
  2. Function and Packages
 
-**Assignment 2** - Submission on 28/3 (Web Scraping in Python Course)
-
+**Assignment 2** - Submission on 21/3 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
-
+ 
+**Assignment 3** - Submission on 28/3 (Importing Data in Python (Part 2))
+ 1. Importing data from the Internet
+ 2. Interacting with APIs to import data from the web
+ 
 
 ## Final project (80%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.

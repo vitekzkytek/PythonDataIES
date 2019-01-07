@@ -30,7 +30,7 @@ No knowledge of Python is required for entering the course.
 [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 
 
-### Pandas
+### pandas
 [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 
 [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)

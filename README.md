@@ -16,15 +16,47 @@ The course is designed for students that have at least some basic coding experie
 
 No knowledge of Python is required for entering the course.
 
-## Sources
-### Documentations
+# Sources
+## Documentations
 [Python](https://docs.python.org/3/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Numpy](https://docs.scipy.org/doc/), [requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Matplotlib](https://matplotlib.org/).
 
-### DataCamp
+## Recommended DataCamp Courses
+### General Python
 [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
+[Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data Data Visualization-science)
 
-### Tutorials
+
+### Pandas
+[pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
+
+[Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+
+[Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+
+[Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
+
+
+### Web Data Formats
+[Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+
+[Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+
+[Web Scraping with Python](https://www.datacamp.com/courses/web-scraping-with-python)
+
+
+### Data Visualizations
+[Introduction to Data Visualization](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+
+[Interactive Data Visualization in Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+
+### SQL
+[Introduction to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+
+[Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+
+## Tutorials
 [LearnPython](https://www.learnpython.org/)
 
 [Learn Python on CodeAcademy](https://www.codecademy.com/learn/learn-python)
@@ -34,7 +66,7 @@ No knowledge of Python is required for entering the course.
 [Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 
 
-## Credits
+# Credits
 Passing the course is rewarded with 5 ECTS credits.
 
 # Course requirements

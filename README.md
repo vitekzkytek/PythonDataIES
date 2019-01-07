@@ -63,18 +63,34 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 
 
 # Course syllabus
-| Week | Topic                                     | Deadline         | TA             | Resources |
-|------|-------------------------------------------|------------------|----------------|--|
-| 0    | Installing                                | beginning        | students       | [GitHub and Jupyter](/quick-intro.md)|
-| 1    | Introduction (syntax, OOP)                | HW announcement  | Vítek Macháček |  |
-| 2    | Data Formats (CSV,JSON,XML)               |                  | Martin Hronec  |  |
-| 3    | API (requests, BeautifulSoup)             |                  | Vítek Macháček |  |
-| 4    | Numpy  + GitHub                           | HW submisson     | Martin Hronec  |  |
-| 5    | Pandas                                    | Project proposal | Vítek Macháček |  |
+| Week | Topic                                                     | who    |                        |   |   |
+|------|-----------------------------------------------------------|--------|------------------------|---|---|
+| 1    | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
+| 2    | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |   |   |
+| 3    | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
+| 4    | OOP                                                       | Martin |                        |   |   |
+| 5    | HTML, XML, JSON                                           | Vítek  |                        |   |   |
+| 6    | API + Scraping                                            | Vítek  | Project Topic Proposal |   |   |
+| 7    | Advanced Pandas                                           | Martin |                        |   |   |
+| 8    | SQLite                                                    | Vítek  | Project Topic Approval |   |   |
+| 9    | Efficient Computing                                       | Martin |                        |   |   |
+| 10   | Project Work 1                                            |        |                        |   |   |
+| 11   | Project Work 2                                            |        |                        |   |   |
+|      |                                                           |        |                        |   |   |
+
+
+| Week | Topic                                     | Deadline         | TA             | Resources |DataCamp HW |
+|------|-------------------------------------------|------------------|----------------|--| |
+| 0    | Installing                                | beginning        | students       | [GitHub and Jupyter](/quick-intro.md)||
+| 1    | Introduction (syntax, GitHub)                | HW announcement  | Vítek Macháček |  ||
+| 2    | Functions, Lists, Dictionaries, |                  | Martin Hronec  |  |Function and Packages|
+| 3    | API (requests, BeautifulSoup)             |                  | Vítek Macháček |  | Interacting with APIs to import data from the web |
+| 4    | Numpy                                     | HW submisson     | Martin Hronec  |  |
+| 5    | Pandas                                    | Project proposal | Vítek Macháček |Manipulating DataFrames with pandas  |
 | 6    | Matplotlib + visualization good practices |                  | Martin Hronec  |  |
-| 7    | Advanced Pandas                           | Project approval | Martin Hronec  |  |
+| 7    | Advanced Pandas                           | Project approval | Martin Hronec  | Combining data for analysis |
 | 8    | Bokeh                                     |                  | Vítek Macháček |  |
 | 9    | Introduction to SQL                       |                  | Vítek Macháček |  |
-| 10   | Improving efficiency                      |                  | Martin Hronec  |  |
+| 10   | Improving efficiency                      |                  | Martin Hronec  | Using iterators in PythonLand |
 | 11   | Project Work 1                            |                  | Vítek Macháček |  |
 | 12   | Project Work 2                            |                  | Martin Hronec  |  |

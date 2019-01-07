@@ -40,8 +40,8 @@ Passing the course is rewarded with 5 ECTS credits.
 # Course requirements
 The requirement for passing the course is submission of the homework and the final project.
 
-## Homework (20%)
-Through the homework the students will gain basic programming skills allowing them to choose appropriate final project topic.
+## DataCamp Assignments (20%)
+**Week 1**
 
 ## Final project (80%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.
@@ -63,10 +63,10 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 
 
 # Course syllabus
-| Week | Topic                                                     | who    |                        |   |   |
+| Date | Topic                                                     | who    |                        |   |   |
 |------|-----------------------------------------------------------|--------|------------------------|---|---|
-| 1    | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
-| 2    | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |   |   |
+| 21/2    | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
+|     | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |   |   |
 | 3    | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
 | 4    | OOP                                                       | Martin |                        |   |   |
 | 5    | HTML, XML, JSON                                           | Vítek  |                        |   |   |
@@ -77,20 +77,3 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 | 10   | Project Work 1                                            |        |                        |   |   |
 | 11   | Project Work 2                                            |        |                        |   |   |
 |      |                                                           |        |                        |   |   |
-
-
-| Week | Topic                                     | Deadline         | TA             | Resources |DataCamp HW |
-|------|-------------------------------------------|------------------|----------------|--| |
-| 0    | Installing                                | beginning        | students       | [GitHub and Jupyter](/quick-intro.md)||
-| 1    | Introduction (syntax, GitHub)                | HW announcement  | Vítek Macháček |  ||
-| 2    | Functions, Lists, Dictionaries, |                  | Martin Hronec  |  |Function and Packages|
-| 3    | API (requests, BeautifulSoup)             |                  | Vítek Macháček |  | Interacting with APIs to import data from the web |
-| 4    | Numpy                                     | HW submisson     | Martin Hronec  |  |
-| 5    | Pandas                                    | Project proposal | Vítek Macháček |Manipulating DataFrames with pandas  |
-| 6    | Matplotlib + visualization good practices |                  | Martin Hronec  |  |
-| 7    | Advanced Pandas                           | Project approval | Martin Hronec  | Combining data for analysis |
-| 8    | Bokeh                                     |                  | Vítek Macháček |  |
-| 9    | Introduction to SQL                       |                  | Vítek Macháček |  |
-| 10   | Improving efficiency                      |                  | Martin Hronec  | Using iterators in PythonLand |
-| 11   | Project Work 1                            |                  | Vítek Macháček |  |
-| 12   | Project Work 2                            |                  | Martin Hronec  |  |

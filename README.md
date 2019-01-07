@@ -77,4 +77,3 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 | 25/4 | Project Work 1                                            |        |                        |   |   |
 | 2/5  | Project Work 2                                            |        |                        |   |   |
 | 9/5  |                                                           |        |                        |   |   |
-| 16/5 |                                                           |        |                        |   |   |

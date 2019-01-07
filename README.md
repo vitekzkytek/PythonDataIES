@@ -70,7 +70,7 @@ No knowledge of Python is required for entering the course.
 Passing the course is rewarded with 5 ECTS credits.
 
 # Course requirements
-The requirement for passing the course is submission of the homework and the final project.
+The requirement for passing the course are DataCamp assignments (6x5pts) and the final project (70pts).
 
 ## DataCamp Assignments (30%)
 **Assignment 1** - Submission on 28/2 (Introduction to Python Course)

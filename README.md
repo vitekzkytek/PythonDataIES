@@ -65,15 +65,16 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 # Course syllabus
 | Date | Topic                                                     | who    |                        |   |   |
 |------|-----------------------------------------------------------|--------|------------------------|---|---|
-| 21/2    | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
-|     | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |   |   |
-| 3    | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
-| 4    | OOP                                                       | Martin |                        |   |   |
-| 5    | HTML, XML, JSON                                           | Vítek  |                        |   |   |
-| 6    | API + Scraping                                            | Vítek  | Project Topic Proposal |   |   |
-| 7    | Advanced Pandas                                           | Martin |                        |   |   |
-| 8    | SQLite                                                    | Vítek  | Project Topic Approval |   |   |
-| 9    | Efficient Computing                                       | Martin |                        |   |   |
-| 10   | Project Work 1                                            |        |                        |   |   |
-| 11   | Project Work 2                                            |        |                        |   |   |
-|      |                                                           |        |                        |   |   |
+| 21/2 | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
+| 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |   |   |
+| 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
+| 14/3 | OOP                                                       | Martin |                        |   |   |
+| 21/3 | HTML, XML, JSON                                           | Vítek  |                        |   |   |
+| 28/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |   |   |
+| 4/4  | Advanced Pandas                                           | Martin |                        |   |   |
+| 11/4 | SQLite                                                    | Vítek  | Project Topic Approval |   |   |
+| 18/4 | Efficient Computing                                       | Martin |                        |   |   |
+| 25/4 | Project Work 1                                            |        |                        |   |   |
+| 2/5  | Project Work 2                                            |        |                        |   |   |
+| 9/5  |                                                           |        |                        |   |   |
+| 16/5 |                                                           |        |                        |   |   |

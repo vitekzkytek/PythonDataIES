@@ -40,22 +40,23 @@ Passing the course is rewarded with 5 ECTS credits.
 # Course requirements
 The requirement for passing the course is submission of the homework and the final project.
 
-## DataCamp Assignments (20%)
+## DataCamp Assignments (30%)
 **Assignment 1** - Submission on 28/2 (Introduction to Python Course)
  1. Python Lists
  2. Function and Packages
 
-**Assignment 2** - Submission on 21/3 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 21/3 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 3** - Submission on 28/3 (Importing Data in Python (Part 2) Course)
+**Assignment 5** - Submission on 28/3 (Importing Data in Python (Part 2) Course)
  1. Importing data from the Internet
  2. Interacting with APIs to import data from the web
- 
+ 3. Diving deep into the Twitter API
 
-## Final project (80%)
+
+## Final project (70%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.
 
 The final project should fulfill the following criteria:
@@ -73,19 +74,18 @@ Jupyter and GitHub intro [here](/quick-intro.md)
 The Jupyter notebook with [IES web parser](/IES_web.ipynb) 
 
 
-
 # Course syllabus
-| Date | Topic                                                     | who    |                        |   |   |
-|------|-----------------------------------------------------------|--------|------------------------|---|---|
-| 21/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |   |   |
-| 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  | HW 1                   |   |   |
-| 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
-| 14/3 | OOP                                                       | Martin |                        |   |   |
-| 21/3 | HTML, XML, JSON                                           | Vítek  | HW 2                   |   |   |
-| 28/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |   |   |
-| 4/4  | Advanced Pandas                                           | Martin |                        |   |   |
-| 11/4 | SQLite                                                    | Vítek  | Project Topic Approval |   |   |
-| 18/4 | Efficient Computing                                       | Martin |                        |   |   |
-| 25/4 | Project Work 1                                            |        |                        |   |   |
-| 2/5  | Project Work 2                                            |        |                        |   |   |
-| 9/5  |                                                           |        |                        |   |   |
+| Date | Topic                                                     | who    | Project                | HW |   |
+|------|-----------------------------------------------------------|--------|------------------------|----|---|
+| 21/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |    |   |
+| 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |HW 1|   |
+| 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |HW 2|   |
+| 14/3 | OOP                                                       | Martin |                        |HW 3|   |
+| 21/3 | HTML, XML, JSON                                           | Vítek  |                        |HW 4|   |
+| 28/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |HW 5|   |
+| 4/4  | Advanced Pandas                                           | Martin |                        |HW 6|   |
+| 11/4 | SQLite                                                    | Vítek  | Project Topic Approval |    |   |
+| 18/4 | Efficient Computing                                       | Martin |                        |    |   |
+| 25/4 | Project Work 1                                            |        |                        |    |   |
+| 2/5  | Project Work 2                                            |        |                        |    |   |
+| 9/5  |                                                           |        |                        |    |   |

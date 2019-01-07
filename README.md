@@ -75,7 +75,7 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 # Course syllabus
 | Date | Topic                                                     | who    |                        |   |   |
 |------|-----------------------------------------------------------|--------|------------------------|---|---|
-| 21/2 | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
+| 21/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |   |   |
 | 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  | HW 1                   |   |   |
 | 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
 | 14/3 | OOP                                                       | Martin |                        |   |   |

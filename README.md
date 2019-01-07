@@ -100,18 +100,12 @@ The final project should fulfill the following criteria:
 6. The project should contain the commented ready-to-run data download method.
 
 ## Grading scale (according to Dean's Provision 17/2018):
-
-A: above 90 (not inclusive)
-
-B: between 80 (not inclusive) and 90 (inclusive)
-
-C: between 70 (not inclusive) and 80 (inclusive)
-
-D: between 60 (not inclusive) and 70 (inclusive)
-
-E: between 50 (not inclusive) and 60 (inclusive)
-
-F: below 50 (inclusive)
+* A: above 90 (not inclusive)
+* B: between 80 (not inclusive) and 90 (inclusive)
+* C: between 70 (not inclusive) and 80 (inclusive)
+* D: between 60 (not inclusive) and 70 (inclusive)
+* E: between 50 (not inclusive) and 60 (inclusive)
+* F: below 50 (inclusive)
 
 
 # Our materials

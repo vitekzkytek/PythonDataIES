@@ -99,7 +99,7 @@ The final project should fulfill the following criteria:
 5. The project should contain appropriate analysis and visualization.
 6. The project should contain the commented ready-to-run data download method.
 
-## Grading scale (according to Dean's Provision 17/2018):
+## Grading scale
 * A: above 90 (not inclusive)
 * B: between 80 (not inclusive) and 90 (inclusive)
 * C: between 70 (not inclusive) and 80 (inclusive)

@@ -64,7 +64,7 @@ No knowledge of Python is required for entering the course.
 
 [Learn Python on CodeAcademy](https://www.codecademy.com/learn/learn-python)
 
-[Pandas](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+[pandas Cookbook](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 
 [Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 

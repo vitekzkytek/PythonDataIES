@@ -56,7 +56,7 @@ No knowledge of Python is required for entering the course.
 [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 
 
-## Tutorials
+## Others
 [LearnPython](https://www.learnpython.org/)
 
 [Learn Python on CodeAcademy](https://www.codecademy.com/learn/learn-python)

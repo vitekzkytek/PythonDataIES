@@ -1,5 +1,5 @@
 # Data Processing in Python (JEM207)
-The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [S)IS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207).
+The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207).
 
 # Course description
 The aim of the course is to provide a hands-on experience with the data-manipulation techniques in Python. The special emphasis is put on standard libraries such as *Pandas*, *Numpy* or *Matplotlib* and also collecting web data with *requests* and *BeatifiulSoup*. The students will also be guided through the modern social-coding and open-source technologies such as *GitHub*, *Jupyter* and *Open Data*.

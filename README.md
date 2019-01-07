@@ -21,6 +21,9 @@ No knowledge of Python is required for entering the course.
 [Python](https://docs.python.org/3/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Numpy](https://docs.scipy.org/doc/), [requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Matplotlib](https://matplotlib.org/).
 
 ## Recommended DataCamp Courses
+### Tools
+[Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+
 ### General Python
 [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 

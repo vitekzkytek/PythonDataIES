@@ -46,6 +46,13 @@ The requirement for passing the course is submission of the homework and the fin
  1. Python Lists
  2. Function and Packages
 
+**Assignment 2** - Submission on 28/2 (Web Scraping in Python Course)
+
+ 1. Introduction to HTML
+ 2. XPaths and Selectors
+ 3. CSS Locators, Chaining, and Responses
+
+
 ## Final project (80%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.
 
@@ -69,10 +76,10 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 | Date | Topic                                                     | who    |                        |   |   |
 |------|-----------------------------------------------------------|--------|------------------------|---|---|
 | 21/2 | Intro + GitHub, Jupyter                                   | both   |                        |   |   |
-| 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |   |   |
+| 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  | HW 1                   |   |   |
 | 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |   |   |
 | 14/3 | OOP                                                       | Martin |                        |   |   |
-| 21/3 | HTML, XML, JSON                                           | Vítek  |                        |   |   |
+| 21/3 | HTML, XML, JSON                                           | Vítek  | HW 2                   |   |   |
 | 28/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |   |   |
 | 4/4  | Advanced Pandas                                           | Martin |                        |   |   |
 | 11/4 | SQLite                                                    | Vítek  | Project Topic Approval |   |   |

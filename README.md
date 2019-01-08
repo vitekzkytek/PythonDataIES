@@ -86,7 +86,7 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
  2. Extracting and Transforming Data
  3. Advanced Indexing
  
- **Assignment 3** - Submission on 7/3 (OOP)
+ **Assignment 3** - Submission on 14/3 (OOP)
  1. TBD
 
 **Assignment 4** - Submission on 21/3 (Web Scraping in Python Course)

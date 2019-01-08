@@ -78,7 +78,16 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
 ## DataCamp Assignments (30%)
 **Assignment 1** - Submission on 28/2 (Introduction to Python Course)
  1. Python Lists
- 2. Function and Packages
+ 2. Fundamental Data Types
+ 3. Function and Packages
+ 
+**Assignment 2** - Submission on 7/3 (Manipulating DataFrames with pandas)
+ 1. Exploratory Data Analysis
+ 2. Extracting and Transforming Data
+ 3. Advanced Indexing
+ 
+ **Assignment 3** - Submission on 7/3 (OOP)
+ 1. TBD
 
 **Assignment 4** - Submission on 21/3 (Web Scraping in Python Course)
  1. Introduction to HTML

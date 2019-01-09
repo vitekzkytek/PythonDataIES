@@ -6,6 +6,8 @@ The aim of the course is to provide a hands-on experience with the data-manipula
 
 The students will gain their experience using the data from the IES website and subject evaluation protocols.
 
+The course would make use of the [DataCamp](https://www.datacamp.com) online sources to provide the students with reliable and yet simple resources for learning Python programming. 
+
 ## Learning outcomes
 After passing the course, the students will be able to download the data from APIs or directly from the web, pre-process it, analyze it and visualize it.
 

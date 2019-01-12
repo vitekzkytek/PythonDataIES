@@ -101,6 +101,10 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
  2. Interacting with APIs to import data from the web
  3. Diving deep into the Twitter API
 
+**Assignment 6** - Submission on 5/4 (Merging DataFrames with pandas Course)
+ 1. Concatenating and merging data
+ 2. Rearranging and reshaping data
+ 3. Grouping data
 
 ## Final project (70%)
 Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.

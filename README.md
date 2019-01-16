@@ -78,30 +78,30 @@ Passing the course is rewarded with 5 ECTS credits.
 The requirement for passing the course are DataCamp assignments (6x5pts) and the final project (70pts).
 
 ## DataCamp Assignments (30%)
-**Assignment 1** - Submission on 28/2 (Introduction to Python Course)
+**Assignment 1** - Submission on 27/2 (Introduction to Python Course)
  1. Python Lists
  2. Fundamental Data Types
  3. Function and Packages
  
-**Assignment 2** - Submission on 7/3 (Manipulating DataFrames with pandas)
+**Assignment 2** - Submission on 6/3 (Manipulating DataFrames with pandas)
  1. Exploratory Data Analysis
  2. Extracting and Transforming Data
  3. Advanced Indexing
  
- **Assignment 3** - Submission on 14/3 (OOP)
+ **Assignment 3** - Submission on 13/3 (OOP)
  1. TBD
 
-**Assignment 4** - Submission on 21/3 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 20/3 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 5** - Submission on 28/3 (Importing Data in Python (Part 2) Course)
+**Assignment 5** - Submission on 27/3 (Importing Data in Python (Part 2) Course)
  1. Importing data from the Internet
  2. Interacting with APIs to import data from the web
  3. Diving deep into the Twitter API
 
-**Assignment 6** - Submission on 5/4 (Merging DataFrames with pandas Course)
+**Assignment 6** - Submission on 4/4 (Merging DataFrames with pandas Course)
  1. Concatenating and merging data
  2. Rearranging and reshaping data
  3. Grouping data
@@ -135,15 +135,15 @@ The Jupyter notebook with [IES web parser](/IES_web.ipynb)
 # Course syllabus
 | Date | Topic                                                     | who    | Project                | HW |   |
 |------|-----------------------------------------------------------|--------|------------------------|----|---|
-| 21/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |    |   |
-| 28/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |HW 1|   |
-| 7/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |HW 2|   |
-| 14/3 | Object-Oriented Programming                               | Martin |                        |HW 3|   |
-| 21/3 | HTML, XML, JSON                                           | Vítek  |                        |HW 4|   |
-| 28/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |HW 5|   |
-| 4/4  | Advanced Pandas                                           | Martin |                        |HW 6|   |
-| 11/4 | SQLite                                                    | Vítek  | Project Topic Approval |    |   |
-| 18/4 | Efficient Computing                                       | Martin |                        |    |   |
-| 25/4 | Project Work 1                                            |        |                        |    |   |
-| 2/5  | Project Work 2                                            |        |                        |    |   |
-| 9/5  | Bokeh + GitHub Pages                                      | Vítek  |                        |    |   |
+| 20/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |    |   |
+| 27/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |HW 1|   |
+| 6/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |HW 2|   |
+| 13/3 | Object-Oriented Programming                               | Martin |                        |HW 3|   |
+| 20/3 | HTML, XML, JSON                                           | Vítek  |                        |HW 4|   |
+| 27/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |HW 5|   |
+| 3/4  | Advanced Pandas                                           | Martin |                        |HW 6|   |
+| 10/4 | SQLite                                                    | Vítek  | Project Topic Approval |    |   |
+| 17/4 | Efficient Computing                                       | Martin |                        |    |   |
+| 24/4 | Project Work 1                                            |        |                        |    |   |
+| 1/5  | Project Work 2                                            |        |                        |    |   |
+| 8/5  | Bokeh + GitHub Pages                                      | Vítek  |                        |    |   |

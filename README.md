@@ -129,7 +129,7 @@ The final project should fulfill the following criteria:
 # Our materials
 Jupyter and GitHub intro [here](/quick-intro.md)
 
-The Jupyter notebook with [IES web parser](/IES_web.ipynb) 
+The Jupyter notebook with [IES web parser](/IES_Web.ipynb) 
 
 
 # Course syllabus

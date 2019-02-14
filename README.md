@@ -135,15 +135,15 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 # Course syllabus
 | Date | Topic                                                     | who    | Project                | HW |   |
 |------|-----------------------------------------------------------|--------|------------------------|----|---|
-| 20/2 | Intro + GitHub, Jupyter, DataCamp                         | both   |                        |    |   |
-| 27/2 | Strings, Floats, Integers, Lists, Dictionaries, Functions | Vítek  |                        |HW 1|   |
-| 6/3  | Pandas, Matplotlib, Numpy                                 | Martin |                        |HW 2|   |
-| 13/3 | Object-Oriented Programming                               | Martin |                        |HW 3|   |
-| 20/3 | HTML, XML, JSON                                           | Vítek  |                        |HW 4|   |
-| 27/3 | API + Scraping                                            | Vítek  | Project Topic Proposal |HW 5|   |
-| 3/4  | Advanced Pandas                                           | Martin |                        |HW 6|   |
-| 10/4 | SQLite                                                    | Vítek  | Project Topic Approval |    |   |
-| 17/4 | Efficient Computing                                       | Martin |                        |    |   |
-| 24/4 | Project Work 1                                            |        |                        |    |   |
-| 1/5  | Project Work 2                                            |        |                        |    |   |
-| 8/5  | Bokeh + GitHub Pages                                      | Vítek  |                        |    |   |
+| 20-21/2 | Intro + GitHub, Jupyter, DataCamp                      | both   |                        |    |   |
+| 27-28/2 | Strings, Floats, Lists, Dictionaries, Functions        | Vítek  |                        |HW 1|   |
+| 6-7/3  | Pandas, Matplotlib, Numpy                               | Martin |                        |HW 2|   |
+| 13-14/3 | Object-Oriented Programming                            | Martin |                        |HW 3|   |
+| 20-21/3 | HTML, XML, JSON                                        | Vítek  |                        |HW 4|   |
+| 27-28/3 | API + Scraping                                         | Vítek  | Project Topic Proposal |HW 5|   |
+| 3-4/4  | SQLite                                                  | Vítek  |                        |HW 6|   |
+| 10-11/4 | Advanced Pandas                                        | Martin | Project Topic Approval |    |   |
+| 17-18/4 | Bokeh + GitHub Pages                                   | Vítek  |                        |    |   |
+| 24-25/4 | Project Work 1                                         |        |                        |    |   |
+| 1-2/5  | Project Work 2                                          |        |                        |    |   |
+| 8-9/5  | Efficient Computing                                     | Martin |                        |    |   |

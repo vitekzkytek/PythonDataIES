@@ -116,15 +116,26 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
  3. Grouping data
 
 ## Final project (70%)
-Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.
+**Description:**
+* Students in teams by 2
+* The task is to download the any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook. The project should be submitted as a GitHub repository
+* The selection of the data is entirely up to the students. 
 
-The final project should fulfill the following criteria:
-1. Should be submitted as a GitHub repository. Only the github link is submitted to the course TAs.
-2. The main results should be summarized in the Jupyter notebook in the root of the repository. 
-3. The project should use the raw data scraped either from the public API or directly from the web.
-4. The data should be pre-processed to analysis ready format.
-5. The project should contain appropriate analysis and visualization.
-6. The project should contain the commented ready-to-run data download method.
+**Deadlines:**
+March 27th: Project Topic First Submission
+April 10th: Project Topic Final Submission
+May 31st: Project Submission
+
+**Evaluation Criteria:** 
+1. The project use correctly downloaded data from the public API or website.
+2. The data were cleaned appropriately
+3. The data are visualized 
+4. The project is submitted as a public GitHub repository
+5. All team members collaborated on the GitHub repository (note that the history)
+6. The code is readable, commented and appropriately structured
+7. One ready-to-run method for downloading the data.
+8. Submitted as a jupyter notebook.
+
 
 ## Grading scale
 * A: above 90 (not inclusive)

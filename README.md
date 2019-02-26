@@ -122,9 +122,12 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
 * The selection of the data is entirely up to the students. 
 
 **Deadlines:**
+
 March 27th: Project Topic First Submission
+
 April 10th: Project Topic Final Submission
-May 31st: Project Submission
+
+May 31st: Project Submission (to be confirmed)
 
 **Evaluation Criteria:** 
 1. The project use correctly downloaded data from the public API or website.

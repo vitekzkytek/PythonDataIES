@@ -118,7 +118,7 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
 ## Final project (70%)
 **Description:**
 * Students in teams by 2
-* The task is to download the any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook. The project should be submitted as a GitHub repository
+* The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook. The project should be submitted as a GitHub repository
 * The selection of the data is entirely up to the students. 
 
 **Deadlines:**

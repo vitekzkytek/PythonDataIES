@@ -93,12 +93,14 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
  3. Function and Packages
  
 **Assignment 2** - Submission on 6/3 (Manipulating DataFrames with pandas)
- 1. Exploratory Data Analysis
+ 1. Numpy
  2. Extracting and Transforming Data
  3. Advanced Indexing
  
- **Assignment 3** - Submission on 13/3 (OOP)
- 1. TBD
+ **Assignment 3** - Submission on 13/3 (Object-Oriented Programming in Python)
+ 1. Getting ready for object-oriented programming
+ 2. Deep dive into classes and objects
+ 3. Fancy classes, fancy objects
 
 **Assignment 4** - Submission on 20/3 (Web Scraping in Python Course)
  1. Introduction to HTML
@@ -158,7 +160,7 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 # Course syllabus
 | Date | Topic                                                     | who    | Project                | HW |   |
 |------|-----------------------------------------------------------|--------|------------------------|----|---|
-| 20-21/2 | Intro + GitHub, Jupyter, DataCamp                      | both   |                        |    |   |
+| 20-21/2 | Intro + GitHub, Jupyter, DataCamp                      | Martin |                        |    |   |
 | 27-28/2 | Strings, Floats, Lists, Dictionaries, Functions        | Vítek  |                        |HW 1|   |
 | 6-7/3  | Pandas, Matplotlib, Numpy                               | Martin |                        |HW 2|   |
 | 13-14/3 | Object-Oriented Programming                            | Martin |                        |HW 3|   |

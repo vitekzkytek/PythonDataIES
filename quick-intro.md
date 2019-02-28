@@ -28,10 +28,3 @@ If neither you nor anyone else did not make any changes to the code, anywhere el
 3) Using  `git commit -m "commit description"` command you will commit the staged changes with description `commit description`.
 4) Using `git push origin [branch]` you will propagate your changes to the GitHub account.
 
-
-## Git dictionary:
-*repository* - The place where all files, versions and branches are stored of the project is stored.
-
-*branch* - 
-
-*remote* - 

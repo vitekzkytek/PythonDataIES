@@ -25,6 +25,9 @@ No knowledge of Python is required for entering the course.
 [Atlassian Git tutorials](https://www.atlassian.com/git/tutorials), 
 [Github resources for learning Git](https://try.github.io/)
 
+## Python
+[Resources from the official Python webpage](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
 ## Documentations
 [Python](https://docs.python.org/3/), [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Numpy](https://docs.scipy.org/doc/), [requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Matplotlib](https://matplotlib.org/).
 
@@ -86,16 +89,18 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
 ## DataCamp Assignments (30%)
 **Assignment 1** - Submission on 27/2 (Introduction to Python Course)
  1. Python Lists
- 2. Fundamental Data Types
+ 2. Python Basics
  3. Function and Packages
  
 **Assignment 2** - Submission on 6/3 (Manipulating DataFrames with pandas)
- 1. Exploratory Data Analysis
+ 1. Numpy
  2. Extracting and Transforming Data
  3. Advanced Indexing
  
- **Assignment 3** - Submission on 13/3 (OOP)
- 1. TBD
+ **Assignment 3** - Submission on 13/3 (Object-Oriented Programming in Python)
+ 1. Getting ready for object-oriented programming
+ 2. Deep dive into classes and objects
+ 3. Fancy classes, fancy objects
 
 **Assignment 4** - Submission on 20/3 (Web Scraping in Python Course)
  1. Introduction to HTML
@@ -113,15 +118,29 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
  3. Grouping data
 
 ## Final project (70%)
-Students choose their own topic and the data source, that would be approved by the TAs. It should not be the data from the seminars.
+**Description:**
+* Students in teams by 2
+* The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook. The project should be submitted as a GitHub repository
+* The selection of the data is entirely up to the students. 
 
-The final project should fulfill the following criteria:
-1. Should be submitted as a GitHub repository. Only the github link is submitted to the course TAs.
-2. The main results should be summarized in the Jupyter notebook in the root of the repository. 
-3. The project should use the raw data scraped either from the public API or directly from the web.
-4. The data should be pre-processed to analysis ready format.
-5. The project should contain appropriate analysis and visualization.
-6. The project should contain the commented ready-to-run data download method.
+**Deadlines:**
+
+March 27th: Project Topic First Submission
+
+April 10th: Project Topic Final Submission
+
+May 31st: Project Submission (to be confirmed)
+
+**Evaluation Criteria:** 
+1. The project use correctly downloaded data from the public API or website.
+2. The data were cleaned appropriately
+3. The data are visualized 
+4. The project is submitted as a public GitHub repository
+5. All team members collaborated on the GitHub repository (note that the history)
+6. The code is readable, commented and appropriately structured
+7. One ready-to-run method for downloading the data.
+8. Submitted as a jupyter notebook.
+
 
 ## Grading scale
 * A: above 90 (not inclusive)
@@ -141,7 +160,7 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 # Course syllabus
 | Date | Topic                                                     | who    | Project                | HW |   |
 |------|-----------------------------------------------------------|--------|------------------------|----|---|
-| 20-21/2 | Intro + GitHub, Jupyter, DataCamp                      | both   |                        |    |   |
+| 20-21/2 | Intro + GitHub, Jupyter, DataCamp                      | Martin |                        |    |   |
 | 27-28/2 | Strings, Floats, Lists, Dictionaries, Functions        | Vítek  |                        |HW 1|   |
 | 6-7/3  | Pandas, Matplotlib, Numpy                               | Martin |                        |HW 2|   |
 | 13-14/3 | Object-Oriented Programming                            | Martin |                        |HW 3|   |

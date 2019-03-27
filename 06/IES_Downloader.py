@@ -24,6 +24,7 @@ class IES_Downloader:
         self.people = []
         self.courses = []
         self.theses = []
+        
         if self.allowLog:
             print('Succesfully initialized IES Downloader')
     
@@ -131,7 +132,7 @@ class IES_Downloader:
         total_links = [person.soup.select('a[href*=syllab]') for person in self.people]
         for person_links in total_links:
             for link in person_links:
-                ident = 'http://ies.fsv.cuni.cz/cs/syllab/' + link['href'].split('/')[-1]
+                ident = 'http://ies.fsv.cuni.cz/en/syllab/' + link['href'].split('/')[-1]
                 if ident not in self.links['courses']:
                     self.links['courses'].append(ident)
         if self.allowLog:

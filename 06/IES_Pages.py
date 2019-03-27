@@ -12,9 +12,9 @@ class IES_Web:
     
     def __init__(self,link):
         self.link = link
-        self.request = requests.get(link)
-        self.request.encoding='UTF-8'
-        self.soup = BeautifulSoup(self.request.text,'lxml')
+        r = requests.get(link)
+        r.encoding='UTF-8'
+        self.soup = BeautifulSoup(r.text,'lxml')
     
     def parseH2(self):
         '''
@@ -221,11 +221,11 @@ class IES_Person(IES_Web):
         '''
         
         # Generate first pandas series - see ?self.pdSiblingsOfStrong
-        nextSiblings = ['Akademická funkce:','Odborné zaměření:','Členství:','Kancelář:','Email:','Telefon:','Konzultační hodiny:']       
+        nextSiblings = ['Position:','Field of interest:','Membership:','Office:','Email:','Phone:','Available:']       
         ser_nextSiblings = self.pdSiblingsOfStrong(nextSiblings)
         
         # Generate second pandas series - see ?self.pdSiblingsOfStrongParents
-        parentsNextSiblings = ['Člen organizací','Vzdělání','Odborná praxe','Veřejné aktivity']
+        parentsNextSiblings = ['Organisation Memberships','Education','Job history','Extra activities','Bachelor theses','Master theses']
         ser_parentsNextSiblings = self.pdSiblingsOfStrongParents(parentsNextSiblings)
         
         # merge first and second together
@@ -237,7 +237,7 @@ class IES_Person(IES_Web):
         chars.loc['category'] = self.category
         
         # parse bachelor and master thesis counts (both all and marked)
-        d = {'bachelor':'Vedoucí bakalářských prací','master':'Vedoucí diplomových prací'}
+        d = {'bachelor':'Supervised Bachelor theses','master':'Supervised Master Theses'}
         for key in d:
             total, awarded = self.numbersNextToStrongBelowH3(d[key])
             chars.loc[key + '_all'] = total
@@ -317,7 +317,7 @@ class IES_Course(IES_Web):
         returns pandas series with IES_Course characteristics
         
         See documentation of individual methods methods for details
-        and example page: http://ies.fsv.cuni.cz/cs/syllab/JEM207
+        and example page: http://ies.fsv.cuni.cz/en/syllab/JEM207
         '''
 
         # parse table inside <section class='content'> element
@@ -328,7 +328,7 @@ class IES_Course(IES_Web):
         ser.loc['id'] = self.id
         
         # find supervisors ids:
-        supervisors = self.getTdForCorrespondingTh('section[class=content]','Garanti:')
+        supervisors = self.getTdForCorrespondingTh('section[class=content]','Course supervisors:')
         if supervisors:
             supervisors = [a['href'].split('/')[-1] for a in supervisors.findAll('a')]
         

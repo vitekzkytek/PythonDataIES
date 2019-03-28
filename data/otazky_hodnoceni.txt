@@ -1,0 +1,17 @@
+"q1";"Celkové hodnocení kurzu";"Overall evaluation of the course"
+"q2";"Obtížnost kurzu";"Difficulty of the course"
+"q3";"Hodnocení pedagogických dovedností pøednášejícího";"How would you evaluate the teaching skills of the lecturer"
+"q4";"Hodnocení pøístupu pøednášejícího ke studentùm";"How would you evaluate the lecturer''s attitude to his/her students?"
+"q5";"Pøínos úèasti na pøednášce";"Value of attending lectures"
+"q6";"Hodnocení pedagogických dovedností cvièícího";"How would you evaluate the teaching skills of seminar leader/instructor of the course"
+"q7";"Hodnocení pøístupu cvièícího ke studentùm";"How would you evaluate of the attitude of the seminar leader/instructor to his/her students"
+"q8";"Pøínos úèasti na cvièení'";"Value of attending seminars"
+"q9";"Výuka odpadávala, nebo byla bezdùvodnì krácena";"How often were classes cancelled or shortened without reason"
+"q10";"Pøínos kurzu v oblasti rozšíøení znalostí";"Value of the course in expanding your general knowledge"
+"q11";"Pøínos kurzu v oblasti nácviku dovedností";"Value of the course in learning to work with new approaches/new materials"
+"q12";"Pøínos kurzu v oblasti pochopení oborových souvislostí";"Value of the course in understanding the broader contexts of the subject area"
+"q13";"Doporuèil(a) byste kurz i dalším studentùm(kám) Vašeho oboru studia?";"Would you recommend the course to other students of your subject specialisation?"
+"t1";"Co v kurzu nejvíce oceòujete a navrhujete zachovat? Vypište:";"What did you value most about the course (write down):"
+"t2";"Co navrhujete v kurzu zlepšit? Vypište:";"What aspects of the course could be improved (write down):"
+
+

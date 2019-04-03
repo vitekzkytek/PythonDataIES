@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from IES_Pages import *
+from sqlalchemy import *
 
 
 class IES_Downloader:
@@ -144,3 +145,120 @@ class IES_Downloader:
         '''
         links = soup.select(cond)
         return ['http://ies.fsv.cuni.cz'  + l['href'] for l in links]
+    
+    def saveDFs(self):
+        dfs = {}
+        dfs['theses'] = pd.DataFrame([x.characteristics for x in self.theses])
+        dfs['courses'] = pd.DataFrame([x.characteristics for x in self.courses])
+        dfs['people'] =  pd.DataFrame([x.characteristics for x in self.people])    
+        self.dfs = dfs
+        
+    def initDB(self,connstring):        
+        engine = create_engine(connstring)
+        conn = engine.connect()
+        metadata = MetaData(engine)
+        return engine,conn,metadata
+
+    def saveToDB(self,connstring='postgresql://student_ies:PythonData@localhost:5432/student_ies'):
+        def simplifyColnames(df):
+            df.columns = [simplifyColname(col) for col in df.columns]
+            return df
+
+        def simplifyColname(s):
+            return s.replace(':','').replace(' ','_').lower()
+        
+        def generateSchema(df,metadata,tblName,conn):
+            # for all column names that are not id and name
+            cols = [col for col in df.columns if col not in ('id', 'name')]
+
+            # create a Column object (string value)
+            def giveType(colname):
+                l = ['bachelor_all','bachelor_awarded','master_all','master_awarded','Credit']
+                if colname in l:
+                    return Float()
+                else:
+                    return String()
+            colobjs = [Column(col,giveType(col)) for col in cols]
+
+            # then create a Table
+            tbl = Table(tblName,metadata,
+                       Column('id',String(),primary_key=True),
+                       Column('name',String()),
+                       *colobjs
+                       )
+            metadata.create_all()
+            d = df.to_dict(orient='records')
+
+            conn.execute(tbl.insert(),d)
+            return tbl
+
+        def generateConnections(df,N_col,col1,col2,):
+            l = []
+            for i,row in df.iterrows():
+                for sup in row[N_col]:
+                    l.append({col1:sup,col2:row['id']})
+            return l
+
+        def generateConnectionTable(tbl1,tbl2,data,conn,metadata):
+            tbl = Table('{}_{}'.format(tbl1,tbl2),metadata,
+                Column(tbl1 + '-id',String(),ForeignKey(tbl1 +'.id')),
+                Column(tbl2 + '-id',String(),ForeignKey(tbl2 +'.id'))
+               )
+            metadata.create_all()
+            conn.execute(tbl.insert(),data)
+
+        def insertNonExistingIDs(nonids,tbl,metadata,conn):
+            df = pd.DataFrame(columns=[c.name for c in tbl.columns])
+            df['id'] = nonids
+            d = df.to_dict(orient='records')
+            conn.execute(tbl.insert(),d)
+
+        def processNonExistingIDs(ids,newids,tbl,metadata,conn,meanwhileadded = []):
+            Tracer()()
+            def DoIDsExist(cell,ids,nonids):
+                for xid in cell:
+                    if xid not in ids:
+                        if xid not in nonids:
+                            if xid not in meanwhileadded:
+                                nonids += [xid]
+            nonids = []
+
+            newids.apply(lambda cell:DoIDsExist(cell,ids,nonids) ) # fills  previous list of nonids
+
+            insertNonExistingIDs(nonids,tbl,metadata,conn)
+            return meanwhileadded + nonids # return newly added items
+
+        #deepCopies
+        dfCourses = simplifyColnames(self.dfs['courses']).drop('supervisors',axis=1)
+        dfTheses = simplifyColnames(self.dfs['theses']).drop('supervisor-id',axis=1).rename({'thesis-id':'id'},axis=1)
+        dfPeople = simplifyColnames(self.dfs['people']).drop_duplicates('id')
+
+        # Initialize a DB
+        engine,conn,metadata = self.initDB(connstring)
+        
+        # drop previous versions
+        metadata.reflect(engine)
+        metadata.clear()
+        for tbl in reversed(metadata.sorted_tables):
+            engine.execute(tbl.delete())
+
+        #conn.commit()
+        # add raw tables
+        ppl = generateSchema(dfPeople,metadata,'people',conn)
+        crs = generateSchema(dfCourses,metadata,'courses',conn)
+        ths = generateSchema(dfTheses,metadata,'theses',conn)
+
+        #check if all related people exist and add those that do not
+        tblppl = Table('people', metadata, autoload=True, autoload_with=engine)
+        newids = processNonExistingIDs(self.dfs['people'].id.unique(),self.dfs['courses'].supervisors.dropna(),tblppl,metadata,conn)
+        processNonExistingIDs(self.dfs['people'].id.unique(),self.dfs['theses']['supervisor-id'],tblppl,metadata,conn,meanwhileadded=newids)
+
+        #add connecting tables  # will not work because there are people not listed
+
+        pplcrs = generateConnections(self.dfs['courses'][['id','supervisors']].dropna(),'supervisors','people-id','courses-id')
+        generateConnectionTable('people','courses',pplcrs,conn,metadata)
+
+        pplths = generateConnections(self.dfs['theses'][['supervisor-id','id']],'supervisor-id','people-id','theses-id')
+        generateConnectionTable('people','theses',pplths,conn,metadata)
+
+        conn.close()

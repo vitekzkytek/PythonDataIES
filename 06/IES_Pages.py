@@ -54,6 +54,7 @@ class IES_Web:
             valueText = el.next_sibling
             if valueText:
                 return valueText.strip()
+
         
     def pdSiblingsOfStrongParents(self,strongs):
         '''
@@ -291,7 +292,7 @@ class IES_Thesis(IES_Web):
         ser.loc['supervisor-id'] = supervisorlinks
         
         # add object attributes 
-        ser.loc['thesis-id'] = self.id
+        ser.loc['id'] = self.id
         ser.loc['name'] = self.name
         
         return ser

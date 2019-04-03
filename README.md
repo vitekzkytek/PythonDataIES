@@ -164,11 +164,11 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 27-28/2 | Strings, Floats, Lists, Dictionaries, Functions        | Vítek  |                        |HW 1|   |
 | 6-7/3  | Pandas, Matplotlib, Numpy                               | Martin |                        |HW 2|   |
 | 13-14/3 | Object-Oriented Programming                            | Martin |                        |HW 3|   |
-| 20-21/3 | HTML, XML, JSON                                        | Vítek  |                        |HW 4|   |
-| 27-28/3 | API + Scraping                                         | Vítek  | Project Topic Proposal |HW 5|   |
-| 3-4/4  | SQLite                                                  | Vítek  |                        |HW 6|   |
-| 10-11/4 | Advanced Pandas                                        | Martin | Project Topic Approval |    |   |
-| 17-18/4 | Bokeh + GitHub Pages                                   | Vítek  |                        |    |   |
-| 24-25/4 | Project Work 1                                         |        |                        |    |   |
+| 20-21/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vítek  |                        |HW 4|   |
+| 27-28/3 | IES Web Scraper                                        | Vítek  | Project Topic Proposal |    |   |
+| 3-4/4  | Introduction to SQL                                     | Vítek  |                        |HW 5|   |
+| 10-11/4 | Advanced Pandas                                        | Martin | Project Topic Approval |HW 6|   |
+| 17-18/4 | Project Work 1                                         | Vítek  |                        |    |   |
+| 24-25/4 | Efficient Computing                                    | Martin |                        |    |   |
 | 1-2/5  | Project Work 2                                          |        |                        |    |   |
-| 8-9/5  | Efficient Computing                                     | Martin |                        |    |   |
+| 8-9/5  | Guest Lecture                                           | Guest  |                        |    |   |

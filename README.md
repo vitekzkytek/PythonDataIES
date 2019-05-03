@@ -170,4 +170,4 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 17-18/4 | Project Work 1                                         | Vítek  |                        |    |   |
 | 24-25/4 | Efficient Computing                                    | Martin |                        |    |   |
 | 1-2/5  | Project Work 2                                          |        |                        |    |   |
-| 8-9/5  | Guest Lecture                                           | Guest  |                        |    |   |
+| 8-9/5  | Introduction to GeoData (Guest Lecture)                 | Guest  |                        |    |   |

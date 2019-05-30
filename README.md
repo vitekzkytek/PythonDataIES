@@ -169,5 +169,6 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 10-11/4 | Advanced Pandas                                        | Martin | Project Topic Approval |HW 6|   |
 | 17-18/4 | Project Work 1                                         | Vítek  |                        |    |   |
 | 24-25/4 | Efficient Computing                                    | Martin |                        |    |   |
-| 1-2/5  | Project Work 2                                          |        |                        |    |   |
-| 8-9/5  | Guest Lecture                                           | Guest  |                        |    |   |
+| 1-2/5  | Project Work 2                                          | Vítek  |                        |    |   |
+| 8-9/5  | Introduction to GeoData (Guest Lecture)                 | Guest  |                        |    |   |
+| 15-16/5 | Parallelization                                        | Martin |                       |    |   |

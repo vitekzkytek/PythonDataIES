@@ -84,61 +84,75 @@ No knowledge of Python is required for entering the course.
 Passing the course is rewarded with 5 ECTS credits.
 
 # Course requirements
-The requirement for passing the course are DataCamp assignments (6x5pts) and the final project (70pts).
+The requirement for passing the course are DataCamp assignments (0pts but compulsory), the midterm (30pts) and the final project (70pts).
 
-## DataCamp Assignments (30%)
-**Assignment 1** - Submission on 27/2 (Introduction to Python Course)
+## DataCamp Assignments (0%, compulsory)
+4 assignments out of assignments 1-6 submitted on time is required. 
+
+
+**Assignment 0** - (Introduction to Git)
+* not compulsory but strongly recommended. Git is hard and you will need it throughout the course.
+
+**Assignment 1** - Submission on 8/10 (Introduction to Python Course)
  1. Python Lists
  2. Python Basics
  3. Function and Packages
  
-**Assignment 2** - Submission on 6/3 (Manipulating DataFrames with pandas)
+**Assignment 2** - Submission on 15/10 (Manipulating DataFrames with pandas)
  1. Numpy
  2. Extracting and Transforming Data
  3. Advanced Indexing
  
- **Assignment 3** - Submission on 13/3 (Object-Oriented Programming in Python)
+ **Assignment 3** - Submission on 22/10 (Object-Oriented Programming in Python)
  1. Getting ready for object-oriented programming
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects
 
-**Assignment 4** - Submission on 20/3 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 29/10 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 5** - Submission on 5/4
+**Assignment 5** - Submission on 12/11 (Importing Data in Python (Part 2) Course)
  1. The Intro to SQL for Data Science (full course)
  
-**Assignment 6** - Submission on 10/4 
- 1. Concatenating data (Merging DataFrames with pandas)
- 2. Merging data (Merging DataFrames with pandas)
- 2. Rearranging and reshaping data  (Manipulating DataFrames with pandas)
- 3. Grouping data (Manipulating DataFrames with pandas)
+**Assignment 6** - Submission on 19/11 (Merging DataFrames with pandas Course)
+ 1. Concatenating and merging data
+ 2. Rearranging and reshaping data
+ 3. Grouping data
+
+## Midterm exam (30%)
+**Description:**
+* TBA 
 
 ## Final project (70%)
 **Description:**
 * Students in teams by 2
-* The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook. The project should be submitted as a GitHub repository
-* The selection of the data is entirely up to the students. 
+* The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts as .py files. The project should be submitted as a GitHub repository. 
+* The selection of the data is entirely up to the students.
+* More details during the lecture.
+
+See [an example project](https://github.com/habetinj/Project_work) from last year.
 
 **Deadlines:**
 
-March 27th: Project Topic First Submission
+November 12th: Project Topic First Submission
 
-April 10th: Project Topic Final Submission
+November 26th: Midterm Exam
 
-May 31st: Project Submission (to be confirmed)
+December 3rd: Project Topic Final Submission
+
+January 21st: Project Submission (to be confirmed)
 
 **Evaluation Criteria:** 
 1. The project use correctly downloaded data from the public API or website.
-2. The data were cleaned appropriately
-3. The data are visualized 
-4. The project is submitted as a public GitHub repository
-5. All team members collaborated on the GitHub repository (note that the history)
+2. The data were cleaned appropriately.
+3. The data are visualized. 
+4. The project is submitted as a public GitHub repository.
+5. All team members collaborated on the GitHub repository (compulsory and documented by git-log)
 6. The code is readable, commented and appropriately structured
 7. One ready-to-run method for downloading the data.
-8. Submitted as a jupyter notebook.
+8. Submitted as a jupyter notebook (suggest.: results as jupyter notebook, tools as .py files/ python package.)
 
 
 ## Grading scale
@@ -157,18 +171,18 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 
 
 # Course syllabus
-| Date | Topic                                                     | who    | Project                | HW |   |
-|------|-----------------------------------------------------------|--------|------------------------|----|---|
-| 20-21/2 | Intro + GitHub, Jupyter, DataCamp                      | Martin |                        |    |   |
-| 27-28/2 | Strings, Floats, Lists, Dictionaries, Functions        | Vítek  |                        |HW 1|   |
-| 6-7/3  | Pandas, Matplotlib, Numpy                               | Martin |                        |HW 2|   |
-| 13-14/3 | Object-Oriented Programming                            | Martin |                        |HW 3|   |
-| 20-21/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vítek  |                        |HW 4|   |
-| 27-28/3 | IES Web Scraper                                        | Vítek  | Project Topic Proposal |    |   |
-| 3-4/4  | Introduction to SQL                                     | Vítek  |                        |HW 5|   |
-| 10-11/4 | Advanced Pandas                                        | Martin | Project Topic Approval |HW 6|   |
-| 17-18/4 | Project Work 1                                         | Vítek  |                        |    |   |
-| 24-25/4 | Efficient Computing                                    | Martin |                        |    |   |
-| 1-2/5  | Project Work 2                                          | Vítek  |                        |    |   |
-| 8-9/5  | Introduction to GeoData (Guest Lecture)                 | Guest  |                        |    |   |
-| 15-16/5 | Parallelization                                        | Martin |                       |    |   |
+| Date | Topic                                                   | who    | Project                | HW |   |
+|------|---------------------------------------------------------|--------|------------------------|----|---|
+| 1/10 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |HW 0|   |
+| 8/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vítek  |                        |HW 1|   |
+| 15/10| Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
+| 22/10| Object-Oriented Programming                             | Martin |                        |HW 3|   |
+| 29/10| HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
+| 5/11 | IES Web Scraper                                         | Vítek  |                        |    |   |
+| 12/11| Introduction to Databases                               | Vítek  | Project Topic Proposal |HW 5|   |
+| 19/11| Advanced Pandas                                         | Martin |                        |HW 6|   |
+| 26/11| MIDTERM                                                 | Vítek  |                        |    |   |
+| 3/12 | Project Work 1                                          |        | Project Topic Approval |    |   |
+| 10/12| Guest Lecture (TBA)                                     | Guest  |                        |    |   |
+| 17/12| Efficient Computing / Parallelization                   | Martin |                        |    |   |
+| 7/1  | Project Work 2                  	                     |        |                        |    |   |

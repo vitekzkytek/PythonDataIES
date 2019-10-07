@@ -146,14 +146,15 @@ January 21st: Project Submission (to be confirmed)
 
 **Evaluation Criteria:** 
 1. The project use correctly downloaded data from the public API or website.
-2. The data were cleaned appropriately.
-3. The data are visualized. 
-4. The project is submitted as a public GitHub repository.
-5. All team members collaborated on the GitHub repository (compulsory and documented by git-log)
-6. The code is readable, commented and appropriately structured
-7. One ready-to-run method for downloading the data.
-8. Submitted as a jupyter notebook (suggest.: results as jupyter notebook, tools as .py files/ python package.)
-
+2. The download is easily reproducible
+3. The data were cleaned appropriately
+4. The data are visualized
+5. The project is submitted as a public GitHub repository
+6. All team members visibly collaborated on the GitHub repository
+7. The code is readable and well documented
+8. The code is object-oriented
+9. The project's summary is submitted as a jupyter notebook.
+10. Project is distributed as a Python package
 
 ## Grading scale
 * A: above 90 (not inclusive)

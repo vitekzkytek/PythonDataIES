@@ -1,0 +1,1 @@
+print('No computer has ever done anything wrong. Everything is your fault!')

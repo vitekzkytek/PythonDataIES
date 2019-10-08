@@ -123,7 +123,8 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
 
 ## Midterm exam (30%)
 **Description:**
-* TBA 
+* November 26th
+
 
 ## Final project (70%)
 **Description:**

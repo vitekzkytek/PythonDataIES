@@ -179,12 +179,12 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 8/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vítek  |                        |HW 1|   |
 | 15/10| Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
 | 22/10| Object-Oriented Programming                             | Martin |                        |HW 3|   |
-| 29/10| HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
-| 5/11 | IES Web Scraper                                         | Vítek  |                        |    |   |
-| 12/11| Introduction to Databases                               | Vítek  | Project Topic Proposal |HW 5|   |
+| 29/10| Dean's day                                              |    -   |                        |    |   |
+| 5/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
+| 12/11| IES Web Scraper                                         | Vítek  | Project Topic Proposal |    |   |
 | 19/11| Advanced Pandas                                         | Martin |                        |HW 6|   |
-| 26/11| MIDTERM                                                 | Vítek  |                        |    |   |
-| 3/12 | Project Work 1                                          |        | Project Topic Approval |    |   |
-| 10/12| Guest Lecture (TBA)                                     | Guest  |                        |    |   |
-| 17/12| Efficient Computing / Parallelization                   | Martin |                        |    |   |
-| 7/1  | Project Work 2                  	                     |        |                        |    |   |
+| 26/11| MIDTERM                                                 | both   |                        |    |   |
+| 3/12 | Introduction to Databases                               | Vítek  | Project Topic Approval |HW 5|   |
+| 10/12| Introduction to GeoData + Beer                          | Vítek  |                        |    |   |
+| 17/12| Project Work                                            |        |                        |    |   |
+| 7/1  | Efficient Computing / Parallelization                   | Martin |                        |    |   |

@@ -108,12 +108,12 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects
 
-**Assignment 4** - Submission on 29/10 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 5/11 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 5** - Submission on 12/11 (Importing Data in Python (Part 2) Course)
+**Assignment 5** - Submission on 3/12 (Importing Data in Python (Part 2) Course)
  1. The Intro to SQL for Data Science (full course)
  
 **Assignment 6** - Submission on 19/11 (Merging DataFrames with pandas Course)

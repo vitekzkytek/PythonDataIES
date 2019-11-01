@@ -137,7 +137,7 @@ See [an example project](https://github.com/habetinj/Project_work) from last yea
 
 **Deadlines:**
 
-November 12th: Project Topic First Submission
+November 19th: Project Topic First Submission
 
 November 26th: Midterm Exam
 
@@ -181,8 +181,8 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 22/10| Object-Oriented Programming                             | Martin |                        |HW 3|   |
 | 29/10| Dean's day                                              |    -   |                        |    |   |
 | 5/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
-| 12/11| IES Web Scraper                                         | Vítek  | Project Topic Proposal |    |   |
-| 19/11| Advanced Pandas                                         | Martin |                        |HW 6|   |
+| 12/11| IES Web Scraper                                         | Vítek  |                        |    |   |
+| 19/11| Advanced Pandas                                         | Martin | Project Topic Proposal |HW 6|   |
 | 26/11| MIDTERM                                                 | both   |                        |    |   |
 | 3/12 | Introduction to Databases                               | Vítek  | Project Topic Approval |HW 5|   |
 | 10/12| Introduction to GeoData + Beer                          | Vítek  |                        |    |   |

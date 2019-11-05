@@ -108,12 +108,12 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects
 
-**Assignment 4** - Submission on 29/10 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 5/11 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 5** - Submission on 12/11 (Importing Data in Python (Part 2) Course)
+**Assignment 5** - Submission on 3/12 (Importing Data in Python (Part 2) Course)
  1. The Intro to SQL for Data Science (full course)
  
 **Assignment 6** - Submission on 19/11 (Merging DataFrames with pandas Course)
@@ -137,7 +137,7 @@ See [an example project](https://github.com/habetinj/Project_work) from last yea
 
 **Deadlines:**
 
-November 12th: Project Topic First Submission
+November 19th: Project Topic First Submission
 
 November 26th: Midterm Exam
 
@@ -179,12 +179,12 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 8/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vítek  |                        |HW 1|   |
 | 15/10| Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
 | 22/10| Object-Oriented Programming                             | Martin |                        |HW 3|   |
-| 29/10| HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
-| 5/11 | IES Web Scraper                                         | Vítek  |                        |    |   |
-| 12/11| Introduction to Databases                               | Vítek  | Project Topic Proposal |HW 5|   |
-| 19/11| Advanced Pandas                                         | Martin |                        |HW 6|   |
-| 26/11| MIDTERM                                                 | Vítek  |                        |    |   |
-| 3/12 | Project Work 1                                          |        | Project Topic Approval |    |   |
-| 10/12| Guest Lecture (TBA)                                     | Guest  |                        |    |   |
-| 17/12| Efficient Computing / Parallelization                   | Martin |                        |    |   |
-| 7/1  | Project Work 2                  	                     |        |                        |    |   |
+| 29/10| Dean's day                                              |    -   |                        |    |   |
+| 5/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
+| 12/11| IES Web Scraper                                         | Vítek  |                        |    |   |
+| 19/11| Advanced Pandas                                         | Martin | Project Topic Proposal |HW 6|   |
+| 26/11| MIDTERM                                                 | both   |                        |    |   |
+| 3/12 | Introduction to Databases                               | Vítek  | Project Topic Approval |HW 5|   |
+| 10/12| Introduction to GeoData + Beer                          | Vítek  |                        |    |   |
+| 17/12| Project Work                                            |        |                        |    |   |
+| 7/1  | Efficient Computing / Parallelization                   | Martin |                        |    |   |

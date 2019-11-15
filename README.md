@@ -133,7 +133,7 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
 * The selection of the data is entirely up to the students.
 * More details during the lecture.
 
-See [an example project](https://github.com/habetinj/Project_work) from last year.
+See [an example project](https://github.com/vitekzkytek/Example_Project) from last year.
 
 **Deadlines:**
 

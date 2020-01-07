@@ -143,7 +143,7 @@ November 26th: Midterm Exam
 
 December 3rd: Project Topic Final Submission
 
-January 21st: Project Submission (to be confirmed)
+January 21st: Project Submission
 
 **Evaluation Criteria:** 
 1. The project use correctly downloaded data from the public API or website.

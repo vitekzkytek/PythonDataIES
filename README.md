@@ -122,7 +122,7 @@ See example projects from the previous semesters [here](https://github.com/vitek
  Passing the course is rewarded with 5 ECTS credits.
 
  # A sneak peek
-IES web parser.
+[IES web parser.](https://github.com/vitekzkytek/PythonDataIES/blob/master/IES_Web.ipynb)
  
  # Materials
 

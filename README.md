@@ -1,5 +1,5 @@
 # Data Processing in Python (JEM207)
-The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
+The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 # Course syllabus
 | Date | Topic                                                   | who    | Project                | HW |   |
@@ -13,10 +13,10 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 31/3 | Advanced Pandas                                         | Martin | Project Topic Proposal |HW 5|   |
 | 7/4  | MIDTERM                                                 | both   |                        |    |   |
 | 14/4 | Introduction to Databases                               | Jan    | Project Topic Approval |HW 6|   |
-| 21/4 | Project Work 1                                          | both   |                        |    |   |
+| 21/4 | Project Work 1                                          | both   | Work-in-progress       |    |   |
 | 28/4 | Guest Lecture + Beer MeetUp                             | TBD    |                        |    |   |
 | 5/5  | Efficient Computing / Parallelization                   | Martin |                        |    |   |
-| 12/5 | Project Work 2                                          | Both   |                        |    |   |
+| 12/5 | Project Work 2                                          | Both   | Work-in-progress       |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (5pts), and the final project - including the final delivery presentation (65pts).
@@ -32,7 +32,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 See example projects from the previous semesters [here](https://github.com/vitekzkytek/Example_Project) or [here](https://github.com/martinhronec/IES_Data-Project) from last year.
 
 ## Project work - presentation (5%)
-* Presentation of work-in-progress related to the final project (during the lectures "Project work 1 or 2" on 21/4 or 5/5)
+* Presentation of work-in-progress related to the final project (during the lectures "Project work 1 or 2" on 21/4 or 12/5)
 
 ## Midterm exam (25%)
 Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before.

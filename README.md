@@ -35,8 +35,7 @@ See example projects from the previous semesters [here](https://github.com/vitek
 * Presentation of work-in-progress related to the final project (during the lectures "Project work 1 or 2" on 21/4 or 12/5)
 
 ## Midterm exam (25%)
-Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before.
-* April 4th
+4th of April. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.

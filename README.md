@@ -108,12 +108,12 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects
 
-**Assignment 4** - Submission on 29/10 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 5/11 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 5** - Submission on 12/11 (Importing Data in Python (Part 2) Course)
+**Assignment 5** - Submission on 3/12 (Importing Data in Python (Part 2) Course)
  1. The Intro to SQL for Data Science (full course)
  
 **Assignment 6** - Submission on 19/11 (Merging DataFrames with pandas Course)
@@ -123,7 +123,8 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
 
 ## Midterm exam (30%)
 **Description:**
-* TBA 
+* November 26th
+
 
 ## Final project (70%)
 **Description:**
@@ -132,28 +133,29 @@ The requirement for passing the course are DataCamp assignments (0pts but compul
 * The selection of the data is entirely up to the students.
 * More details during the lecture.
 
-See [an example project](https://github.com/habetinj/Project_work) from last year.
+See [an example project](https://github.com/vitekzkytek/Example_Project) from last year.
 
 **Deadlines:**
 
-November 12th: Project Topic First Submission
+November 19th: Project Topic First Submission
 
 November 26th: Midterm Exam
 
 December 3rd: Project Topic Final Submission
 
-January 21st: Project Submission (to be confirmed)
+January 21st: Project Submission
 
 **Evaluation Criteria:** 
 1. The project use correctly downloaded data from the public API or website.
-2. The data were cleaned appropriately.
-3. The data are visualized. 
-4. The project is submitted as a public GitHub repository.
-5. All team members collaborated on the GitHub repository (compulsory and documented by git-log)
-6. The code is readable, commented and appropriately structured
-7. One ready-to-run method for downloading the data.
-8. Submitted as a jupyter notebook (suggest.: results as jupyter notebook, tools as .py files/ python package.)
-
+2. The download is easily reproducible
+3. The data were cleaned appropriately
+4. The data are visualized
+5. The project is submitted as a public GitHub repository
+6. All team members visibly collaborated on the GitHub repository
+7. The code is readable and well documented
+8. The code is object-oriented
+9. The project's summary is submitted as a jupyter notebook.
+10. Project is distributed as a Python package
 
 ## Grading scale
 * A: above 90 (not inclusive)
@@ -177,12 +179,12 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 8/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vítek  |                        |HW 1|   |
 | 15/10| Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
 | 22/10| Object-Oriented Programming                             | Martin |                        |HW 3|   |
-| 29/10| HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
-| 5/11 | IES Web Scraper                                         | Vítek  |                        |    |   |
-| 12/11| Introduction to Databases                               | Vítek  | Project Topic Proposal |HW 5|   |
-| 19/11| Advanced Pandas                                         | Martin |                        |HW 6|   |
-| 26/11| MIDTERM                                                 | Vítek  |                        |    |   |
-| 3/12 | Project Work 1                                          |        | Project Topic Approval |    |   |
-| 10/12| Guest Lecture (TBA)                                     | Guest  |                        |    |   |
-| 17/12| Efficient Computing / Parallelization                   | Martin |                        |    |   |
-| 7/1  | Project Work 2                  	                     |        |                        |    |   |
+| 29/10| Dean's day                                              |    -   |                        |    |   |
+| 5/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Vítek  |                        |HW 4|   |
+| 12/11| IES Web Scraper                                         | Vítek  |                        |    |   |
+| 19/11| Advanced Pandas                                         | Martin | Project Topic Proposal |HW 6|   |
+| 26/11| MIDTERM                                                 | both   |                        |    |   |
+| 3/12 | Introduction to Databases                               | Vítek  | Project Topic Approval |HW 5|   |
+| 10/12| Introduction to GeoData + Beer                          | Vítek  |                        |    |   |
+| 17/12| Project Work                                            |        |                        |    |   |
+| 7/1  | Efficient Computing / Parallelization                   | Martin |                        |    |   |

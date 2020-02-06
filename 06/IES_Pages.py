@@ -47,7 +47,7 @@ class IES_Web:
         for the following structure:
         <strong>strongText</strong> valueText 
         
-        takes strongText as an input and returns ValueText (stripped) or None, if StrongText does not exist
+        takes strongText as an input and returns ValueText (stripped) or None, if StrongText or valueText does not exist
         '''
         el = self.soup.find('strong',text=strongText)
         if el:
@@ -106,7 +106,7 @@ class IES_Web:
         
         headerText -- string expected inside <h3> element
         
-        returns (number1/number2) or (None,None)
+        returns (number1,number2) or (None,None)
         '''
         el = self.soup.find('h3',text=headerText)
         if el:
@@ -138,6 +138,7 @@ class IES_Web:
         tds = [td.text for td in el.findAll('td')]
         
         return pd.Series(tds,index=ths)
+    
     def getLinksWithStringFromEl(self,selector,linkText):
         '''
         Inside the element specified by a selector finds all links containing linkText

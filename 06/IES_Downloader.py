@@ -67,7 +67,7 @@ class IES_Downloader:
         if self.allowLog:
             print('Found {} Theses-links for {}'.format(len(self.links['theses'][category]),category))
 
-    def downloadPeople(self,pause=0.1):
+    def downloadPeople(self,pause=0.5):
         '''
         Download all links stored in self.link['people'] and store it in self.people
         pause -- how long to pause between requests? (in seconds)
@@ -85,7 +85,7 @@ class IES_Downloader:
         if self.allowLog:
             print('Succesfully downloaded {} persons'.format(len(self.people)))
 
-    def downloadTheses(self,pause=0.1):
+    def downloadTheses(self,pause=0.5):
         '''
         Download all links stored in self.link['theses'] and store it in self.theses
         pause -- how long to pause between requests? (in seconds)
@@ -104,7 +104,7 @@ class IES_Downloader:
         if self.allowLog:
             print('Succesfully downloaded {} theses'.format(len(self.theses)))
 
-    def downloadCourses(self,pause=0.1):
+    def downloadCourses(self,pause=0.5):
         '''
         Download all links stored in self.link['courses'] and store it in self.courses
         pause -- how long to pause between requests? (in seconds)
@@ -214,7 +214,7 @@ class IES_Downloader:
             conn.execute(tbl.insert(),d)
 
         def processNonExistingIDs(ids,newids,tbl,metadata,conn,meanwhileadded = []):
-            Tracer()()
+            breakpoint()
             def DoIDsExist(cell,ids,nonids):
                 for xid in cell:
                     if xid not in ids:

@@ -1,1 +1,0 @@
-variable_from_init = 42

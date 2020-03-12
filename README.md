@@ -1,22 +1,31 @@
 # Data Processing in Python (JEM207)
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
+## INFO
+Lecture March 10 was last-minute cancelled as part of the steps taken to slow down spread of the COVID-19 virus.
+We've also updated the schedule below.
+The format of lectures during the next weeks will be specified before the next lecture (17/3).
+Deadlines for DataCamp stay the same. 
+
+Stay safe! 
+
 # Course syllabus
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
 | 18/2 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
 | 25/2 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 0 & 1|   |
 | 3/3  | Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
-| 10/3 | Object-Oriented Programming                             | Martin |                        |HW 3|   |
-| 17/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
-| 24/3 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
-| 31/3 | Advanced Pandas                                         | Martin | Project Topic Proposal |HW 5|   |
+| 10/3 | CANCELLED                                               | --     |                        |HW 3|   |
+| 17/3 | Object-Oriented Programming                             | Martin |                        |    |   |
+| 24/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
+| 31/3 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
 | 7/4  | MIDTERM                                                 | both   |                        |    |   |
-| 14/4 | Introduction to Databases                               | Jan    | Project Topic Approval |HW 6|   |
-| 21/4 | Project Work 1                                          | both   | Work-in-progress       |    |   |
-| 28/4 | Guest Lecture + Beer MeetUp                             | TBD    |                        |    |   |
-| 5/5  | Efficient Computing / Parallelization                   | Martin |                        |    |   |
-| 12/5 | Project Work 2                                          | Both   | Work-in-progress       |    |   |
+| 14/4 | Advanced Pandas                                         | Martin | Project Topic Proposal |HW 5|   |
+| 21/4 | Introduction to Databases                               | Jan    | Project Topic Approval |HW 6|   |
+| 28/4 | Project Work 1                                          | both   | Work-in-progress       |    |   |
+| 5/5 | Guest Lecture + Beer MeetUp                              | TBD    |                        |    |   |
+| 12/5  | Efficient Computing / Parallelization                  | Martin |                        |    |   |
+| 19/5 | Project Work 2                                          | Both   | Work-in-progress       |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (5pts), and the final project - including the final delivery presentation (65pts).

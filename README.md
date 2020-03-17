@@ -2,11 +2,13 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 
-## Update 17.3.
-Once SIS will be back up again, we will upload video of the 4th lecture into SIS.
+## INFO
+
+### Update 17.3.
+Recording of the 4th lecture was uploaded into SIS.
 We are aware that we lack interactivity, so if you would like to have an individual consultation, please send us e-mail and we can arrange it using screen-sharing.
 
-## INFO
+### Update 11.3. 
 Lecture March 10 was last-minute cancelled as part of the steps taken to slow down spread of the COVID-19 virus.
 We've also updated the schedule below.
 The format of lectures during the next weeks will be specified before the next lecture (17/3).

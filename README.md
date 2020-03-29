@@ -4,6 +4,9 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 
 ## INFO
 
+### Update 29.3. 
+Due date for HW 4 was (as can be seen in the Datacamp) 24.3. I (Martin) made a mistake when updating the course shedule here on GitHub and set it wrongly to 31.3. For those of you who have not completed it yet, due date is set to 31.3. and was already updated in Datacamp. Sorry for confusion.
+
 ### Update 17.3.
 Recording of the 4th lecture was uploaded into SIS.
 We are aware that we lack interactivity, so if you would like to have an individual consultation, please send us e-mail and we can arrange it using screen-sharing.

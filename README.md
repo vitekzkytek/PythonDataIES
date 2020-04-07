@@ -2,6 +2,10 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 
+### [Link to the MIDTERM EXAM](https://github.com/martinhronec/MIDTERM/blob/master/README.md)
+
+Good luck!
+
 ## INFO
 
 ### Update 29.3. 

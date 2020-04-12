@@ -8,6 +8,10 @@ Good luck!
 
 ## INFO
 
+### Update 12.4.
+Deadline for project proposals moved to 21.4 and deadline for project approvals moved to 28.4.
+Schedule for the rest of the semester updated. See the Course syllabus.
+
 ### Update 29.3. 
 Due date for HW 4 was (as can be seen in the Datacamp) 24.3. I (Martin) made a mistake when updating the course shedule here on GitHub and set it wrongly to 31.3. For those of you who have not completed it yet, due date is set to 31.3. and was already updated in Datacamp. Sorry for confusion.
 
@@ -34,12 +38,12 @@ Stay safe!
 | 24/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
 | 31/3 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
 | 7/4  | MIDTERM                                                 | both   |                        |    |   |
-| 14/4 | Advanced Pandas                                         | Martin | Project Topic Proposal |HW 5|   |
-| 21/4 | Introduction to Databases                               | Jan    | Project Topic Approval |HW 6|   |
-| 28/4 | Project Work 1                                          | both   | Work-in-progress       |    |   |
-| 5/5 | Guest Lecture + Beer MeetUp                              | TBD    |                        |    |   |
-| 12/5  | Efficient Computing / Parallelization                  | Martin |                        |    |   |
-| 19/5 | Project Work 2                                          | Both   | Work-in-progress       |    |   |
+| 14/4 | Advanced Pandas                                         | Martin |                        |HW 5|   |
+| 21/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
+| 28/4 | Efficient Computing / Parallelization                   | Martin | Project Topic Approval |    |   |
+| 5/5  | ML and Python                                           | both   |                        |    |   |
+| -  | Project Work 1                                            | both   | Work-in-progress       |    |   |
+| -  | Project Work 2                                            | both   | Work-in-progress       |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (5pts), and the final project - including the final delivery presentation (65pts).
@@ -55,7 +59,8 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 See example projects from the previous semesters [here](https://github.com/vitekzkytek/Example_Project) or [here](https://github.com/martinhronec/IES_Data-Project) from last year.
 
 ## Project work - presentation (5%)
-* Presentation of work-in-progress related to the final project (during the lectures "Project work 1 or 2" on 21/4 or 12/5)
+* Presentation of work-in-progress related to the final project (remote meeting "Project work 1 or 2" during the
+2 weeks from 5/5 to 19/5)
 
 ## Midterm exam (25%)
 7th of April. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before

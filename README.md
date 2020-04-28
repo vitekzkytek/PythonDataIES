@@ -11,7 +11,7 @@ Good luck!
 
 ### Update 28.4.
 
-Materials for the (originally scheduled) 7th lecture have heen uploaded. You can learn something about generators, iterators, decorators and efficient computing. There is no video lecture acompanying this material as we've realized how many of you are actually watching these and we have no ambition to join the ranks of teachers lecturing in front of the empty class.
+Materials for the (originally scheduled) 7th lecture have heen uploaded. You can learn something about generators, iterators, decorators and efficient computing. There is no video lecture accompanying this material as we've realized how many of you are actually watching these and we have no ambition to join the ranks of teachers lecturing in front of the empty class.
 
 Given your keen interest in our lectures, we have decided to make consultation (presentation of work-in-progress) more fun and provide you with more detailed feedback than you might like.
 

@@ -8,6 +8,19 @@ Good luck!
 
 ## INFO
 
+
+### Update 28.4.
+
+Materials for the (originally scheduled) 7th lecture have heen uploaded. You can learn something about generators, iterators, decorators and efficient computing. There is no video lecture acompanying this material as we've realized how many of you are actually watching these and we have no ambition to join the ranks of teachers lecturing in front of the empty class.
+
+Given your keen interest in our lectures, we have decided to make consultation (presentation of work-in-progress) more fun and provide you with more detailed feedback than you might like.
+
+[Here](https://docs.google.com/spreadsheets/d/1Ix7lQG_6ItbavmhEcbDHn2PbAwKkPdC3XqoHj9lAUHs/edit?usp=sharing) is the link for the scheduled dates and times of team consultations. Please reserve your spot as it is on the first come, first served basis. Deadline for having your consultation arranged is 8.5.  
+
+Length of the consultation will be approximately 30 minutes. Both of the team members should be present.
+Send underlying codes and materials at least 3 days ahead, so we can have a thorough look at it.
+If none of the dates or times are suitable for you, write me an email and we can arrange consultation at another time.	
+
 ### Update 12.4.
 Deadline for project proposals moved to 21.4 and deadline for project approvals moved to 28.4.
 Schedule for the rest of the semester updated. See the Course syllabus.

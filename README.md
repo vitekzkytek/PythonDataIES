@@ -1,62 +1,22 @@
 # Data Processing in Python (JEM207)
-The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
+The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
-
-### [Link to the MIDTERM EXAM](https://github.com/martinhronec/MIDTERM/blob/master/README.md)
-
-Good luck!
-
-## INFO
-
-
-### Update 28.4.
-
-Materials for the (originally scheduled) 7th lecture have heen uploaded. You can learn something about generators, iterators, decorators and efficient computing. There is no video lecture accompanying this material as we've realized how many of you are actually watching these and we have no ambition to join the ranks of teachers lecturing in front of the empty class.
-
-Given your keen interest in our lectures, we have decided to make consultation (presentation of work-in-progress) more fun and provide you with more detailed feedback than you might like.
-
-[Here](https://docs.google.com/spreadsheets/d/1Ix7lQG_6ItbavmhEcbDHn2PbAwKkPdC3XqoHj9lAUHs/edit?usp=sharing) is the link for the scheduled dates and times of team consultations. Please reserve your spot as it is on the first come, first served basis. Deadline for having your consultation arranged is 8.5.  
-
-Length of the consultation will be approximately 30 minutes. Both of the team members should be present.
-Send underlying codes and materials at least 3 days ahead, so we can have a thorough look at it.
-If none of the dates or times are suitable for you, write me an email and we can arrange consultation at another time.	
-
-### Update 12.4.
-Deadline for project proposals moved to 21.4 and deadline for project approvals moved to 28.4.
-Schedule for the rest of the semester updated. See the Course syllabus.
-
-### Update 29.3. 
-Due date for HW 4 was (as can be seen in the Datacamp) 24.3. I (Martin) made a mistake when updating the course shedule here on GitHub and set it wrongly to 31.3. For those of you who have not completed it yet, due date is set to 31.3. and was already updated in Datacamp. Sorry for confusion.
-
-### Update 17.3.
-Recording of the 4th lecture was uploaded into SIS.
-We are aware that we lack interactivity, so if you would like to have an individual consultation, please send us e-mail and we can arrange it using screen-sharing.
-
-### Update 11.3. 
-Lecture March 10 was last-minute cancelled as part of the steps taken to slow down spread of the COVID-19 virus.
-We've also updated the schedule below.
-The format of lectures during the next weeks will be specified before the next lecture (17/3).
-Deadlines for DataCamp stay the same. 
-
-Stay safe! 
-
-# Course syllabus
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
-| 18/2 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
-| 25/2 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 0 & 1|   |
-| 3/3  | Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
-| 10/3 | CANCELLED                                               | --     |                        |HW 3|   |
-| 17/3 | Object-Oriented Programming                             | Martin |                        |    |   |
-| 24/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
-| 31/3 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
-| 7/4  | MIDTERM                                                 | both   |                        |    |   |
-| 14/4 | Advanced Pandas                                         | Martin |                        |HW 5|   |
-| 21/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
-| 28/4 | Efficient Computing / Parallelization                   | Martin | Project Topic Approval |    |   |
-| 5/5  | ML and Python                                           | both   |                        |    |   |
-| -  | Project Work 1                                            | both   | Work-in-progress       |    |   |
-| -  | Project Work 2                                            | both   | Work-in-progress       |    |   |
+| 29/9 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
+| 6/10 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 0 & 1|   |
+| 13/10  | Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
+| 20/10 | CANCELLED                                               | --     |                        |HW 3|   |
+| 27/10 | Object-Oriented Programming                             | Martin |                        |    |   |
+| 3/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
+| 10/11 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
+17/11  | State Holiday                                                 | both   |                        |    |   |
+| 24/11 | Advanced Pandas                                         | Martin |                        |HW 5|   |
+| 1/12 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
+| 8/12 | Efficient Computing / Parallelization                   | Martin | Project Topic Approval |    |   |
+| 15/12  | ML and Python                                           | both   |                        |    |   |
+| 22/12  | Project Work 1                                            | both   | Work-in-progress       |    |   |
+| 5/1  | Project Work 2                                            | both   | Work-in-progress       |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (5pts), and the final project - including the final delivery presentation (65pts).
@@ -76,7 +36,7 @@ See example projects from the previous semesters [here](https://github.com/vitek
 2 weeks from 5/5 to 19/5)
 
 ## Midterm exam (25%)
-7th of April. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
+DD-MM-YYYY. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.

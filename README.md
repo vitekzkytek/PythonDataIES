@@ -5,9 +5,11 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 |------|---------------------------------------------------------|--------|------------------------|----|---|
 | 29/9 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
 | 6/10 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 0 & 1|   |
-| 13/10  | Numpy, Pandas, Matplotlib                               | Martin |                        |HW 2|   |
-| 20/10 | CANCELLED                                               | --     |                        |HW 3|   |
-| 27/10 | Object-Oriented Programming                             | Martin |                        |    |   |
+| 12/10 | Seminar (Git + Basic Python)                           | Martin |                        |    |   |
+| 13/10 | Numpy, Pandas, Matplotlib                              | Martin |                        |HW 2|   |
+| 20/10 | Object-Oriented Programming                            | --     |                        |HW 3|   |
+| 26/10 | Seminar                                                | Martin |                        |    |   |
+| 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Martin |                        |    |   |
 | 3/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
 | 10/11 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
 17/11  | State Holiday                                                 | both   |                        |    |   |

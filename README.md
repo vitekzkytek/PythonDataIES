@@ -9,16 +9,19 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 13/10 | Numpy, Pandas, Matplotlib                              | Martin |                        |HW 2|   |
 | 20/10 | Object-Oriented Programming                            | --     |                        |HW 3|   |
 | 26/10 | Seminar                                                | Martin |                        |    |   |
-| 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Martin |                        |    |   |
-| 3/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
-| 10/11 | IES Web Scraper                                         | Jan    |                        |HW 4|   |
-17/11  | State Holiday                                                 | both   |                        |    |   |
-| 24/11 | Advanced Pandas                                         | Martin |                        |HW 5|   |
-| 1/12 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
-| 8/12 | Efficient Computing / Parallelization                   | Martin | Project Topic Approval |    |   |
-| 15/12  | ML and Python                                           | both   |                        |    |   |
-| 22/12  | Project Work 1                                            | both   | Work-in-progress       |    |   |
-| 5/1  | Project Work 2                                            | both   | Work-in-progress       |    |   |
+| 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vitek  |                        |    |   |
+| 3/11 | IES Web Scraper                                         | Vitek  |                        |    |   |
+| 9/11 | Seminar                                                 | Vitek  |                        |    |   |
+| 10/11 | Advanced Pandas                                        | Jan    |                        |HW 4|   |
+| 17/11 | State Holiday                                          | both   |                        |    |   |
+| 23/11 | Seminar - MIDTERM                                      | Martin |                        |HW 5|   |
+| 24/11 | Introduction to Databases                               | Martin |                        |HW 5|   |
+| 1/12  | Efficient Computing                                    | Jan    | Project Topic Proposal |HW 6|   |
+| 7/12 | Seminar                                                 | Martin | Project Topic Approval |    |   |
+| 8/12 |  Parallelization                                        | Martin | Project Topic Approval |    |   |
+| 15/12  | Guest Lecture                                         | both   |                       |    |   |
+| 21/12  | Project Work 2 (Seminar)                              | both   | Work-in-progress       |    |   |
+| 22/12  | Project Work 2                                        | both   | Work-in-progress       |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (5pts), and the final project - including the final delivery presentation (65pts).

@@ -11,11 +11,11 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 26/10 | Seminar                                                | --     |                        |    |   |
 | 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vitek  |                        |    |   |
 | 3/11 | IES Web Scraper                                         | Vitek  |                        |    |   |
-| 9/11 | Seminar                                                 | --     |                        |    |   |
-| 10/11 | Advanced Pandas                                        | --     |                        |HW 4|   |
+| 9/11 | Seminar                                                 | Vitek  |                        |    |   |
+| 10/11 | Advanced Pandas                                        | Vitek  |                        |HW 4|   |
 | 17/11 | State Holiday                                          | --     |                        |    |   |
 | 23/11 | Seminar - MIDTERM                                      | full house |                        |HW 5|   |
-| 24/11 | Introduction to Databases                              | --     |                        |HW 5|   |
+| 24/11 | Introduction to Databases                              | Jan    |                        |HW 5|   |
 | 1/12  | Efficient Computing                                    | --     | Project Topic Proposal |HW 6|   |
 | 7/12 | Seminar                                                 | --     | Project Topic Approval |    |   |
 | 8/12 |  Parallelization                                        | Martin | Project Topic Approval |    |   |

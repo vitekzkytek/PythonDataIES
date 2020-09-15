@@ -24,10 +24,10 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 22/12  | Project Work 2                                        | full house   | Work-in-progress       |    |   |
 
 # Course requirements
-The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (5pts), and the final project - including the final delivery presentation (65pts).
+The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
 At least 50% from the DataCamp assignments and work-in-progress presentation is required for passing the course.
 
-## Final project (65%)
+## Final project (60%)
 * Students in teams by 2
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
@@ -36,46 +36,45 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 See example projects from the previous semesters [here](https://github.com/vitekzkytek/Example_Project) or [here](https://github.com/martinhronec/IES_Data-Project) from last year.
 
-## Project work - presentation (5%)
-* Presentation of work-in-progress related to the final project (remote meeting "Project work 1 or 2" during the
-2 weeks from 5/5 to 19/5)
+## Project work - presentation (10%)
+* Presentation of work-in-progress related to the final project.
 
 ## Midterm exam (25%)
-DD-MM-YYYY. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
+23/11. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.
 
 
-**Assignment 0** - Submission on 25/2 (Introduction to Git)
+**Assignment 0** - Submission on 12/10 (Introduction to Git)
 * Compulsory. Git is hard and you will need it throughout the course.
 
-**Assignment 1** - Submission on 25/2 (Introduction to Python Course)
+**Assignment 1** - Submission on 12/10 (Introduction to Python Course)
  1. Python Lists
  2. Python Basics
  3. Function and Packages
 
-**Assignment 2** - Submission on 3/3 (Manipulating DataFrames with pandas)
+**Assignment 2** - Submission on 13/10 (Manipulating DataFrames with pandas)
  1. Numpy
  2. Extracting and Transforming Data
  3. Advanced Indexing
 
- **Assignment 3** - Submission on 10/3 (Object-Oriented Programming in Python)
+ **Assignment 3** - Submission on 20/10 (Object-Oriented Programming in Python)
  1. Getting ready for object-oriented programming
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects
 
-**Assignment 4** - Submission on 24/3 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 3/11 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
 
- **Assignment 5** - Submission on 31/3 (Merging DataFrames with pandas Course)
+ **Assignment 5** - Submission on 10/11 (Merging DataFrames with pandas Course)
   1. Concatenating and merging data
   2. Rearranging and reshaping data
   3. Grouping data
 
-**Assignment 6** - Submission on 14/4 (Importing Data in Python (Part 2) Course)
+**Assignment 6** - Submission on 24/11 (Importing Data in Python (Part 2) Course)
  1. The Intro to SQL for Data Science (full course)
 
 

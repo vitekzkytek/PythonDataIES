@@ -6,9 +6,9 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 29/9 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
 | 6/10 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 0 & 1|   |
 | 12/10 | Seminar (Git + Basic Python)                           | Martin |                        |    |   |
-| 13/10 | Numpy, Pandas, Matplotlib                              | --     |                        |HW 2|   |
-| 20/10 | Object-Oriented Programming                            | --     |                        |HW 3|   |
-| 26/10 | Seminar                                                | --     |                        |    |   |
+| 13/10 | Numpy, Pandas, Matplotlib                              | Jan    |                        |HW 2|   |
+| 20/10 | Object-Oriented Programming                            | Jan    |                        |HW 3|   |
+| 26/10 | Seminar                                                | Jan     |                        |    |   |
 | 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vitek  |                        |    |   |
 | 3/11 | IES Web Scraper                                         | Vitek  |                        |    |   |
 | 9/11 | Seminar                                                 | Vitek  |                        |    |   |
@@ -16,9 +16,9 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 17/11 | State Holiday                                          | --     |                        |    |   |
 | 23/11 | Seminar - MIDTERM                                      | full house |                        |HW 5|   |
 | 24/11 | Introduction to Databases                              | Jan    |                        |HW 5|   |
-| 1/12  | Efficient Computing                                    | --     | Project Topic Proposal |HW 6|   |
-| 7/12 | Seminar                                                 | --     | Project Topic Approval |    |   |
-| 8/12 |  Parallelization                                        | Martin | Project Topic Approval |    |   |
+| 1/12  | Efficient Computing                                    | Martin     | Project Topic Proposal |HW 6|   |
+| 7/12 |  Parallelization                                        | Martin     | Project Topic Approval |    |   |
+| 8/12 |  Seminar                                                | Martin | Project Topic Approval |    |   |
 | 15/12  | Guest Lecture                                         | TBD    |                       |    |   |
 | 21/12  | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
 | 22/12  | Project Work 2                                        | full house   | Work-in-progress       |    |   |

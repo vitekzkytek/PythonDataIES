@@ -34,7 +34,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 * Git collaboration as a proof of collaboration of both students.
 * More details during the lecture.
 
-See example projects from the previous semesters [here](https://github.com/vitekzkytek/Example_Project) or [here](https://github.com/martinhronec/IES_Data-Project) from last year.
+See example project from the previous semesters [here](https://github.com/vitekzkytek/Example_Project) from last year.
 
 ## Project work - presentation (10%)
 * Presentation of work-in-progress related to the final project.

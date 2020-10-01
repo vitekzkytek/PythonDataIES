@@ -10,7 +10,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 6/10 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 1|   |
 | 12/10 | Seminar (Git + Basic Python)                           | Martin |                        |HW 0|   |
 | 13/10 | Numpy, Pandas, Matplotlib                              | Jan    |                        |HW 2|   |
-| 20/10 | Object-Oriented Programming                            | Jan    |                        |HW 3|   |
+| 20/10 | Object-Oriented Programming in python                  | Jan    |                        |HW 3|   |
 | 26/10 | Seminar                                                | Jan     |                       |    |   |
 | 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vitek  |                        |    |   |
 | 3/11 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |

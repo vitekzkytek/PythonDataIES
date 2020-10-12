@@ -1,5 +1,6 @@
 # Data Processing in Python (JEM207)
 
+[Link to the 1st seminar](https://meet.google.com/ogd-zzni-ifx)
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
@@ -7,7 +8,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 |------|---------------------------------------------------------|--------|------------------------|----|---|
 | 29/9 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
 | 6/10 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 1|   |
-| 12/10 | Seminar (Git + Basic Python)                           | Martin |                        |HW 0|   |
+| 12/10 | Seminar (Git)                           | Martin |                        |HW 0|   |
 | 13/10 | Numpy, Pandas, Matplotlib                              | Jan    |                        |HW 2|   |
 | 20/10 | Object-Oriented Programming                            | Jan    |                        |HW 3|   |
 | 26/10 | Seminar                                                | Jan     |                       |    |   |

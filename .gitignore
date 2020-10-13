@@ -2,3 +2,7 @@
 **__pycache__
 auth.py
 .DS_Store
+#jan sila specific settings
+docker-compose.yml
+requirements.txt
+Dockerfile

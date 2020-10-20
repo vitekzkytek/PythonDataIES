@@ -1,13 +1,5 @@
 # Data Processing in Python (JEM207)
 
-IES Python Lecture 4
-Time: Oct 20, 2020 06:30 PM Prague Bratislava
-
-Join Zoom Meeting
-https://cesnet.zoom.us/j/95454404797?pwd=UHk1SHFud3JiVUNQL2VMUUJ3emNhdz09
-
-Meeting ID: 954 5440 4797
-Passcode: 397146
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 

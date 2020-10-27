@@ -11,4 +11,4 @@ Dockerfile
 #vitek specific
 venv
 .env
-vscode
+.vscode

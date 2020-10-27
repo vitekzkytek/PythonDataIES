@@ -1,16 +1,5 @@
 # Data Processing in Python (JEM207)
 
-Topic: PythonIES seminar 2
-Time: Oct 26, 2020 06:30 PM Prague Bratislava
-
-Join Zoom Meeting
-https://cesnet.zoom.us/j/97751735469?pwd=YnBwWWdLWG1sZ29KWVR6NVlZbmE3UT09
-
-Meeting ID: 977 5173 5469
-Passcode: 749582
-
-Please, **do download** [the tasks](https://soulution-public.s3.amazonaws.com/pythonies/seminar_tasks.ipynb) and [the dataset](https://soulution-public.s3.amazonaws.com/pythonies/house-prices-advanced-regression-techniques.zip) before the seminar.
-
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 | Date | Topic                                                   | who    | Project                | HW |   |

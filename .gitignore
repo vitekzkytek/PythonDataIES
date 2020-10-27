@@ -1,5 +1,6 @@
 **.ipynb_checkpoints
 **__pycache__
+**.icloud
 auth.py
 .DS_Store
 #jan sila specific settings

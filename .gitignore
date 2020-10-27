@@ -6,3 +6,8 @@ auth.py
 docker-compose.yml
 requirements.txt
 Dockerfile
+
+#vitek specific
+venv
+.env
+vscode

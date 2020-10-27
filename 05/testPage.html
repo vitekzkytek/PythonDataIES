@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Sample page</title>
+    <script>
+        function click_button() {
+            alert('Button clicked!')
+        }
+    </script>
+    <style>
+        #content div {
+            color:black;
+        }
+        .firstRow {
+            background-color:#ddd;
+        }
+
+        .normalRow {
+            background-color:white;
+        }
+    </style>
+    </head>
+    
+    <body>
+        <div id="header">
+            My page header
+        </div>
+        <div id="table_container">
+            <table>
+                <tr class="firstRow">
+                    <td>name</td>
+                    <td>number</td>
+                </tr>
+                <tr class="normalRow">
+                    <td>B</td>
+                    <td>2</td>
+                </tr>
+                <tr class="normalRow">
+                    <td>C</td>
+                    <td>3</td>
+                </tr>
+            </table>
+        </div>
+        <div id="button_container">
+            <button id="btn" onclick="click_button()">Click Me!</button>
+        </div
+    </body>
+</html>

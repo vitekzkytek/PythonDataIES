@@ -1,5 +1,7 @@
 # Data Processing in Python (JEM207)
 
+The seminar on JSON, XML, Requests, Web-Scraping will be on Monday November 9th at 18.30 on Google Meet: https://meet.google.com/oap-bvju-tiw. Please pull your repos to most recent version before the seminar.
+
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 | Date | Topic                                                   | who    | Project                | HW |   |

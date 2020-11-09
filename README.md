@@ -50,7 +50,7 @@ See example project from the previous semesters [here](https://github.com/vitekz
 
 
 **Assignment 0** - Submission on 12/10 (Introduction to Git)
-* Compulsory. Git is hard and you will need it throughout the course.
+ 1. Compulsory. Git is hard and you will need it throughout the course.
 
 **Assignment 1** - Submission on 06/10 (Introduction to Python Course)
  1. Python Lists

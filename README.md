@@ -1,7 +1,21 @@
 # Data Processing in Python (JEM207)
 
-The lecture on Advanced Pandas will be on Monday November 9th at 18.30 on Google Meet: https://meet.google.com/yma-xhqo-rxv.
+The midterm will be held on Monday 23 November**18:30 - 20:30**:
+  * Create a github repo where you will upload your solution.
+  * [Full instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Python-midterm-assignment.pdf)
+  * Let us know if you are not enrolled in SIS - then you will not be able to work on some parts
+  * In case of problems, you can talk to us on Zoom meeting below
 
+Topic: Python IES midterm
+Time: Nov 23, 2020 06:20 PM Prague Bratislava
+
+Join Zoom Meeting
+https://cesnet.zoom.us/j/94703449545?pwd=MDZydzAwWkNSZzRDdUtjejQwSGZjUT09
+
+Meeting ID: 947 0344 9545
+Passcode: 425844
+
+  
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 | Date | Topic                                                   | who    | Project                | HW |   |

@@ -1,10 +1,11 @@
 # Data Processing in Python (JEM207)
 
+## Midterm instructions
 The midterm will be held on Monday 23 November**18:30 - 20:30**:
   * Create a github repo where you will upload your solution.
   * [Full instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Python-midterm-assignment.pdf)
   * Let us know if you are not enrolled in SIS - then you will not be able to work on some parts
-  * In case of problems, you can talk to us on Zoom meeting below
+  * In case of problems, you can talk to us on Zoom meeting below - it is not compulsory to check in with us, just start working and then email us your repo
 
 Topic: Python IES midterm
 Time: Nov 23, 2020 06:20 PM Prague Bratislava

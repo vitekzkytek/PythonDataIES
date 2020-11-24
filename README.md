@@ -1,20 +1,15 @@
 # Data Processing in Python (JEM207)
 
-## Midterm instructions
-The midterm will be held on Monday 23 November **18:30 - 20:30**:
-  * Create a github repo where you will upload your solution.
-  * [Full instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Python-midterm-assignment.pdf)
-  * Let us know if you are not enrolled in SIS - then you will not be able to work on some parts
-  * In case of problems, you can talk to us on Zoom meeting below - it is not compulsory to check in with us, just start working and then email us your repo
+Lecture 8 - Intro to DB
 
-Topic: Python IES midterm
-Time: Nov 23, 2020 06:20 PM Prague Bratislava
+Topic: JEM207 lecture 8 - databases
+Time: Nov 24, 2020 06:30 PM Prague Bratislava
 
 Join Zoom Meeting
-https://cesnet.zoom.us/j/94703449545?pwd=MDZydzAwWkNSZzRDdUtjejQwSGZjUT09
+https://cesnet.zoom.us/j/97063679869?pwd=MnhpaGpwamI4Vi83Q2NVTE9CSHNnQT09
 
-Meeting ID: 947 0344 9545
-Passcode: 425844
+Meeting ID: 970 6367 9869
+Passcode: 967463
 
   
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 

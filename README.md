@@ -1,16 +1,5 @@
 # Data Processing in Python (JEM207)
 
-Lecture 8 - Intro to DB
-
-Topic: JEM207 lecture 8 - databases
-Time: Nov 24, 2020 06:30 PM Prague Bratislava
-
-Join Zoom Meeting
-https://cesnet.zoom.us/j/97063679869?pwd=MnhpaGpwamI4Vi83Q2NVTE9CSHNnQT09
-
-Meeting ID: 970 6367 9869
-Passcode: 967463
-
   
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 

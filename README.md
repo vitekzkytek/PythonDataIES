@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-[Link](https://meet.google.com/xye-qnoy-byb) to the 9th lecture.
+[Link to the lecture](https://meet.google.com/dtb-yrjr-rqk).
 
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 

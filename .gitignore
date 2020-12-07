@@ -1,3 +1,4 @@
+dask_data/
 **.ipynb_checkpoints
 **__pycache__
 **.icloud

@@ -1,8 +1,5 @@
 # Data Processing in Python (JEM207)
 
-[Link to the seminar](https://meet.google.com/zun-boyc-kcb).
-
-
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 | Date | Topic                                                   | who    | Project                | HW |   |
@@ -26,6 +23,9 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 15/12  | Guest Lecture + Python BEER                           | TBD    |                       |    |   |
 | 21/12  | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
 | 22/12  | Project Work 2                                        | full house   | Work-in-progress       |    |   |
+| 05/1   | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
+| 04/1   | Project Work 2                                        | full house   | Work-in-progress       |    |   |
+| 14/2   | Project Deadline                                       | full house   |        |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
@@ -33,6 +33,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
+* Deadline: 14/2/2021
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.

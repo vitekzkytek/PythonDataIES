@@ -1,5 +1,8 @@
 # Data Processing in Python (JEM207)
 
+Lecture on Docker is on Tue Dec 15 at 18.30 on Google Meet: https://meet.google.com/oxc-qqjg-reo?authuser=0&hl=cs
+
+
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 | Date | Topic                                                   | who    | Project                | HW |   |

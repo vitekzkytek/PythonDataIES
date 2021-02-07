@@ -1,34 +1,32 @@
 # Data Processing in Python (JEM207)
 
-Lecture on Docker is on Tue Dec 15 at 18.30 on Google Meet: https://meet.google.com/oxc-qqjg-reo?authuser=0&hl=cs
-
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
-| 29/9 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
-| 6/10 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 1|   |
-| 12/10 | Seminar (Git)                           | Martin |                        |HW 0|   |
-| 13/10 | Numpy, Pandas, Matplotlib                              | Jan    |                        |HW 2|   |
-| 20/10 | Object-Oriented Programming                            | Jan    |                        |HW 3|   |
-| 26/10 | Seminar                                                | Jan     |                       |    |   |
-| 27/10 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vitek  |                        |    |   |
-| 3/11 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
-| 9/11 | Seminar                                                 | Vitek  |                        |    |   |
-| 10/11 | Advanced Pandas                                        | Vitek  |                        |HW 5|   |
-| 17/11 | State Holiday                                          | --     |                        |    |   |
-| 23/11 | Seminar - MIDTERM                                      | full house |                    |    |   |
-| 24/11 | Introduction to Databases                              | Jan    | Project Topic Proposal |    |   |
-| 1/12  | Efficient Computing                                    | Martin     |                    |   |   |
-| 7/12 |  Parallelization                                        | Martin     |                    |HW 6|   |
-| 8/12 |  Seminar                                                | Martin | Project Topic Approval |    |   |
-| 15/12  | Guest Lecture + Python BEER                           | TBD    |                       |    |   |
-| 21/12  | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
-| 22/12  | Project Work 2                                        | full house   | Work-in-progress       |    |   |
-| 05/1   | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
-| 04/1   | Project Work 2                                        | full house   | Work-in-progress       |    |   |
-| 14/2   | Project Deadline                                       | full house   |        |    |   |
+| 16/2 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
+| 22/2 | Strings, Floats, Lists, Dictionaries, Functions         | Jan    |                        |HW 1|   |
+| 23/2 | Seminar (Git)                                           | Martin |                        |HW 0|   |
+| 2/3 | Numpy, Pandas, Matplotlib                              | Jan    |                        |HW 2|   |
+| 8/3 | Object-Oriented Programming                            | Jan    |                        |HW 3|   |
+| 9/3 | Seminar                                                | Jan     |                       |    |   |
+| 16/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Vitek  |                        |    |   |
+| 22/3 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
+| 23/3 | Seminar                                                 | Vitek  |                        |    |   |
+| 30/3 | Advanced Pandas                                        | Vitek  |                        |HW 5|   |
+| 5/4 | State Holiday                                          | --     |                        |    |   |
+| 6/4 | Seminar - MIDTERM                                      | full house |                    |    |   |
+| 13/4 | Introduction to Databases                              | Jan    | Project Topic Proposal |    |   |
+| 19/4  | Efficient Computing                                    | Martin     |                    |   |   |
+| 20/4 |  Parallelization                                        | Martin     |                    |HW 6|   |
+| 27/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
+| 3/5  | Guest Lecture                                           | TBD    |                       |    |   |
+| 4/5  | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
+| 11/5  | Project Work 2                                        | full house   | Work-in-progress       |    |   |
+| 17/5   | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
+| 18/5   | Project Work 2                                        | full house   | Work-in-progress       |    |   |
+| TBD   | Project Deadline                                       | full house   |        |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
@@ -36,7 +34,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline: 14/2/2021
+* Deadline: TBD
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.
@@ -54,35 +52,35 @@ See example project from the previous semesters [here](https://github.com/vitekz
 3 assignments out of assignments 1-6 submitted on time is required.
 
 
-**Assignment 0** - Submission on 12/10 (Introduction to Git)
+**Assignment 0** - Submission on 23/2 (Introduction to Git)
  1. Compulsory. Git is hard and you will need it throughout the course.
 
-**Assignment 1** - Submission on 06/10 (Introduction to Python Course)
+**Assignment 1** - Submission on 22/2 (Introduction to Python Course)
  1. Python Lists
  2. Python Basics
  3. Function and Packages
 
-**Assignment 2** - Submission on 13/10 (Manipulating DataFrames with pandas)
+**Assignment 2** - Submission on 2/3 (Manipulating DataFrames with pandas)
  1. Numpy
  2. Extracting and Transforming Data
  3. Advanced Indexing
 
- **Assignment 3** - Submission on 20/10 (Object-Oriented Programming in Python)
+ **Assignment 3** - Submission on 8/3 (Object-Oriented Programming in Python)
  1. Getting ready for object-oriented programming
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects
 
-**Assignment 4** - Submission on 3/11 (Web Scraping in Python Course)
+**Assignment 4** - Submission on 22/3 (Web Scraping in Python Course)
  1. Introduction to HTML
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
 
- **Assignment 5** - Submission on 10/11 (Merging DataFrames with pandas Course)
+ **Assignment 5** - Submission on 30/3 (Merging DataFrames with pandas Course)
   1. Concatenating and merging data
   2. Rearranging and reshaping data
   3. Grouping data
 
-**Assignment 6** - Submission on 24/11 (Importing Data in Python (Part 2) Course)
+**Assignment 6** - Submission on 20/4 (Importing Data in Python (Part 2) Course)
  1. The Intro to SQL for Data Science (full course)
 
 

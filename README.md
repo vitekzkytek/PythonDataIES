@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-[Link](https://meet.google.com/abp-yjpz-wct) to the first lecture.
+**If you plan to continue with the course, please write mail to martin.hronec@fsv.cuni.cz, requesting DataCamp access to the group. There are 2 assignments for the next week already.**
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
@@ -53,10 +53,10 @@ See example project from the previous semesters [here](https://github.com/vitekz
 3 assignments out of assignments 1-6 submitted on time is required.
 
 
-**Assignment 0** - Submission on 23/2 (Introduction to Git)
+**Assignment 0** - Submission on 22/2 (Introduction to Git)
  1. Compulsory. Git is hard and you will need it throughout the course.
 
-**Assignment 1** - Submission on 22/2 (Introduction to Python Course)
+**Assignment 1** - Submission on 23/2 (Introduction to Python Course)
  1. Python Lists
  2. Python Basics
  3. Function and Packages

@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-[Link](meet.google.com/yac-mxyq-ptn) to the seminar.
+Link to the seminar: meet.google.com/yac-mxyq-ptn
 
 **If you plan to continue with the course, please write mail to martin.hronec@fsv.cuni.cz, requesting DataCamp access to the group. There are 2 assignments for the next week already.**
 

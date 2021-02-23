@@ -41,13 +41,21 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 * Git collaboration as a proof of collaboration of both students.
 * More details during the lecture.
 
+
+### Projects' Evaluation critera
+* Submitted as a Jupyter notebook in a Git repository. All team members pushed to the repo.
+* Code is runnable and replicable (after installation of necessary packages).Exception only due to good reasons (data availablity, etc)
+*	OOP and code structure 
+* Analysis and visualization
+*	Code Readibility + Documentation
+
 See example project from the previous semesters [here](https://github.com/vitekzkytek/Example_Project) from last year.
 
 ## Project work - presentation (10%)
 * Presentation of work-in-progress related to the final project.
 
 ## Midterm exam (25%)
-23/11. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
+6/4. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.

@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-Link to the seminar: meet.google.com/yac-mxyq-ptn
+Link to the lecture 2: meet.google.com/omw-maxn-yyu
 
 **If you plan to continue with the course, please write mail to martin.hronec@fsv.cuni.cz, requesting DataCamp access to the group. There are 2 assignments for the next week already.**
 
@@ -10,26 +10,26 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 |------|---------------------------------------------------------|--------|------------------------|----|---|
 | 16/2 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
 | 22/2 | Seminar (Git)                                           | Martin |                        |HW 1|   |
-| 23/2 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek |                        |HW 0|   |
-| 2/3 | Numpy, Pandas, Matplotlib                              | Jan    |                        |HW 2|   |
-| 8/3 | Object-Oriented Programming                            | Jan    |                        |HW 3|   |
-| 9/3 | Seminar                                                | Jan     |                       |    |   |
-| 16/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup         | Jan  |                        |    |   |
+| 23/2 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
+| 2/3 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
+| 8/3 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
+| 9/3 | Seminar                                                  | Jan    |                        |    |   |
+| 16/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
 | 22/3 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
 | 23/3 | Seminar                                                 | Vitek  |                        |    |   |
-| 30/3 | Advanced Pandas                                        | Vitek  |                        |HW 5|   |
-| 5/4 | State Holiday                                          | --     |                        |    |   |
-| 6/4 | Seminar - MIDTERM                                      | full house |                    |    |   |
-| 13/4 | Introduction to Databases                              | Jan    | Project Topic Proposal |    |   |
-| 19/4  | Efficient Computing                                    | Martin     |                    |   |   |
-| 20/4 |  Parallelization                                        | Martin     |                    |HW 6|   |
+| 30/3 | Advanced Pandas                                         | Vitek  |                        |HW 5|   |
+| 5/4 | State Holiday                                            | --     |                        |    |   |
+| 6/4 | Seminar - MIDTERM                                        | full house |                    |    |   |
+| 13/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |    |   |
+| 19/4  | Efficient Computing                                    | Martin |                        |    |   |
+| 20/4 |  Parallelization                                        | Martin |                        |HW 6|   |
 | 27/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
-| 3/5  | Guest Lecture                                           | TBD    |                       |    |   |
-| 4/5  | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
-| 11/5  | Project Work 2                                        | full house   | Work-in-progress       |    |   |
-| 17/5   | Project Work 2 (Seminar)                              | full house   | Work-in-progress       |    |   |
-| 18/5   | Project Work 2                                        | full house   | Work-in-progress       |    |   |
-| TBD   | Project Deadline                                       | full house   |        |    |   |
+| 3/5  | Guest Lecture                                           | TBD    |                        |    |   |
+| 4/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
+| 11/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
+| 17/5   | Project Work 2 (Seminar)                              | full house | Work-in-progress   |    |   |
+| 18/5   | Project Work 2                                        | full house | Work-in-progress   |    |   |
+| TBD   | Project Deadline                                       | full house |                    |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).

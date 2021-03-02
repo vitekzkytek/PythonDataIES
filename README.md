@@ -1,6 +1,13 @@
 # Data Processing in Python (JEM207)
 
-Link to the lecture 2: meet.google.com/omw-maxn-yyu
+Topic: Python IES Lecture 3
+Time: Mar 2, 2021 06:30 PM Prague Bratislava
+
+Join Zoom Meeting
+https://cesnet.zoom.us/j/98071378400?pwd=ZUorWDlrWlk0NDB1UjE0cFVNajBnZz09
+
+Meeting ID: 980 7137 8400
+Passcode: 327985
 
 **If you plan to continue with the course, please write mail to martin.hronec@fsv.cuni.cz, requesting DataCamp access to the group. There are 2 assignments for the next week already.**
 

@@ -1,15 +1,5 @@
 # Data Processing in Python (JEM207)
 
-Topic: Python IES Lecture 3
-Time: Mar 2, 2021 06:30 PM Prague Bratislava
-
-Join Zoom Meeting
-https://cesnet.zoom.us/j/98071378400?pwd=ZUorWDlrWlk0NDB1UjE0cFVNajBnZz09
-
-Meeting ID: 980 7137 8400
-Passcode: 327985
-
-**If you plan to continue with the course, please write mail to martin.hronec@fsv.cuni.cz, requesting DataCamp access to the group. There are 2 assignments for the next week already.**
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 
@@ -19,8 +9,8 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 22/2 | Seminar (Git)                                           | Martin |                        |HW 1|   |
 | 23/2 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
 | 2/3 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
-| 8/3 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
-| 9/3 | Seminar                                                  | Jan    |                        |    |   |
+| 8/3 | Seminar                              					 | Jan    |                        |    |   |
+| 9/3 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
 | 16/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
 | 22/3 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
 | 23/3 | Seminar                                                 | Vitek  |                        |    |   |
@@ -83,7 +73,7 @@ See example project from the previous semesters [here](https://github.com/vitekz
  2. Extracting and Transforming Data
  3. Advanced Indexing
 
- **Assignment 3** - Submission on 8/3 (Object-Oriented Programming in Python)
+ **Assignment 3** - Submission on 9/3 (Object-Oriented Programming in Python)
  1. Getting ready for object-oriented programming
  2. Deep dive into classes and objects
  3. Fancy classes, fancy objects

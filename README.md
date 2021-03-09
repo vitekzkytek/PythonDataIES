@@ -1,14 +1,10 @@
 # Data Processing in Python (JEM207)
 
-Topic: Seminar 2 - you are expected to do most of the work today. So fire up your jupyter notebooks.
-
-Time: Mar 8, 2021 06:30 PM Prague Bratislava
+Topic: Lecture 4
+Time: Mar 9, 2021 06:30 PM Prague Bratislava
 
 Join Zoom Meeting
-https://cesnet.zoom.us/j/99200568579?pwd=SUUwKzdBM2wweU1kRmE4ZWhiM2Mwdz09
-
-Meeting ID: 992 0056 8579
-Passcode: 996010
+https://cesnet.zoom.us/j/96860727076?pwd=SkUvQWdXbERPYktTQmt3ajVCTUh1Zz09
 
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 

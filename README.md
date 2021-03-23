@@ -1,5 +1,5 @@
 # Data Processing in Python (JEM207)
-I am sorry for reschedulling a seminar from Monday 22nd to Monday 29th. The lecture on Tuesday 23rd will be held as usual. Sorry for any inconveniences
+The lecture on Tuesday March 23rd will be held online on the following Google Meet: meet.google.com/iay-zysd-mry
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
 

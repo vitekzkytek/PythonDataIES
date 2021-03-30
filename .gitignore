@@ -2,7 +2,6 @@ dask_data/
 **.ipynb_checkpoints
 **__pycache__
 **.icloud
-**csv
 auth.py
 .DS_Store
 

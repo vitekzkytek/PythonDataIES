@@ -25,9 +25,9 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 30/3 | Advanced Pandas                                         | Vitek  |                        |HW 5|   |
 | 5/4 | State Holiday                                            | --     |                        |    |   |
 | 6/4 | Seminar - MIDTERM                                        | full house |                    |    |   |
-| 13/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |    |   |
+| 13/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
 | 19/4  | Efficient Computing                                    | Martin |                        |    |   |
-| 20/4 |  Parallelization                                        | Martin |                        |HW 6|   |
+| 20/4 |  Parallelization                                        | Martin |                        |    |   |
 | 27/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
 | 3/5  | Guest Lecture                                           | TBD    |                        |    |   |
 | 4/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |

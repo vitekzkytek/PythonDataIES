@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-Midterm exam - 6 April - [basic instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_preview.pdf). The full instructions will be made public at 18:30. We will be available for questions on a Zoom call which is in the file. 
+Midterm exam - 6 April - [instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-2d57268c8153.pdf). We are available for questions on a Zoom call which is in the file. 
 
 If there are students who follow this course (and wish to take the midterm) and are **not enrolled in SIS**, email [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) as soon as possible. Otherwise, you will not able to take part.
 

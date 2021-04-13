@@ -1,11 +1,15 @@
 # Data Processing in Python (JEM207)
 
-Midterm exam - 6 April - [instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-2d57268c8153.pdf). We are available for questions on a Zoom call which is in the file. 
+Jan Šíla is inviting you to a scheduled Zoom meeting.
 
-If there are students who follow this course (and wish to take the midterm) and are **not enrolled in SIS**, email [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) as soon as possible. Otherwise, you will not able to take part.
+Topic: Lecture 8 - Introduction to databases
+Time: Apr 13, 2021 06:30 PM Prague Bratislava
 
-Good luck!
+Join Zoom Meeting
+https://cesnet.zoom.us/j/99545144465?pwd=UVZqcnZMZldmb21pYzVqRS9RZWZRQT09
 
+Meeting ID: 995 4514 4465
+Passcode: 380063
 
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing) 
 

@@ -1,16 +1,5 @@
 # Data Processing in Python (JEM207)
 
-Jan Šíla is inviting you to a scheduled Zoom meeting.
-
-Topic: Lecture 8 - Introduction to databases
-Time: Apr 13, 2021 06:30 PM Prague Bratislava
-
-Join Zoom Meeting
-https://cesnet.zoom.us/j/99545144465?pwd=UVZqcnZMZldmb21pYzVqRS9RZWZRQT09
-
-Meeting ID: 995 4514 4465
-Passcode: 380063
-
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing) 
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 

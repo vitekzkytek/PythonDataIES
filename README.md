@@ -1,5 +1,7 @@
 # Data Processing in Python (JEM207)
 
+[Link](meet.google.com/uvy-nykr-itq) to the 9th lecture.
+
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing) 
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
@@ -19,15 +21,15 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 5/4 | State Holiday                                            | --     |                        |    |   |
 | 6/4 | Seminar - MIDTERM                                        | full house |                    |    |   |
 | 13/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
-| 19/4  | Efficient Computing                                    | Martin |                        |    |   |
-| 20/4 |  Parallelization                                        | Martin |                        |    |   |
+| 19/4  | Packaging and Documentation                                    | Martin |                        |    |   |
+| 20/4 |  Testing (and decorators)                            | Martin |                        |    |   |
 | 27/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
 | 3/5  | Guest Lecture                                           | TBD    |                        |    |   |
 | 4/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
 | 11/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
 | 17/5   | Project Work 2 (Seminar)                              | full house | Work-in-progress   |    |   |
 | 18/5   | Project Work 2                                        | full house | Work-in-progress   |    |   |
-| TBD   | Project Deadline                                       | full house |                    |    |   |
+| 5/9   | Project Deadline                                       | full house |                    |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
@@ -35,7 +37,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline: TBD
+* Deadline: 5.9.2021
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.

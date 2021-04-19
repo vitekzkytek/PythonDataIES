@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-[Link](meet.google.com/uvy-nykr-itq) to the 9th lecture.
+meet.google.com/uvy-nykr-itq for the 9th lecture.
 
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing) 
 

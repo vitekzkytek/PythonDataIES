@@ -1,6 +1,6 @@
 # Data Processing in Python (JEM207)
 
-https://meet.google.com/kfm-xmtb-ide to join the 10th lecture.
+meet.google.com/eyz-axus-vqr to join the seminar.
 
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing) 
 

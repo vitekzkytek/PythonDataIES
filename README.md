@@ -1,10 +1,25 @@
 # Data Processing in Python (JEM207)
 
-meet.google.com/eyz-axus-vqr to join the seminar.
+Topic: Python IES Lecture 11
+Time: May 3, 2021 06:30 PM Prague Bratislava
 
-Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing) 
+Join Zoom Meeting
+https://cesnet.zoom.us/j/97756664959?pwd=RDU3ZzRaMnZJQURjUWJTNkIwL00yQT09
 
-The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz). 
+Meeting ID: 977 5666 4959
+Passcode: 314983
+
+For this lecture, if you wish to follow closely, or for future reference you will need those resources:
+
+
+download serverless https://www.serverless.com/framework/docs/getting-started/ (this requires Node on your machine https://nodejs.org/en/download/package-manager/ )
+
+create AWS account https://portal.aws.amazon.com/billing/signup#/start it might ask you for a credit card, but dont worry you will not spend any money  
+
+
+Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing)
+
+The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
@@ -24,7 +39,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 19/4  | Packaging and Documentation                                    | Martin |                        |    |   |
 | 20/4 |  Testing (and decorators)                            | Martin |                        |    |   |
 | 27/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
-| 3/5  | Guest Lecture                                           | TBD    |                        |    |   |
+| 3/5  | Introduction to cool cloud computing                                            | Jan    |                        |    |   |
 | 4/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
 | 11/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
 | 17/5   | Project Work 2 (Seminar)                              | full house | Work-in-progress   |    |   |
@@ -47,7 +62,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 ### Projects' Evaluation critera
 * Submitted as a Jupyter notebook in a Git repository. All team members pushed to the repo.
 * Code is runnable and replicable (after installation of necessary packages).Exception only due to good reasons (data availablity, etc)
-*	OOP and code structure 
+*	OOP and code structure
 * Analysis and visualization
 *	Code Readibility + Documentation
 
@@ -145,7 +160,7 @@ See example project from the previous semesters [here](https://github.com/vitekz
 
  # A sneak peek
 [IES web parser.](https://github.com/vitekzkytek/PythonDataIES/blob/master/IES_Web.ipynb)
- 
+
  # Materials
 
  ## Git

@@ -5,7 +5,8 @@ dask_data/
 **csv
 auth.py
 .DS_Store
-**node_modules/**
+11_cloud_computing/part2-prepare-finished/node_modules/**
+11_cloud_computing/part2-live-coding/node_modules/**
 
 #jan sila specific settings
 docker-compose.yml

@@ -1,20 +1,7 @@
 # Data Processing in Python (JEM207)
 
-Topic: Python IES Lecture 11
-Time: May 3, 2021 06:30 PM Prague Bratislava
-
-Join Zoom Meeting
-https://cesnet.zoom.us/j/97756664959?pwd=RDU3ZzRaMnZJQURjUWJTNkIwL00yQT09
-
-Meeting ID: 977 5666 4959
-Passcode: 314983
-
-For this lecture, if you wish to follow closely, or for future reference you will need those resources:
-
-
-download serverless https://www.serverless.com/framework/docs/getting-started/ (this requires Node on your machine https://nodejs.org/en/download/package-manager/ )
-
-create AWS account https://portal.aws.amazon.com/billing/signup#/start it might ask you for a credit card, but dont worry you will not spend any money  
+Now is time for you to work on your projects. 
+We will publish a shared Excel files with proposed times for you to sign up for a consulting session. 
 
 
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing)

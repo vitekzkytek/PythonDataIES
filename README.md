@@ -1,8 +1,10 @@
 # Data Processing in Python (JEM207)
 
 Now is time for you to work on your projects. 
-We will publish a shared Excel files with proposed times for you to sign up for a consulting session. 
+Please, [sign up](https://docs.google.com/spreadsheets/d/1yTEYUeJmj2XLuBXZuMT9S_dTc17sdhOO0fTX5NMA3tw/edit?usp=sharing) for a consulting session. You shoul be able to edit this file via your faculty gmail account. 
+Let us know, if you have any troubles. 
 
+Happy coding! 💻
 
 Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing)
 

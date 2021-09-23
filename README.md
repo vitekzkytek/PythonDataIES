@@ -1,39 +1,28 @@
 # Data Processing in Python (JEM207)
 
-Now is time for you to work on your projects. 
-Please, [sign up](https://docs.google.com/spreadsheets/d/1yTEYUeJmj2XLuBXZuMT9S_dTc17sdhOO0fTX5NMA3tw/edit?usp=sharing) for a consulting session. You shoul be able to edit this file via your faculty gmail account. 
-Let us know, if you have any troubles. 
-
-Happy coding! 💻
-
-Students without a partner for a project can try to find one [here](https://docs.google.com/spreadsheets/d/1x54Adb2cWckD1ZM_EkpjjDwG69h67_Q8Ae1GGchORF8/edit?usp=sharing)
-
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
-| 16/2 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
-| 22/2 | Seminar (Git)                                           | Martin |                        |HW 1|   |
-| 23/2 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
-| 2/3 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
-| 8/3 | Seminar                              					 | Jan    |                        |    |   |
-| 9/3 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
-| 16/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
-| 23/3 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
-| 29/3 | Seminar                                                 | Vitek  |                        |    |   |
-| 30/3 | Advanced Pandas                                         | Vitek  |                        |HW 5|   |
-| 5/4 | State Holiday                                            | --     |                        |    |   |
-| 6/4 | Seminar - MIDTERM                                        | full house |                    |    |   |
-| 13/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
-| 19/4  | Packaging and Documentation                                    | Martin |                        |    |   |
-| 20/4 |  Testing (and decorators)                            | Martin |                        |    |   |
-| 27/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
-| 3/5  | Introduction to cool cloud computing                                            | Jan    |                        |    |   |
-| 4/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
-| 11/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
-| 17/5   | Project Work 2 (Seminar)                              | full house | Work-in-progress   |    |   |
-| 18/5   | Project Work 2                                        | full house | Work-in-progress   |    |   |
-| 5/9   | Project Deadline                                       | full house |                    |    |   |
+| 5/10 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
+| 11/10 | Seminar (Git)                                           | Martin |                        |HW 1|   |
+| 12/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
+| 19/10 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
+| 25/10 | Seminar                              					 | Jan    |                        |    |   |
+| 26/10 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
+| 2/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
+| 8/11 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
+| 9/11 | Seminar                                                 | Vitek  |                        |    |   |
+| 16/11 | Advanced Pandas                                         | Vitek  |                        |HW 5|   |
+| 22/11 | Seminar - MIDTERM                                        | full house |                    |    |   |
+| 23/11 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
+| 30/11  | Packaging and Documentation                                    | Martin |                        |    |   |
+| 6/12 |  Testing (and decorators)                            | Martin |                        |    |   |
+| 7/12 |  Seminar                                                | Martin | Project Topic Approval |    |   |
+| 14/12  | Guest lecture                                            | TBD    |                        |    |   |
+| 20/12  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
+| 21/12  | Project Work 2                                         | full house | Work-in-progress   |    |   |
+| TBA   | Project Deadline                                       | full house |                    |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).

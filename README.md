@@ -30,7 +30,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline: 5.9.2021
+* Deadline: TBA
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.
@@ -50,42 +50,13 @@ See example project from the previous semesters [here](https://github.com/vitekz
 * Presentation of work-in-progress related to the final project.
 
 ## Midterm exam (25%)
-6/4. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
+22/11. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.
 
+**TBA**
 
-**Assignment 0** - Submission on 22/2 (Introduction to Git)
- 1. Compulsory. Git is hard and you will need it throughout the course.
-
-**Assignment 1** - Submission on 23/2 (Introduction to Python Course)
- 1. Python Lists
- 2. Python Basics
- 3. Function and Packages
-
-**Assignment 2** - Submission on 2/3 (Manipulating DataFrames with pandas)
- 1. Numpy
- 2. Extracting and Transforming Data
- 3. Advanced Indexing
-
- **Assignment 3** - Submission on 9/3 (Object-Oriented Programming in Python)
- 1. Getting ready for object-oriented programming
- 2. Deep dive into classes and objects
- 3. Fancy classes, fancy objects
-
-**Assignment 4** - Submission on 22/3 (Web Scraping in Python Course)
- 1. Introduction to HTML
- 2. XPaths and Selectors
- 3. CSS Locators, Chaining, and Responses
-
- **Assignment 5** - Submission on 30/3 (Merging DataFrames with pandas Course)
-  1. Concatenating and merging data
-  2. Rearranging and reshaping data
-  3. Grouping data
-
-**Assignment 6** - Submission on 20/4 (Importing Data in Python (Part 2) Course)
- 1. The Intro to SQL for Data Science (full course)
 
 
 ## Recommended DataCamp Courses

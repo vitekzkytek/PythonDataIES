@@ -1,0 +1,24 @@
+service: part2-live-coding
+
+provider:
+  name: aws
+  runtime: python3.8
+
+functions:
+  portfolio:
+    handler: handler.rebalance
+    events:
+     - http:
+         path: portfolio
+         method: post
+
+package:
+ exclude: #so that this huge file is not uploaded to lambda
+  - node_modules/**
+
+custom:
+  pythonRequirements: #to include dependencies
+    dockerizePip: true
+
+plugins:
+  - serverless-python-requirements

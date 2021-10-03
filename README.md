@@ -55,9 +55,9 @@ See example project from the previous semesters [here](https://github.com/vitekz
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.
 
+### 10/10 18:20 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+
 **TBA**
-
-
 
 ## Recommended DataCamp Courses
 ### Tools

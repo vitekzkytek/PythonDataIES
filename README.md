@@ -57,7 +57,16 @@ See example project from the previous semesters [here](https://github.com/vitekz
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.
 
+
+
 ### 10/10 18:20 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+
+### 12/10 18:20 
+
+* [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
+* [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)
+* [Introduction to Python - Functions and packages](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages)
+
 
 **TBA**
 

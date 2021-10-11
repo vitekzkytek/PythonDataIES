@@ -1,7 +1,5 @@
 # Data Processing in Python (JEM207)
 
-Link to the 1st lecture: https://meet.google.com/qfc-hvnm-fyo
-
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
 | Date | Topic                                                   | who    | Project                | HW |   |
@@ -11,7 +9,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 12/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
 | 19/10 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
 | 25/10 | Seminar                              					 | Jan    |                        |    |   |
-| 26/10 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
+| 26/10 | Object-Oriented Programming                              | Martin    |                        |HW 3|   |
 | 2/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
 | 8/11 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
 | 9/11 | Seminar                                                 | Vitek  |                        |    |   |

@@ -62,6 +62,7 @@ See example project from the previous semesters [here](https://github.com/vitekz
 ### 10/10 18:20 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 ### 12/10 18:20 
+*Deadline extended to Oct 17th at 23:59
 
 * [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
 * [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)

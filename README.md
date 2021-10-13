@@ -69,7 +69,7 @@ See example project from the previous semesters [here](https://github.com/vitekz
 
 ### 19/10 18:30 - [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
 
-## 26/10 18:30 - [https://app.datacamp.com/learn/courses/object-oriented-programming-in-python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
+## 26/10 18:30 - [Object-Oriented Programming in Python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
 **TBA**
 
 ## Recommended DataCamp Courses

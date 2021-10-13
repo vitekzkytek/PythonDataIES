@@ -67,9 +67,9 @@ See example project from the previous semesters [here](https://github.com/vitekz
 * [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)
 * [Introduction to Python - Functions and packages](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages)
 
-
 ### 19/10 18:30 - [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
 
+## 26/10 18:30 - [https://app.datacamp.com/learn/courses/object-oriented-programming-in-python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
 **TBA**
 
 ## Recommended DataCamp Courses

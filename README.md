@@ -76,7 +76,12 @@ See example project from the previous semesters [here](https://github.com/vitekz
 
 ### 19/10 18:30 - [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
 
-## 26/10 18:30 - [Object-Oriented Programming in Python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
+### 26/10 18:30 - [Object-Oriented Programming in Python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
+
+### 8/11 18:30 
+* [Web Scraping in Python - Introduction to HTML](https://campus.datacamp.com/courses/web-scraping-with-python/introduction-to-html)
+* [Web Scraping in Python - XPaths and Selectors](https://campus.datacamp.com/courses/web-scraping-with-python/xpaths-and-selectors)
+* [Web Scraping in Python - CSS Locators, Chaining, and Responses](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses)
 **TBA**
 
 ## Recommended DataCamp Courses

@@ -82,6 +82,10 @@ See example project from the previous semesters [here](https://github.com/vitekz
 * [Web Scraping in Python - Introduction to HTML](https://campus.datacamp.com/courses/web-scraping-with-python/introduction-to-html)
 * [Web Scraping in Python - XPaths and Selectors](https://campus.datacamp.com/courses/web-scraping-with-python/xpaths-and-selectors)
 * [Web Scraping in Python - CSS Locators, Chaining, and Responses](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses)
+
+
+### 16/11 18:30
+* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 **TBA**
 
 ## Recommended DataCamp Courses

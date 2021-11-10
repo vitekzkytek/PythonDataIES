@@ -86,6 +86,9 @@ See example project from the previous semesters [here](https://github.com/vitekz
 
 ### 16/11 18:30
 * [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
+
+
+
 **TBA**
 
 ## Recommended DataCamp Courses

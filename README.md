@@ -2,22 +2,9 @@
 
 Midterm - November 29, 18:30 - 19:55, in person, but can be done remotely
 
-* **create a git repo for submission beforehand to save time**
-
 * **make sure you are enrolled in SIS! If not and want to take the midterm, let us know ASAP**
-* Have a working knowledge how to:
-	* iterate multiple objects
-	* be able to construct a dataset from pieces
-	* receive and send data through HTTP protocol (requests)
-	* perform financial analysis
-	* basic statistical manipulation
-	* basic plotting
-	* open book: google as much as you wish
 
-* **[INSTRUCTIONS for the exam](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_preview.pdf)**
-
-
-
+* **[FULL INSTRUCTIONS for the midterm](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-58986dbd.pdf)**
 
 (Hopefully) stable link for online attendance now:
 Join Zoom Meeting

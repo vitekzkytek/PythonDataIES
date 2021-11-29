@@ -13,9 +13,8 @@ Midterm - November 29, 18:30 - 19:55, in person, but can be done remotely
 	* basic statistical manipulation
 	* basic plotting
 	* open book: google as much as you wish
-* **Make sure you have coded the above points yourself** or you will likely get frustrated and give up. You will obtain **specifics on the day midterm day 2 hours prior to the exam**. It will be uploaded here.
-* **Everyone has custom made data and problems - given past results, even if anyone tried to cheat, it did not help. So we suggest to focus on the work and the error messages!**
-* **Today's lecture 8 on databases WILL NOT be a part of the midterm.**
+
+* **[INSTRUCTIONS for the exam](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_preview.pdf)**
 
 
 

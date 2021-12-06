@@ -1,11 +1,5 @@
 # Data Processing in Python (JEM207)
 
-Midterm - November 29, 18:30 - 19:55, in person, but can be done remotely
-
-* **make sure you are enrolled in SIS! If not and want to take the midterm, let us know ASAP**
-
-* **[FULL INSTRUCTIONS for the midterm](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-58986dbd.pdf)**
-
 (Hopefully) stable link for online attendance now:
 Join Zoom Meeting
 https://cesnet.zoom.us/j/92851968819?pwd=L296R2N1T1RNR2VPdVMxQjdQR1Iydz09

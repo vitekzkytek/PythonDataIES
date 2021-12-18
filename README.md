@@ -1,5 +1,7 @@
 # Data Processing in Python (JEM207)
 
+**Work-in-progress presentations will happen online only. Please send invite link for the call to the teacher who supervises your project.***
+
 (Hopefully) stable link for online attendance now:
 Join Zoom Meeting
 https://cesnet.zoom.us/j/92851968819?pwd=L296R2N1T1RNR2VPdVMxQjdQR1Iydz09
@@ -30,7 +32,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 14/12  | Guest lecture                                            | TBD    |                        |    |   |
 | 20/12  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
 | 21/12  | Project Work 2                                         | full house | Work-in-progress   |    |   |
-| TBA   | Project Deadline                                       | full house |                    |    |   |
+| 7/2   | Project Deadline                                       | full house |                    |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
@@ -38,7 +40,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline: TBA
+* Deadline: 7.2.
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.

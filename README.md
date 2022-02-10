@@ -40,11 +40,14 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline: 7.2.
+* Deadline: X.X.
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.
 * More details during the lecture.
+* Make sure you include requirements.txt and have configured .gitignore, [such as this](https://github.com/github/gitignore/blob/main/Python.gitignore).
+* Make sure the project is runable from scratch, i.e. restart your kernel and make sure you everything is imported and runs. 
+
 
 
 ### Projects' Evaluation critera

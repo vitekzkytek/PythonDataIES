@@ -1,38 +1,38 @@
 # Data Processing in Python (JEM207)
 
-**Work-in-progress presentations will happen online only. Please send invite link for the call to the teacher who supervises your project.***
+The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
-(Hopefully) stable link for online attendance now:
+
+Stable link for online attendance:
 Join Zoom Meeting
 https://cesnet.zoom.us/j/92851968819?pwd=L296R2N1T1RNR2VPdVMxQjdQR1Iydz09
 
 Meeting ID: 928 5196 8819
 Passcode: pythonFTW
 
-The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
 
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
-| 5/10 | Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
-| 11/10 | Seminar (Git)                                           | Martin |                        |HW 1|   |
-| 12/10 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
-| 19/10 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
-| 25/10 | Seminar                              					 | Jan    |                        |    |   |
-| 26/10 | Object-Oriented Programming                              | Martin    |                        |HW 3|   |
-| 2/11 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
-| 8/11 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
-| 9/11 | Seminar                                                 | Vitek  |                        |    |   |
-| 22/11 | Advanced Pandas                                         | Vitek  |                        |HW 5|   |
-| 23/11 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
-| 29/11 | Seminar - MIDTERM                                        | full house |                    |    |   |
-| 30/11  | Packaging and Documentation                                    | Martin |                        |    |   |
-| 6/12 |  Testing (and decorators)                            | Martin |                        |    |   |
-| 7/12 |  Seminar                                                | Martin | Project Topic Approval |    |   |
-| 14/12  | Guest lecture                                            | TBD    |                        |    |   |
-| 20/12  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
-| 21/12  | Project Work 2                                         | full house | Work-in-progress   |    |   |
-| 7/2   | Project Deadline                                       | full house |                    |    |   |
+| 15/2| Intro, Jupyter, Git (+ GitHub)                          | Martin |                        |    |   |
+| 21/2 | Seminar (Git)                                           | Martin |                        |HW 1|   |
+| 22/2 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
+| 1/3 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
+| 7/3 | Seminar                              					 | Jan    |                        |    |   |
+| 8/3 | Object-Oriented Programming                              | Martin    |                        |HW 3|   |
+| 15/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
+| 21/3 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
+| 22/3 | Seminar                                                 | Vitek  |                        |    |   |
+| 29/3 | Advanced Pandas                                         | Vitek  |                        |HW 5|   |
+| 4/4 | Introduction to Databases                               | Jan    | Project Topic Proposal |HW 6|   |
+| 5/4 | Seminar - MIDTERM                                        | full house |                    |    |   |
+| 11/4  | Packaging and Documentation                                    | Martin |                        |    |   |
+| 12/4 |  Testing (and decorators)                            | Martin |                        |    |   |
+| 19/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
+| 26/4  | Guest lecture                                            | TBD    |                        |    |   |
+| 2/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
+| 3/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
+| X/X   | Project Deadline                                       | full house |                    |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
@@ -60,36 +60,42 @@ See example project from the previous semesters [here](https://github.com/vitekz
 * Presentation of work-in-progress related to the final project.
 
 ## Midterm exam (25%)
-22/11. Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
+Takes place May 5 -  Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## DataCamp Assignments (5%)
 3 assignments out of assignments 1-6 submitted on time is required.
 
 
 
-### 10/10 18:20 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+### 21/2 18:20 
+* [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
-### 12/10 18:20 
-*Deadline extended to Oct 17th at 23:59
+### 22/2 18:20
 
 * [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
 * [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)
 * [Introduction to Python - Functions and packages](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages)
 
-### 19/10 18:30 - [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
+### 1/3 18:20 
+* [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
 
-### 26/10 18:30 - [Object-Oriented Programming in Python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
+### 8/3 18:20 
+*  [Object-Oriented Programming in Python](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python)
 
-### 8/11 18:30 
+### 21/3 18:20
 * [Web Scraping in Python - Introduction to HTML](https://campus.datacamp.com/courses/web-scraping-with-python/introduction-to-html)
 * [Web Scraping in Python - XPaths and Selectors](https://campus.datacamp.com/courses/web-scraping-with-python/xpaths-and-selectors)
 * [Web Scraping in Python - CSS Locators, Chaining, and Responses](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses)
 
 
-### 16/11 18:30
+### 29/3 18:20
 * [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 
+### 4/4 18:20
+* [Introduction to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+
+* [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 
 **TBA**
 

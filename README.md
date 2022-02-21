@@ -19,7 +19,7 @@ Passcode: pythonFTW
 | 22/2 | Strings, Floats, Lists, Dictionaries, Functions         | Vitek  |                        |HW 0|   |
 | 1/3 | Numpy, Pandas, Matplotlib                                | Jan    |                        |HW 2|   |
 | 7/3 | Seminar                              					 | Jan    |                        |    |   |
-| 8/3 | Object-Oriented Programming                              | Martin    |                        |HW 3|   |
+| 8/3 | Object-Oriented Programming                              | Jan    |                        |HW 3|   |
 | 15/3 | HTML, XML, JSON, requests, APIs, BeautifulSoup          | Jan    |                        |    |   |
 | 21/3 | IES Web Scraper                                         | Vitek  |                        |HW 4|   |
 | 22/3 | Seminar                                                 | Vitek  |                        |    |   |

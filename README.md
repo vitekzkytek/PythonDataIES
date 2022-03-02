@@ -29,7 +29,7 @@ Passcode: pythonFTW
 | 11/4  | Packaging and Documentation                                    | Martin |                        |    |   |
 | 12/4 |  Testing (and decorators)                            | Martin |                        |    |   |
 | 19/4 |  Seminar                                                | Martin | Project Topic Approval |    |   |
-| 26/4  | Guest lecture                                            | TBD    |                        |    |   |
+| 26/4  | Guest lecture + Beer after                                           | TBD    |                        |    |   |
 | 2/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
 | 3/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
 | X/X   | Project Deadline                                       | full house |                    |    |   |

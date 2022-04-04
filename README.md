@@ -11,6 +11,19 @@ Meeting ID: 928 5196 8819
 Passcode: pythonFTW
 
 
+## Midterm tips:
+* The assignment will appear here at 18:30.
+* Create a git repo in advance and push something (empty notebook) in it to make sure you can do it in time (by 19:55)
+* Read properly the instructions!
+* Keep calm and Google possible errors. Read them carefully, they usually say quite precisely what is wrong
+* Ask in person or over Zoom (link above) if there are some serious issues - it is not compulsory 
+
+* Email the link to the repo to [Jan Šíla](mailto:jan.sila@fsv.cuni.cz?subject=JEM207 midterm submission) with subject **"JEM207 midterm submission"** - link fills it out for you
+
+## Project - paring
+* If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1A3WT4aUDqfzpoTaiawmtWH2TNRsF7OeOHF_NIDAwt8g/edit?usp=sharing) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others. 
+
+# Schedule
 
 | Date | Topic                                                   | who    | Project                | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|

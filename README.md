@@ -18,7 +18,7 @@ Passcode: pythonFTW
 * Keep calm and Google possible errors. Read them carefully, they usually say quite precisely what is wrong
 * Ask in person or over Zoom (link above) if there are some serious issues - it is not compulsory 
 
-# [Midterm instructions - preview](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_preview_03_2022.pdf)
+# [Midterm instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-986dbd_03_2022.pdf)
 
 ### Hand in the repo through [this google form](https://forms.gle/8wiRkLEdkb96SX2p6) 
 Make sure you accces it through university google account

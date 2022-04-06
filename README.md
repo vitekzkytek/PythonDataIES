@@ -10,17 +10,7 @@ https://cesnet.zoom.us/j/92851968819?pwd=L296R2N1T1RNR2VPdVMxQjdQR1Iydz09
 Meeting ID: 928 5196 8819
 Passcode: pythonFTW
 
-
-## Midterm tips:
-* The assignment will appear here at 18:30.
-* Create a git repo in advance and push something (empty notebook) in it to make sure you can do it in time (by 19:55)
-* Read properly the instructions!
-* Keep calm and Google possible errors. Read them carefully, they usually say quite precisely what is wrong
-* Ask in person or over Zoom (link above) if there are some serious issues - it is not compulsory 
-
-# [Midterm instructions](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-986dbd_03_2022.pdf)
-
-### Hand in the repo through [this google form](https://forms.gle/8wiRkLEdkb96SX2p6) 
+### Hand in midterm through [this google form](https://forms.gle/8wiRkLEdkb96SX2p6) 
 Make sure you accces it through university google account
 
 

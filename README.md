@@ -10,9 +10,15 @@ https://cesnet.zoom.us/j/92851968819?pwd=L296R2N1T1RNR2VPdVMxQjdQR1Iydz09
 Meeting ID: 928 5196 8819
 Passcode: pythonFTW
 
+## Guest lecture and beer after March 26
+* Lecture by Vitek on Flask 
+* Informal discussion afterwards: https://g.page/pivovarskyklub?share Krizikova 17, nearby Florenc, we have tables in the underground *everyone is welcome*
+
+
+<!---
 ### Hand in midterm through [this google form](https://forms.gle/8wiRkLEdkb96SX2p6) 
 Make sure you accces it through university google account
-
+-->
 
 ## Project - paring
 * If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1A3WT4aUDqfzpoTaiawmtWH2TNRsF7OeOHF_NIDAwt8g/edit?usp=sharing) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others. 

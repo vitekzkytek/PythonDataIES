@@ -45,7 +45,7 @@ Make sure you accces it through university google account
 | 26/4  | Guest lecture + Beer after                                           | TBD    |                        |    |   |
 | 2/5  | Project Work 2 (Seminar)                                | full house | Work-in-progress   |    |   |
 | 3/5  | Project Work 2                                         | full house | Work-in-progress   |    |   |
-| X/X   | Project Deadline                                       | full house |                    |    |   |
+| 31/8   | Project Deadline                                       | full house |                    |    |   |
 
 # Course requirements
 The requirements for passing the course are DataCamp assignments (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
@@ -53,7 +53,7 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline: X.X.
+* Deadline: 31.8.
 * The task is to download any data from API or directly from the web. These data should be processed and visualized in the Jupyter Notebook, with auxiliary scripts consisting of functions and classes definitions as .py files. The project should be submitted as a GitHub repository.
 * The selection of the data is up to the students. (Conditional on our approval.)
 * Git collaboration as a proof of collaboration of both students.

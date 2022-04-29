@@ -10,6 +10,9 @@ https://cesnet.zoom.us/j/92851968819?pwd=L296R2N1T1RNR2VPdVMxQjdQR1Iydz09
 Meeting ID: 928 5196 8819
 Passcode: pythonFTW
 
+## Work-in-progress consultations
+Link to register: https://docs.google.com/spreadsheets/d/1MDbNBKgANXJAMQv5EqjbhqKKfFY_gaIgeIK5JcV6-Q8/edit?usp=sharing
+
 ## Guest lecture and beer after March 26
 * Lecture by Vitek on Flask 
 * Informal discussion afterwards: https://g.page/pivovarskyklub?share Krizikova 17, nearby Florenc, we have tables in the underground *everyone is welcome*

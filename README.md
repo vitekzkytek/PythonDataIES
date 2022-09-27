@@ -10,12 +10,12 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | Date | Topic                                                   | who    | Notes                  | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
 | 3/10  | Seminar 0: Setup                                       | Martin | (Jupyter, VScode, Git, OS basics)               |    |   |
-| 4/10  | Python basics                                          | Vitek  |                        |HW 0|   |
-| 11/10 | Numpy & Pandas                                         | Martin |                        |HW 1|   |
+| 4/10  | Python basics                                          | Vitek  |                        |    |   |
+| 11/10 | Numpy & Pandas                                         | Martin |                        |HW 0&1|   |
 | 17/10 | Seminar 1                                              | Vitek  |                        |    |   |
 | 18/10 | Advanced Pandas & Matplotlib                           | Vitek  |                        |HW 2|   |
 | 25/10 | DBs                                                    | Vitek  |                        |HW 3|   |
-| 31/10 | Seminar 2                                              | Vitek  |                        |HW  |   |
+| 31/10 | Seminar 2                                              | Vitek  |                        |    |   |
 | 1/11  | Live coding example                                    | Martin |                        |    |   |
 | 8/11  | Deployment, packaging & testing                        | Martin |                        |HW 4|   |
 | 14/11 | MIDTERM                                                | both   |                        |    |   |
@@ -49,15 +49,13 @@ Takes place TBA -  Live coding (80 minutes), "open browser", no collaboration be
 ## DataCamp Assignments (5%)
 At least 3 out of 4 assignments submitted on time is required.
 
-### 4/10 18:20
+### 11/10 18:20 (HW 0 & 1)
+* [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
+* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 * [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
 * [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)
 * [Introduction to Python - Functions and packages](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages)
-
-### 11/10 18:20 
-* [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
-* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 
 ### 25/10 18:20

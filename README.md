@@ -99,7 +99,6 @@ At least 3 out of 4 assignments submitted on time is required.
 [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 
  # Prerequisities
- Econometrics II. (JEB110) is an explicit prerequisite for bachelor students.
 
  The course is designed for students that have at least some basic coding experience. It does not need to be very advanced, but they should be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
 

@@ -2,7 +2,6 @@ dask_data/
 **.ipynb_checkpoints
 **__pycache__
 **.icloud
-**csv
 auth.py
 .DS_Store
 11_cloud_computing/part2-prepare-finished/node_modules/**
@@ -18,3 +17,4 @@ midterms/
 venv
 .env
 .vscode
+*.amltmp

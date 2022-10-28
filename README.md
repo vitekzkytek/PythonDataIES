@@ -15,8 +15,8 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 17/10 | Seminar 1                                              | Vitek  |                        |    |   |
 | 18/10 | Advanced Pandas & Matplotlib                           | Vitek  |                        |HW 2|   |
 | 25/10 | DBs                                                    | Vitek  |                        |HW 3|   |
-| 31/10 | Seminar 2                                              | Vitek  |                        |    |   |
-| 1/11  | Live coding example                                    | Martin |                        |    |   |
+| 31/10 | Live coding example                                    | Martin  |                       |    |   |
+| 1/11  | Seminar 2                                              | Vitek |                         |    |   |
 | 8/11  | Deployment, packaging & testing                        | Martin |                        |HW 4|   |
 | 14/11 | MIDTERM                                                | both   |                        |    |   |
 | 15/11 | Seminar 3                                              | Martin |                        |    |   |

@@ -1,5 +1,7 @@
 # Data Processing in Python (JEM207)
 
+sreality api url: https://www.sreality.cz/api/cs/v2/estates?
+
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz).
 
 [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
@@ -15,8 +17,8 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 17/10 | Seminar 1                                              | Vitek  |                        |    |   |
 | 18/10 | Advanced Pandas & Matplotlib                           | Vitek  |                        |HW 2|   |
 | 25/10 | DBs                                                    | Vitek  |                        |HW 3|   |
-| 31/10 | Seminar 2                                              | Vitek  |                        |    |   |
-| 1/11  | Live coding example                                    | Martin |                        |    |   |
+| 31/10 | Live coding example                                    | Martin  |                       |    |   |
+| 1/11  | Seminar 2                                              | Vitek |                         |    |   |
 | 8/11  | Deployment, packaging & testing                        | Martin |                        |HW 4|   |
 | 14/11 | MIDTERM                                                | both   |                        |    |   |
 | 15/11 | Seminar 3                                              | Martin |                        |    |   |

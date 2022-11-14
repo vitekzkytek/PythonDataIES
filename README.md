@@ -6,7 +6,15 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 
 [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
 
+# Midterm
+Read the instructions carefully! The file has a total of 3 pages. Be careful with copying links that there are no spaces etc. 
 
+**The midterm is [HERE](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/Midterm_tasks-986dbd_11_2022_v3.pdf).**
+
+Hand in link to your github repo with your pushed solution [here](https://forms.gle/XvFkWrrkcjdD4NtJ8)
+
+Happy coding!
+ 
 # Schedule
 
 | Date | Topic                                                   | who    | Notes                  | HW |   |

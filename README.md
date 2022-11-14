@@ -13,6 +13,8 @@ Read the instructions carefully! The file has a total of 3 pages. Be careful wit
 
 Hand in link to your github repo with your pushed solution [here](https://forms.gle/XvFkWrrkcjdD4NtJ8)
 
+In case of technical difficulties, email jan.sila@fsv.cuni.cz
+
 Happy coding!
  
 # Schedule

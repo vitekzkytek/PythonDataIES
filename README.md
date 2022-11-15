@@ -6,6 +6,8 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 
 [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
 
+# Midterm
+Results will be posted to SIS within a week. 
 
 # Schedule
 

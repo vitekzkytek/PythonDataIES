@@ -7,7 +7,10 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
 
 # Midterm
-Results will be posted to SIS within a week. 
+Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
+
+# Project proposal
+The only way to submit your project is through [project submission form](https://forms.gle/o72apLCykNs5aENV8) so that we keep communication clear. You will get a consultant who will help you make the project good (or at least mark it for you).
 
 # Schedule
 

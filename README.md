@@ -1,5 +1,8 @@
 # Data Processing in Python (JEM207)
 
+token = 5b3ce3597851110001cf62481dc59c1f77f445439a968359bc2dceca
+
+
 sreality api url: https://www.sreality.cz/api/cs/v2/estates?
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz).

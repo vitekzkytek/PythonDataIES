@@ -34,7 +34,7 @@ The only way to submit your project is through [project submission form](https:/
 | 28/11 | Seminar 4                                              | Vitek  | DEADLINE: topic approval |    |   |
 | 29/11 | Data science libraries                                 | Martin |                        |    |   |
 | 6/12  | Putting it all together                                | Martin |                        |    |   |
-| 13/12 | Guest lecture                                          | TBA    |                        |    |   |
+| 13/12 | Big data & Spark (Guest lecture) + Python Beer         | [Karel Simanek](https://www.bighub.cz/about)    |                        |    |   |
 | 19/12 | WiP projectg consultations                             | both   |                        |    |   |
 | 20/12 | WiP projectg consultations                             | both   |                        |    |   |
 

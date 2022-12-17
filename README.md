@@ -8,6 +8,9 @@ sreality api url: https://www.sreality.cz/api/cs/v2/estates?
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz).
 
 [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
+# Project consultations
+Everyone should have an **assigned supervisor**, who sent you feedback on your project. If not, let jan.sila@fsv.cuni.cz know ASAP. 
+Unless arranged otherwise with supervisor, sign up for consultations through [this link.](https://docs.google.com/spreadsheets/d/1O5qZgJMQRALaEeDQh5jeoa4HFA9x8Fd_vIsD95Uglqg/edit?usp=sharing)
 
 # Midterm
 Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.

@@ -33,16 +33,16 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 | 13/2  | Seminar 0: Setup                                       | Martin | (Jupyter, VScode, Git, OS basics)               |    |   |
 | 14/2  | L1: Python basics                                          | Martin  |                        |  HW 0  |   |
 | 21/2  | L2: Python basics + funcs                                  | Martin |                        |HW 1|   |
-| 27/2  | Seminar 1                                              | tbd  |                        |    |   |
+| 27/2  | Seminar 1                                              | Martin  |                        |    |   |
 | 28/2  | L3: Pandas & numpy                                       | Vitek  |                        |HW 2|   |
 | 7/3   | L4: Pandas 2                                              | Vitek  |                        |HW 3|   |
-| 13/3  | Seminar 2                                             | tbd  |                       |    |   |
+| 13/3  | Seminar 2                                             | Vitek  |                       |    |   |
 | 14/3  | L5: API, Flask                                        | Vitek |                         |    |   |
 | 21/3  | L6: MIDTERM                                           | Jan |                        |  |   |
-| 27/3 | Seminar 3                                              | both   |                        |    |   |
+| 27/3 | Seminar 3                                              | Vitek   |                        |    |   |
 | 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
 | 4/4  | L8: How to code (avoiding spaghetti code)                | Martin  |                        |    |   |
-| 10/4 | Seminar 4                                              | tbd  | DEADLINE: topic approval |    |   |
+| 10/4 | Seminar 4                                              | Martin  | DEADLINE: topic approval |    |   |
 | 11/4 | L9: Databases                                 |             Vitek |                        | HW 4   |   |
 | 18/4  | L10: Live coding                                        | Jan - **online** |                        |    |   |
 | 25/4 | L11: Guest lecture + Python Beer                    | TBA    |                        |    |   |

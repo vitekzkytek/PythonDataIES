@@ -2,8 +2,16 @@
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz).
 
-[Jan Šíla](mailto:jan.sila@fsv.cuni.cz) on the bench.
+[Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
+# Project consultations
+Everyone should have an **assigned supervisor**, who sent you feedback on your project. If not, let jan.sila@fsv.cuni.cz know ASAP. 
+Unless arranged otherwise with supervisor, sign up for consultations through [this link.](https://docs.google.com/spreadsheets/d/1O5qZgJMQRALaEeDQh5jeoa4HFA9x8Fd_vIsD95Uglqg/edit?usp=sharing)
 
+# Midterm
+Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
+
+# Project proposal
+The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 
 # Schedule
 
@@ -15,8 +23,8 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 17/10 | Seminar 1                                              | Vitek  |                        |    |   |
 | 18/10 | Advanced Pandas & Matplotlib                           | Vitek  |                        |HW 2|   |
 | 25/10 | DBs                                                    | Vitek  |                        |HW 3|   |
-| 31/10 | Seminar 2                                              | Vitek  |                        |    |   |
-| 1/11  | Live coding example                                    | Martin |                        |    |   |
+| 31/10 | Live coding example                                    | Martin  |                       |    |   |
+| 1/11  | Seminar 2                                              | Vitek |                         |    |   |
 | 8/11  | Deployment, packaging & testing                        | Martin |                        |HW 4|   |
 | 14/11 | MIDTERM                                                | both   |                        |    |   |
 | 15/11 | Seminar 3                                              | Martin |                        |    |   |
@@ -24,7 +32,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 | 28/11 | Seminar 4                                              | Vitek  | DEADLINE: topic approval |    |   |
 | 29/11 | Data science libraries                                 | Martin |                        |    |   |
 | 6/12  | Putting it all together                                | Martin |                        |    |   |
-| 13/12 | Guest lecture                                          | TBA    |                        |    |   |
+| 13/12 | Big data & Spark (Guest lecture) + Python Beer         | [Karel Simanek](https://www.bighub.cz/about)    |                        |    |   |
 | 19/12 | WiP projectg consultations                             | both   |                        |    |   |
 | 20/12 | WiP projectg consultations                             | both   |                        |    |   |
 
@@ -99,7 +107,6 @@ At least 3 out of 4 assignments submitted on time is required.
 [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 
  # Prerequisities
- Econometrics II. (JEB110) is an explicit prerequisite for bachelor students.
 
  The course is designed for students that have at least some basic coding experience. It does not need to be very advanced, but they should be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
 

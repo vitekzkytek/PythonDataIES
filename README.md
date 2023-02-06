@@ -1,10 +1,11 @@
 # Data Processing in Python (JEM207)
 
-The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz).
+The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and supported from abroad by [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
-[Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
+<!---
+
 # Project consultations
-Everyone should have an **assigned supervisor**, who sent you feedback on your project. If not, let jan.sila@fsv.cuni.cz know ASAP. 
+Everyone should have an **assigned supervisor**, who sent you feedback on your project. If not, let jan.sila@fsv.cuni.cz know ASAP.
 Unless arranged otherwise with supervisor, sign up for consultations through [this link.](https://docs.google.com/spreadsheets/d/1O5qZgJMQRALaEeDQh5jeoa4HFA9x8Fd_vIsD95Uglqg/edit?usp=sharing)
 
 # Midterm
@@ -13,28 +14,39 @@ Results are in SIS and solution was presented. If you have not received mark and
 # Project proposal
 The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 
+-->
+# Communication
+Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
+
+# FAQ
+* If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
+
+* **Datacamp** is available to all who are enrolled. If you drop the course, let JS know to vacate the slot.
+
+* If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
+
 # Schedule
 
 | Date | Topic                                                   | who    | Notes                  | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
-| 3/10  | Seminar 0: Setup                                       | Martin | (Jupyter, VScode, Git, OS basics)               |    |   |
-| 4/10  | Python basics                                          | Vitek  |                        |    |   |
-| 11/10 | Numpy & Pandas                                         | Martin |                        |HW 0&1|   |
-| 17/10 | Seminar 1                                              | Vitek  |                        |    |   |
-| 18/10 | Advanced Pandas & Matplotlib                           | Vitek  |                        |HW 2|   |
-| 25/10 | DBs                                                    | Vitek  |                        |HW 3|   |
-| 31/10 | Live coding example                                    | Martin  |                       |    |   |
-| 1/11  | Seminar 2                                              | Vitek |                         |    |   |
-| 8/11  | Deployment, packaging & testing                        | Martin |                        |HW 4|   |
-| 14/11 | MIDTERM                                                | both   |                        |    |   |
-| 15/11 | Seminar 3                                              | Martin |                        |    |   |
-| 22/11 | Flask, APIs                                            | Vitek  |                        |    |   |
-| 28/11 | Seminar 4                                              | Vitek  | DEADLINE: topic approval |    |   |
-| 29/11 | Data science libraries                                 | Martin |                        |    |   |
-| 6/12  | Putting it all together                                | Martin |                        |    |   |
-| 13/12 | Big data & Spark (Guest lecture) + Python Beer         | [Karel Simanek](https://www.bighub.cz/about)    |                        |    |   |
-| 19/12 | WiP projectg consultations                             | both   |                        |    |   |
-| 20/12 | WiP projectg consultations                             | both   |                        |    |   |
+| 13/2  | Seminar 0: Setup                                       | Martin | (Jupyter, VScode, Git, OS basics)               |    |   |
+| 14/2  | L1: Python basics                                          | Martin  |                        |  HW 0  |   |
+| 21/2  | L2: Python basics + funcs                                  | Martin |                        |HW 1|   |
+| 27/2  | Seminar 1                                              | Vitek  |                        |    |   |
+| 28/2  | L3: Pandas & numpy                                       | Vitek  |                        |HW 2|   |
+| 7/3   | L4: Pandas 2                                              | Vitek  |                        |HW 3|   |
+| 13/3  | Seminar 2                                             | Martin  |                       |    |   |
+| 14/3  | L5: API, Flask                                        | Vitek |                         |    |   |
+| 21/3  | L6: MIDTERM                                           | Martin |                        |  |   |
+| 27/3 | Seminar 3                                              | both   |                        |    |   |
+| 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
+| 4/4  | L8: How to code (avoiding spaghetti code)                | Vitek  |                        |    |   |
+| 10/4 | Seminar 4                                              | Vitek  | DEADLINE: topic approval |    |   |
+| 11/4 | L9: Databases                                 |             Martin |                        | HW 4   |   |
+| 18/4  | L10: Live coding                                        | JS - **online** |                        |    |   |
+| 25/4 | L11: Guest lecture + Python Beer                    | TBA    |                        |    |   |
+| 2/5 | WiP project consultations                             | all   |                        |    |   |
+| 9/5 | WiP project consultations                             | all   |                        |    |   |
 
 
 # Course requirements
@@ -43,13 +55,25 @@ At least 50% from the DataCamp assignments and work-in-progress presentation is 
 
 ## Final project (60%)
 * Students in teams by 2
-* Deadline for topic approval: 28th of November 2022
-* Deadline: 7th of February 2023
+* Deadline for topic approval: 10 April 2023
+* Deadline: end of semester
 
 ### Projects' Evaluation critera
+* Use of git by both - 5pts
+    * meaningful commit messages
+* pythonic code principles - 5 pts
+    * code is more often read than written, EAFP
+* runability - 15 pts
+    * by far the most important one! Project needs to run from scratch after installing versioned requirements.
+* code structure - 15 pts
+    * functions (classes), properly named variables
+* README, documentation - 5 pts
+* analysis, visualization - 15 pts
+    * highlight key poins of your projet
 
 ## Project work - presentation (10%)
 * Presentation of work-in-progress related to the final project.
+* Prepare questions, understand the goals of your project
 
 ## Midterm exam (25%)
 Takes place TBA -  Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
@@ -57,23 +81,26 @@ Takes place TBA -  Live coding (80 minutes), "open browser", no collaboration be
 ## DataCamp Assignments (5%)
 At least 3 out of 4 assignments submitted on time is required.
 
-### 11/10 18:20 (HW 0 & 1)
-* [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
-* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
-
+### 14/2 18:20 (HW 0)
 * [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
+
+### 21/2 18:20 (HW 1)
+
 * [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)
 * [Introduction to Python - Functions and packages](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages)
 
+### 28/2 18:20 (HW 2)
+* [Introduction to Python - numpy ](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy)
+* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
-### 25/10 18:20
+### 7/3 18:20 (HW 3)
+* [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+* [Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+
+
+### 11/4 18:20 (HW 4)
 * [Introduction to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 * [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
-
-### 8/11 18:20
-
-* [Developing python packages](https://www.datacamp.com/courses/developing-python-packages)
-
 
 ## Recommended DataCamp Courses
 
@@ -81,18 +108,13 @@ At least 3 out of 4 assignments submitted on time is required.
 [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 ### General Python
-[Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
-[Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+* [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+* [Developing python packages](https://www.datacamp.com/courses/developing-python-packages)
 
 
 ### pandas
+* [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
 [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-
-[Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
-
-[Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-
 [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
 
 

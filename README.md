@@ -24,6 +24,7 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 * **Datacamp** is available to all who are enrolled. If you drop the course, let JS know to vacate the slot.
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
+* If you decide to *drop out after the 2-week grace period*, note that if you start DataCamp homework, you will be awarded "F" mark followin the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
 
 # Schedule
 

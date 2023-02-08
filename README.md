@@ -31,7 +31,7 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 | Date | Topic                                                   | who    | Notes                  | HW |   |
 |------|---------------------------------------------------------|--------|------------------------|----|---|
 | 13/2  | Seminar 0: Setup                                       | Martin | (Jupyter, VScode, Git, OS basics)               |    |   |
-| 14/2  | L1: Python basics                                          | Martin  |                        |  HW 0  |   |
+| 14/2  | L1: Python basics                                          | Martin  |                        |   |   |
 | 21/2  | L2: Python basics + funcs                                  | Martin |                        |HW 1|   |
 | 27/2  | Seminar 1                                              | Martin  |                        |    |   |
 | 28/2  | L3: Pandas & numpy                                       | Vitek  |                        |HW 2|   |
@@ -82,11 +82,10 @@ Takes place TBA -  Live coding (80 minutes), "open browser", no collaboration be
 ## DataCamp Assignments (5%)
 At least 3 out of 4 assignments submitted on time is required.
 
-### 14/2 18:20 (HW 0)
-* [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
+
 
 ### 21/2 18:20 (HW 1)
-
+* [Introduction to Python - Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-1-python-basics)
 * [Introduction to Python - Python Lists](https://www.datacamp.com/courses/intro-to-python-for-data-science/chapters/chapter-2-python-lists)
 * [Introduction to Python - Functions and packages](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages)
 

@@ -15,6 +15,9 @@ Results are in SIS and solution was presented. If you have not received mark and
 The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 
 -->
+# DataCamp access
+If you have intention to do the course, request [Data Camp access here](https://forms.gle/Wj8kVFNBUfSG9vSK7)
+
 # Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
 

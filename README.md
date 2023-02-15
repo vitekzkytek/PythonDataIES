@@ -24,6 +24,8 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 # FAQ
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
+* The course is held **in-person** and there is by default **no online** option.
+
 * **Datacamp** is available to all who are enrolled. If you drop the course, let JS know to vacate the slot.
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.

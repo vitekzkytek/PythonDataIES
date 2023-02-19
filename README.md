@@ -17,6 +17,7 @@ The only way to submit your project is through [project submission form](https:/
 -->
 # DataCamp access
 If you have intention to do the course, request [Data Camp access here](https://forms.gle/Wj8kVFNBUfSG9vSK7)
+* check your spam folder for invititation email. There are still people who did not sign up, although invited.
 
 # Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!

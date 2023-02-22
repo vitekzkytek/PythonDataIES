@@ -97,7 +97,6 @@ At least 3 out of 4 assignments submitted on time is required.
 
 ### 28/2 18:20 (HW 2)
 * [Introduction to Python - numpy ](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy)
-* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 * [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 ### 7/3 18:20 (HW 3)

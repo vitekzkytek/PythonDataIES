@@ -42,8 +42,8 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 | 27/2  | Seminar 1                                              | Martin  |                        |    |   |
 | 28/2  | L3: Pandas & numpy                                       | Vitek  |                        |HW 2|   |
 | 7/3   | L4: Pandas 2                                              | Vitek  |                        |HW 3|   |
-| 13/3  | Seminar 2                                             | Vitek  |                       |    |   |
-| 14/3  | L5: API, Flask                                        | Vitek |                         |    |   |
+| 13/3  | L5: API, Flask                                             | Vitek  |                       |    |   |
+| 14/3  | Seminar 2                                        | Vitek |                         |    |   |
 | 21/3  | L6: MIDTERM                                           | Jan |                        |  |   |
 | 27/3 | Seminar 3                                              | Vitek   |                        |    |   |
 | 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |

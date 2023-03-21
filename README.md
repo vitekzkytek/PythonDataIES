@@ -27,8 +27,10 @@ The only way to submit your project is through [project submission form](https:/
 
 
 # Communication
-Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
+Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 
 <!---
+
+Before you do, read the FAQ below!!
 # FAQ - pre semester
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 

@@ -3,6 +3,10 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and supported from abroad by [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
 <!---
+# DataCamp access
+
+If you have intention to do the course, request [Data Camp access here](https://forms.gle/Wj8kVFNBUfSG9vSK7)
+check your spam folder for invititation email. There are still people who did not sign up, although invited.
 
 # Project consultations
 Everyone should have an **assigned supervisor**, who sent you feedback on your project. If not, let jan.sila@fsv.cuni.cz know ASAP.
@@ -15,14 +19,20 @@ Results are in SIS and solution was presented. If you have not received mark and
 The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 
 -->
-# DataCamp access
-If you have intention to do the course, request [Data Camp access here](https://forms.gle/Wj8kVFNBUfSG9vSK7)
-* check your spam folder for invititation email. There are still people who did not sign up, although invited.
+# Midterm March 2023
+Please read the [preview for midterm](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/tasks/Midterm_tasks-ff1f7bc2_march_2023_v1-preview.pdf). The tasks will appear right here at 18:30 CET.
+* Read the instructions **carefully**
+* Ensure you have your own **github repository** to which you will upload the solution
+* The only official channel to **submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
+
+* Results will appear within a week in your SIS
+
+
 
 # Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
-
-# FAQ
+<!---
+# FAQ - pre semester
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
 * The course is held **in-person** and there is by default **no online** option.
@@ -31,6 +41,7 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
 * If you decide to *drop out after the 2-week grace period*, note that if you start DataCamp homework, you will be awarded "F" mark followin the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
+-->
 
 # Schedule
 
@@ -48,8 +59,8 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 | 27/3 | Seminar 3                                              | Vitek   |                        |    |   |
 | 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
 | 4/4  | L8: How to code (avoiding spaghetti code)                | Martin  |                        |    |   |
-| 10/4 | Seminar 4                                              | Martin  | DEADLINE: topic approval |    |   |
-| 11/4 | L9: Databases                                 |             Vitek |                        | HW 4   |   |
+| 11/4 | L9: Databases                                 |             Vitek |        DEADLINE: topic approval                | HW 4   |   |
+| 17/4  | Seminar 4                                        | Martin |                        |    |   |
 | 18/4  | L10: Live coding                                        | Jan - **online** |                        |    |   |
 | 25/4 | L11: Guest lecture + Python Beer                    | TBA    |                        |    |   |
 | 2/5 | WiP project consultations                             | all   |                        |    |   |

@@ -20,10 +20,9 @@ The only way to submit your project is through [project submission form](https:/
 
 -->
 # Midterm March 2023
-Please read the [preview for midterm](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/tasks/Midterm_tasks-ff1f7bc2_march_2023_v1-preview.pdf). The tasks will appear right here at 18:30 CET.
+Please read the [midterm assignment](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/tasks/Midterm_tasks-ff1f7bc2_march_2023_v1.pdf). Good luck.
 * Read the instructions **carefully**
-* Ensure you have your own **github repository** to which you will upload the solution
-* The only official channel to **submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
+* **Submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
 
 * Results will appear within a week in your SIS
 

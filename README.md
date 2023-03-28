@@ -19,6 +19,12 @@ Results are in SIS and solution was presented. If you have not received mark and
 The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 
 -->
+
+# Lecture cancelled 
+Lecture on 28th of March is cancelled due to the health reasons. It is moved to 3rd of May, see schedule below.
+Sorry for the inconvenience, Martin
+
+
 # Midterm March 2023
 
 * **Submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
@@ -56,7 +62,7 @@ Before you do, read the FAQ below!!
 | 14/3  | Seminar 2                                        | Vitek |                         |    |   |
 | 21/3  | L6: MIDTERM                                           | Jan |                        |  |   |
 | 27/3 | Seminar 3                                              | Vitek   |                        |    |   |
-| 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
+| 3/4 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
 | 4/4  | L8: How to code (avoiding spaghetti code)                | Martin  |                        |    |   |
 | 11/4 | L9: Databases                                 |             Vitek |        DEADLINE: topic approval                | HW 4   |   |
 | 17/4  | Seminar 4                                        | Martin |                        |    |   |

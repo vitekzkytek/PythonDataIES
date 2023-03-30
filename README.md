@@ -2,6 +2,10 @@
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz) and supported from abroad by [Jan Šíla](mailto:jan.sila@fsv.cuni.cz).
 
+# Lecture cancelled 
+Lecture on 28th of March is cancelled due to the health reasons. It is moved to 3rd of May, see schedule below.
+Sorry for the inconvenience, Martin
+
 <!---
 # DataCamp access
 
@@ -14,23 +18,14 @@ Unless arranged otherwise with supervisor, sign up for consultations through [th
 
 # Midterm
 Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
-
-# Project proposal
-The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
-
 -->
 
-# Lecture cancelled 
-Lecture on 28th of March is cancelled due to the health reasons. It is moved to 3rd of May, see schedule below.
-Sorry for the inconvenience, Martin
+# Project proposal
+The only way to submit your project is through [project submission form](https://forms.gle/ptEqaNyL4Ar73SVZ7) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 
 
-# Midterm March 2023
-
-* **Submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
-* Results will appear within a week in your SIS
-
-
+### Midterm March 2023
+* Marks are 99% ready, you will be notified by SIS when yours is uploaded. Apologies for the delay.
 
 # Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 

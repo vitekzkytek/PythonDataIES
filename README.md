@@ -18,6 +18,8 @@ Results are in SIS and solution was presented. If you have not received mark and
 
 # Project proposal
 The only way to submit your project is through [project submission form](https://forms.gle/ptEqaNyL4Ar73SVZ7) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
+### Projet matching
+If you are looking for a project partner, [connect through this sheet](https://docs.google.com/spreadsheets/d/1IFZnnEw0Cz48ZZHWUiS7VIHyKkWvzxSgdwDKmAysw8M/edit?usp=sharing).
 
 ## Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 

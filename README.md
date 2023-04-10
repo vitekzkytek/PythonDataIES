@@ -14,19 +14,14 @@ Unless arranged otherwise with supervisor, sign up for consultations through [th
 
 # Midterm
 Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
+-->
 
 # Project proposal
-The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
+The only way to submit your project is through [project submission form](https://forms.gle/ptEqaNyL4Ar73SVZ7) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
+### Projet matching
+If you are looking for a project partner, [connect through this sheet](https://docs.google.com/spreadsheets/d/1IFZnnEw0Cz48ZZHWUiS7VIHyKkWvzxSgdwDKmAysw8M/edit?usp=sharing).
 
--->
-# Midterm March 2023
-
-* **Submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
-* Results will appear within a week in your SIS
-
-
-
-# Communication
+## Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 
 <!---
 
@@ -56,7 +51,7 @@ Before you do, read the FAQ below!!
 | 14/3  | Seminar 2                                        | Vitek |                         |    |   |
 | 21/3  | L6: MIDTERM                                           | Jan |                        |  |   |
 | 27/3 | Seminar 3                                              | Vitek   |                        |    |   |
-| 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
+| 3/4 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
 | 4/4  | L8: How to code (avoiding spaghetti code)                | Martin  |                        |    |   |
 | 11/4 | L9: Databases                                 |             Vitek |        DEADLINE: topic approval                | HW 4   |   |
 | 17/4  | Seminar 4                                        | Martin |                        |    |   |

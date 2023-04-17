@@ -14,12 +14,25 @@ Unless arranged otherwise with supervisor, sign up for consultations through [th
 
 # Midterm
 Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
--->
+
 
 # Project proposal
 The only way to submit your project is through [project submission form](https://forms.gle/ptEqaNyL4Ar73SVZ7) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
 ### Projet matching
 If you are looking for a project partner, [connect through this sheet](https://docs.google.com/spreadsheets/d/1IFZnnEw0Cz48ZZHWUiS7VIHyKkWvzxSgdwDKmAysw8M/edit?usp=sharing).
+
+-->
+### Lecture 10
+
+Topic: JEM207 - Lecture 10 - online coding
+Time: Apr 18, 2023 06:30 PM Prague Bratislava
+
+Join Zoom Meeting
+https://cesnet.zoom.us/j/99628912924?pwd=YjNSTjlUTGMxVlZwck9SU1dqdjRyQT09
+
+Meeting ID: 996 2891 2924
+Passcode: 827109
+
 
 ## Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 
@@ -55,7 +68,7 @@ Before you do, read the FAQ below!!
 | 4/4  | L8: How to code (avoiding spaghetti code)                | Martin  |                        |    |   |
 | 11/4 | L9: Databases                                 |             Vitek |        DEADLINE: topic approval                | HW 4   |   |
 | 17/4  | Seminar 4                                        | Martin |                        |    |   |
-| 18/4  | L10: Live coding                                        | Jan - **online** |                        |    |   |
+| 18/4  | L10: Live coding                                        | Jan - [**online** link here](https://cesnet.zoom.us/j/99628912924?pwd=YjNSTjlUTGMxVlZwck9SU1dqdjRyQT09) |                        |    |   |
 | 25/4 | L11: Guest lecture + Python Beer                    | TBA    |                        |    |   |
 | 2/5 | WiP project consultations                             | all   |                        |    |   |
 | 9/5 | WiP project consultations                             | all   |                        |    |   |

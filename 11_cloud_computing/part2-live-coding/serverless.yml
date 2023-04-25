@@ -1,0 +1,29 @@
+service: part2-live-coding
+# app and org for use with dashboard.serverless.com
+#app: your-app-name
+#org: your-org-name
+
+# You can pin your service to only deploy with a specific Serverless version
+# Check out our docs for more details
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.9
+
+# you can overwrite defaults here
+#  stage: dev
+#  region: us-east-1
+
+
+functions:
+  hello:
+    handler: handler.portfolio
+#    The following are a few example events you can configure
+#    NOTE: Please make sure to change your handler code to work with those events
+#    Check the event documentation for details
+   events:
+     - httpApi:
+         path: /optimize
+         method: postt
+# figure out requirements pandsa , yfinance

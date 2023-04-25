@@ -1,0 +1,15 @@
+service: part1-helloworld
+
+provider:
+  name: aws #what is our cloud provide r
+  runtime: python3.9 #runtime of the function https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html
+  region: eu-central-1
+
+#here we specify all functions we want serverless to create for us
+functions:
+  hello: #name of your lambda function in cloud
+    handler: handler.hello #what piece of code to run in format module.function (can use )
+    events: #what events trigger the function
+    - http: #we want a http API
+         path: /hello #what is the route, like /data, /signup, /saveme
+         method: post #what is the allowed method to use it with

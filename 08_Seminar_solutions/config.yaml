@@ -1,0 +1,8 @@
+letters:
+  - a
+  - b
+  - c
+  - e
+
+raw_path: 'data/meals_raw.json'
+processed_path: 'data/meals_processed.json'

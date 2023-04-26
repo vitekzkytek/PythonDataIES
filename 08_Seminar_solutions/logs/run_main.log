@@ -1,0 +1,9 @@
+2023-04-16 16:13:22,425 - __main__ - ERROR - Loaded config with following contents: {'letters': ['a', 'b', 'c', 'e'], 'raw_path': 'data/meals_raw.json', 'processed_path': 'data/meals_processed.json'}
+04/16/2023 04:15:19 PM Loaded config with following contents: {'letters': ['a', 'b', 'c', 'e'], 'raw_path': 'data/meals_raw.json', 'processed_path': 'data/meals_processed.json'}
+2023-04-16 16:15:47 Loaded config with following contents: {'letters': ['a', 'b', 'c', 'e'], 'raw_path': 'data/meals_raw.json', 'processed_path': 'data/meals_processed.json'}
+2023-04-16 16:15:50 Loaded config with following contents: {'letters': ['a', 'b', 'c', 'e'], 'raw_path': 'data/meals_raw.json', 'processed_path': 'data/meals_processed.json'}
+2023-04-16 16:24:37 Loaded config with following contents: {'letters': ['a', 'b', 'c', 'e'], 'raw_path': 'data/meals_raw.json', 'processed_path': 'data/meals_processed.json'}
+2023-04-16 16:24:42 Loaded unprocessed (raw) meals information.
+2023-04-16 16:24:42 Saved unprocessed meals info to data/meals_raw.json
+2023-04-16 16:24:42 Processed meals.
+2023-04-16 16:24:42 Saved processed meals to data/meals_processed.json

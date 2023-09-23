@@ -1,5 +1,5 @@
 # 0th Seminar 
-13th of February
+2th of October
 
 **Contents**:
 0. Preliminary info

@@ -13,8 +13,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * The course is held **in-person** and there is by default **no online** option.
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
-* If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark followin the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
--->
+* If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
 
 # Schedule
 
@@ -58,6 +57,7 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
     * code is more often read than written, EAFP
 * runability - 15 pts
     * by far the most important one! Project needs to run from scratch after installing versioned requirements.
+        * provide requirements.txt file with specific versions of packages (use pip freeze to get it), and specify your precise Python version. 
 * code structure - 15 pts
     * functions (classes), properly named variables
 * README, documentation - 5 pts
@@ -72,13 +72,38 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
 Live coding (80 minutes), "open browser", no collaboration between the students. More details during the lecture week before
 
 ## Homework Assignments (5%)
-At least 2 out of 3 HWs assignments submitted on time is required.
 
- # Prerequisities
+* Create leetcode.com account
+* You are expected to submit in a specified Google form
+    * link to the problem
+    * Print page showing your solution and submission statistics 
+        *Like this: [Path Sum III - Submission Detail - LeetCode.pdf](https://github.com/vitekzkytek/PythonDataIES/files/12743340/Path.Sum.III.-.Submission.Detail.-.LeetCode.pdf)
 
- The course is designed for students that have at least some basic coding experience. It does not need to be very advanced, but they should be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
 
- No knowledge of Python is required for entering the course.
+    * Plain text of your script (in python 3!)
+* Rules:
+    * Do not just copy the public solutions or what ChatGPT tells you. We will make an effort to find out and you will be penalized as per academic integrity guidelines. Do not try to get easy points by cheating, it is not the purpose of the HW tasks.
+    * Have fun and try to beat the world!
+    * Your submission will ideally be accepted by leetcode, but send us your best attempt regardless, you can still get the points. If anything, try to optimize run time, do not worry about memory.
+    * You will struggle, but if you solve many of those, your next stop is Google cafeteria as an employee!
+    * If you cannot decide, there is a shuffle button which will pick something for you.
 
- # Credits
- Passing the course is rewarded with 5 ECTS credits.
+* HW 1 (1 pts):
+    * Choose one of the easy problems. Have fun and send us how far you have got!
+        * Example: [Two Sum](https://leetcode.com/problems/two-sum/)
+* HW 2 (2 pts):
+    * One easy or one Medium problem
+        * Example: Medium: [Parentheses](https://leetcode.com/problems/generate-parentheses/)
+* HW 3 (2 pts):
+    * One easy or one Medium problem
+    * Must be from [Pandas set of problems](https://leetcode.com/problemset/pandas/)
+
+
+# Prerequisities
+
+The course is designed for students who have at least some basic coding experience. It does not need to be very advanced, but they should be aware of concepts such as ` for ` loop ,`if` and `else`,`variable` or `function`.
+
+No knowledge of Python is required to enter the course.
+
+# Credits
+Passing the course is rewarded with 5 ECTS credits.

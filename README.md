@@ -1,7 +1,7 @@
 # Data Processing in Python (JEM207)
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) and 
-[Alena Pavlovova](mailto:alena.pavlovova@fsv.cuni.cz).
+[Alena Pavlovova](mailto:alena.pavlova@fsv.cuni.cz).
 
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 

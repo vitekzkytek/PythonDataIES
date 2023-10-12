@@ -13,6 +13,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * The course is held **in-person** and there is by default **no online** option.
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
+* You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
 
 # Schedule

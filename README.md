@@ -75,7 +75,7 @@ Live coding (80 minutes), "open browser", no collaboration between the students.
 ## Homework Assignments (5%)
 
 * Create leetcode.com account
-* You are expected to submit in a specified Google form
+* You are expected to submit in a specified Google form: https://forms.gle/jkoRpZ7yZoQYSYjY7
     * link to the problem
     * Print page showing your solution and submission statistics 
         *Like this: [Path Sum III - Submission Detail - LeetCode.pdf](https://github.com/vitekzkytek/PythonDataIES/files/12743340/Path.Sum.III.-.Submission.Detail.-.LeetCode.pdf)

@@ -1,7 +1,7 @@
 # Data Processing in Python (JEM207)
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) and 
-[Alena Pavlovova](mailto:alena.pavlovova@fsv.cuni.cz).
+[Alena Pavlovova](mailto:alena.pavlova@fsv.cuni.cz).
 
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
@@ -13,6 +13,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * The course is held **in-person** and there is by default **no online** option.
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
+* You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
 
 # Schedule
@@ -74,7 +75,7 @@ Live coding (80 minutes), "open browser", no collaboration between the students.
 ## Homework Assignments (5%)
 
 * Create leetcode.com account
-* You are expected to submit in a specified Google form
+* You are expected to submit in a specified Google form: https://forms.gle/jkoRpZ7yZoQYSYjY7
     * link to the problem
     * Print page showing your solution and submission statistics 
         *Like this: [Path Sum III - Submission Detail - LeetCode.pdf](https://github.com/vitekzkytek/PythonDataIES/files/12743340/Path.Sum.III.-.Submission.Detail.-.LeetCode.pdf)

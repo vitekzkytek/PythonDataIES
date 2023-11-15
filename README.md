@@ -16,6 +16,9 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
 
+## Project - paring
+* If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others. 
+
 # Schedule
 
 | Week | Date   | L/S | Topic                                      | Lecturer            | Deadline         |

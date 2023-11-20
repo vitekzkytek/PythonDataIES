@@ -6,6 +6,12 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
+# Midterm - Nov 21
+
+* Here is [preview of instructions](https://drive.google.com/file/d/1wop6xnUKEdxsY9BswXwYwXABmeA1RHc6/view?usp=sharing). Please note that no further hints or sample questions will be provided. This line will be updated at the start of the exam. 
+* You are expected to be present in the lecture room during the exam.
+* Read the instructions carefully.
+<!--
 ## FAQ - pre semester
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
@@ -15,6 +21,10 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
 * You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
+-->
+## Project - paring
+* If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
+
 
 # Schedule
 

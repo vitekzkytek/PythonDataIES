@@ -8,9 +8,9 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 
 # Midterm - Nov 21
 
-* Here is [preview of instructions](https://drive.google.com/file/d/1wop6xnUKEdxsY9BswXwYwXABmeA1RHc6/view?usp=sharing). Please note that no further hints or sample questions will be provided. This line will be updated at the start of the exam. 
-* You are expected to be present in the lecture room during the exam.
+* Here are [midterm instructions](https://drive.google.com/file/d/1MM1E0qT4wm985zcWbc3U2db3gqPfqHGI/view?usp=sharing). 
 * Read the instructions carefully.
+* Happy coding
 <!--
 ## FAQ - pre semester
 

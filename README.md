@@ -6,11 +6,9 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
-# Midterm - Nov 21
+### Midterm - Nov 21
 * Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
-* Here are [midterm instructions](https://drive.google.com/file/d/1MM1E0qT4wm985zcWbc3U2db3gqPfqHGI/view?usp=sharing). 
-* Read the instructions carefully.
-* Happy coding
+* You will find marks in SIS under your name, hopefully within a week. 
 <!--
 ## FAQ - pre semester
 

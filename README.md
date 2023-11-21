@@ -7,7 +7,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
 # Midterm - Nov 21
-
+* Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
 * Here are [midterm instructions](https://drive.google.com/file/d/1MM1E0qT4wm985zcWbc3U2db3gqPfqHGI/view?usp=sharing). 
 * Read the instructions carefully.
 * Happy coding
@@ -47,7 +47,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 | 10   | 5.12.  | L   | How to code (avoiding spaghetti code)      | Martin              | Topic approved   |
 | 11   | 11.12. | S   | Seminar 5: Data science case-study         | Alena               |                  |
 | 11   | 12.12. | L   | Databases                                  | Jan                 |                  |
-| 12   | 19.12. | L   | Guest lecture (TBA) + Python Beer          | Alena, Jan & Martin |                  |
+| 12   | 19.12. | L   | Python profiling + Beer after lecture @ [Pivo klub](https://pivo-klub.cz/)        | [Miloš Kozák](https://www.linkedin.com/in/milo%C5%A1-koz%C3%A1k-1b837927/) |                  |
 | 2.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
 | 9.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
 

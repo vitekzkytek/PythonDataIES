@@ -41,10 +41,10 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 | 7    | 14.11. | L   | Algorithmic problem solving                | Jan                 |                  |
 | 8    | 21.11. | -   | MIDTERM                                    | Alena, Jan & Martin |                  |
 | 9    | 27.11. | S   | MIDTERM solution                           | Alena               |                  |
-| 9    | 28.11. | L   | Data science                               | Martin              | Project proposal |
-| 10   | 5.12.  | L   | How to code (avoiding spaghetti code)      | Martin              | Topic approved   |
+| 9    | 28.11. | L   | Data science                               | Martin              |                  |
+| 10   | 5.12.  | L   | How to code (avoiding spaghetti code)      | Martin              | Project proposal |
 | 11   | 11.12. | S   | Seminar 5: Data science case-study         | Alena               |                  |
-| 11   | 12.12. | L   | Databases                                  | Jan                 |                  |
+| 11   | 12.12. | L   | Databases                                  | Jan                 | Topic approved   |
 | 12   | 19.12. | L   | Python profiling + Beer after lecture @ [Pivo klub](https://pivo-klub.cz/)        | [Miloš Kozák](https://www.linkedin.com/in/milo%C5%A1-koz%C3%A1k-1b837927/) |                  |
 | 2.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
 | 9.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |

@@ -6,8 +6,8 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 ## Final project
-
-See instructions below schedule 
+* [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8)
+* See full instructions below schedule 
 
 <!--
 ### Midterm - Nov 21

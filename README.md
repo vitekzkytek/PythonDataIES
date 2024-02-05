@@ -14,6 +14,10 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
 * You will find marks in SIS under your name, hopefully within a week. 
 
+
+* You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
+-->
+
 ## FAQ - pre semester
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
@@ -21,37 +25,37 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * The course is held **in-person** and there is by default **no online** option.
 
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
-* You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
+
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
--->
+
 ## Project - paring
 * If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
 
 
 # Schedule
 
-| Week | Date   | L/S | Topic                                      | Lecturer            | Deadline         |
-|------|--------|-----|--------------------------------------------|---------------------|------------------|
-| 1    | 2.10.  | S   | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Martin      |                  |
-| 1    | 3.1    | L   | Python basics                              | Martin              |                  |
-| 2    | 10.10. | L   | Python basics II                           | Jan                 |                  |
-| 3    | 16.10. | S   | Seminar 1: Basics                          | Alena               | HW 1             |
-| 3    | 17.10. | L   | Numpy                                      | Jan                 |                  |
-| 4    | 24.10. | L   | Pandas I                                   | Martin              |                  |
-| 5    | 30.10. | S   | Seminar 2: Numpy & pandas                  | Alena               | HW 2             |
-| 5    | 31.10. | L   | Pandas II + Matplotlib                     | Martin              |                  |
-| 6    | 7.11.  | L   | Data formats, APIs                         | Jan                 |                  |
-| 7    | 13.11. | S   | Seminar 3: Data formats & APIs             | Alena               | HW 3             |
-| 7    | 14.11. | L   | Algorithmic problem solving                | Jan                 |                  |
-| 8    | 21.11. | -   | MIDTERM                                    | Alena, Jan & Martin |                  |
-| 9    | 27.11. | S   | MIDTERM solution                           | Alena               |                  |
-| 9    | 28.11. | L   | Data science                               | Martin              |                  |
-| 10   | 5.12.  | L   | How to code (avoiding spaghetti code)      | Martin              | Project proposal |
-| 11   | 11.12. | S   | Seminar 5: Data science case-study         | Alena               |                  |
-| 11   | 12.12. | L   | Databases                                  | Jan                 | Topic approved   |
-| 12   | 19.12. | L   | Python profiling + Beer after lecture @ [Pivo klub](https://pivo-klub.cz/)        | [Miloš Kozák](https://www.linkedin.com/in/milo%C5%A1-koz%C3%A1k-1b837927/) |                  |
-| 2.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
-| 9.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
+| Week | Date | L/S | Topic | Lecturer | Deadline |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 19.2. | S | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Martin + Alena |  |
+| 1 | 20.2. | L | Python basics | Martin |  |
+| 2 | 27.2. | L | Python basics II | Jan |  |
+| 3 | 4.3. | S | Seminar 1: Basics | Alena | HW 1 |
+| 3 | 5.3. | L | Numpy | Jan |  |
+| 4 | 12.3. | L | Pandas I | Martin |  |
+| 5 | 18.3. | S | Seminar 2: Numpy & pandas | Alena | HW 2 |
+| 5 | 19.3. | L | Pandas II + Matplotlib | Martin |  |
+| 6 | 26.3. | L | Data formats, APIs | Jan |  |
+| 7 | 2.4. | S | Seminar 3: Data formats & APIs | Alena | HW 3 |
+| 7 | 8.4. | - | MIDTERM | Alena, Jan & Martin |  |
+| 8 | 9.4 | L | Algorithmic problem solving  | Jan |  |
+| 9 | 15.4. | S | MIDTERM solution | Alena |  |
+| 9 | 16.4. | L | Data science | Martin |  |
+| 10 | 23.4. | L | How to code (avoiding spaghetti code) | Martin | Project proposal |
+| 11 | 29.4. | S | Seminar 5: Data science case-study | Alena |  |
+| 11 | 30.4. | L | Databases | Jan | Topic approved |
+| 12 | 7.5. | L | Guest Lecture + Beer after lecture @ https://pivo-klub.cz/ | TBD |  |
+| 13 | 12.-16.5. | - | WiP: Project consultations | Alena, Jan & Martin |  |
+| 14 | 20.-23.5. | - | WiP: Project consultations | Alena, Jan & Martin |  |
 
 
 # Course requirements
@@ -61,8 +65,8 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
 ## Final project (60%)
 * Students in teams by 2
 * [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8)
-* Deadline for topic approval: 5th of December 2023
-* Deadline: 9th of February 2024
+* Deadline for topic approval: 23rd of April 2024
+* Deadline: 6th of September 2024
 
 ### Projects' Evaluation criteria
 * Use of git by both - 5pts

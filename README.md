@@ -3,17 +3,26 @@
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) and 
 [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz).
 
+<!--
+* You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
+-->
+
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
+
+## Midterm - April 8
+
+* Here is [preview of instructions](https://drive.google.com/file/d/1tYHj-f1xOO1R7HJqC-LVGTAogMbYGPuR/view?usp=sharing). Please note that no further hints or sample questions will be provided. This line will be updated at the start of the exam. 
+* You are expected to be present in the lecture room during the exam.
+* Read the instructions carefully.
+* Prepare your repo in advance, make sure you know how to commit your solution! Submissions are **only** accepted through the Google form, no other forms (i.e. emails) are allowed!
 <!--
-### Midterm - Nov 21
 * Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
 * You will find marks in SIS under your name, hopefully within a week. 
+-->
 
-
-* You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
-
+<!--
 ## Final project
 * [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8)
 * See full instructions below schedule 
@@ -22,7 +31,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
 
 -->
-
+<!--
 ## FAQ - pre semester
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
@@ -32,7 +41,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
 
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
-
+-->
 
 
 # Schedule

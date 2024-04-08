@@ -13,12 +13,12 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 
 ## Midterm - April 8
 
-* Here is [preview of instructions](https://drive.google.com/file/d/1tYHj-f1xOO1R7HJqC-LVGTAogMbYGPuR/view?usp=sharing). Please note that no further hints or sample questions will be provided. This line will be updated at the start of the exam. 
-* You are expected to be present in the lecture room during the exam.
+* Here are [midterm instructions](https://drive.google.com/file/d/1K1VC0iJbSKGQvcF_9nPOFFrhbpK_l00f/view?usp=sharing). 
 * Read the instructions carefully.
 * Prepare your repo in advance, make sure you know how to commit your solution! Submissions are **only** accepted through the Google form, no other forms (i.e. emails) are allowed!
-<!--
-* Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
+
+
+* Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/wMjSWZQtuWKy3nv47)
 * You will find marks in SIS under your name, hopefully within a week. 
 -->
 

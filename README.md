@@ -10,7 +10,7 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
-
+<!--
 ## Midterm - April 8
 
 * Here are [midterm instructions](https://drive.google.com/file/d/1K1VC0iJbSKGQvcF_9nPOFFrhbpK_l00f/view?usp=sharing). 
@@ -22,15 +22,16 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * You will find marks in SIS under your name, hopefully within a week. 
 -->
 
-<!--
-## Final project
-* [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8)
-* See full instructions below schedule 
 
-## Project - paring
+## Final project
+<!-- * [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8) -->
+### Project - paring
 * If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
 
--->
+* See full instructions below schedule 
+
+
+
 <!--
 ## FAQ - pre semester
 

@@ -77,7 +77,7 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
 
 ## Final project (60%)
 * Students in teams by 2
-* [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8)
+* [Submit you proposal here](past deadline)
 * Deadline for topic approval: 23rd of April 2024
 * Deadline: 6th of September 2024
 

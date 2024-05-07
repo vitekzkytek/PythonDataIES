@@ -66,7 +66,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 | 10 | 23.4. | L | How to code (avoiding spaghetti code) | Martin | Project proposal |
 | 11 | 29.4. | S | Seminar 5: Data science case-study | Alena |  |
 | 11 | 30.4. | L | Databases | Jan | Topic approved |
-| 12 | 7.5. | L | Guest Lecture + Beer after lecture @ https://pivo-klub.cz/ | [Marek Hauzr](https://cz.linkedin.com/in/marek-hauzr-8016077b) |  |
+| 12 | 7.5. | L | [CarmineOptions](https://github.com/CarmineOptions/obese_kittens) + Beer after lecture @ https://pivo-klub.cz/ | [Marek Hauzr](https://cz.linkedin.com/in/marek-hauzr-8016077b) |  |
 | 13 | 12.-16.5. | - | WiP: Project consultations | Alena, Jan & Martin |  |
 | 14 | 20.-23.5. | - | WiP: Project consultations | Alena, Jan & Martin |  |
 

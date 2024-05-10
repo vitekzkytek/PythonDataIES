@@ -25,6 +25,10 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 
 ## Final project
 <!-- * [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8) -->
+
+### WiP consultations
+Please reserve your date and time of the consultation [here](https://docs.google.com/spreadsheets/d/1sXWGVSiTsqQOrbVYSP6sI1zQw7iWL7d_NDJ6TlJzVOE/edit?usp=sharing).
+
 ### Project - paring
 * If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
 
